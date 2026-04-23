@@ -1,0 +1,47 @@
+﻿property_type_id,name_bg,name_en,category
+1,1-СТАЕН,apartment,residential
+2,2-СТАЕН,apartment,residential
+3,3-СТАЕН,apartment,residential
+4,4-СТАЕН,apartment,residential
+5,МНОГОСТАЕН,multi-room apartment,residential
+6,МЕЗОНЕТ,maisonette,residential
+7,"АТЕЛИЕ, ТАВАН",studio/attic,residential
+8,СТАЯ,room,residential
+9,ОФИС,office,commercial
+10,ЗАВЕДЕНИЕ,restaurant/bar,commercial
+11,МАГАЗИН,shop,commercial
+12,ПРОМ. ПОМЕЩЕНИЕ,industrial space,industrial
+13,ЗЕМЕДЕЛСКА ЗЕМЯ,agricultural land,land
+14,ГАРАЖ,garage,parking
+15,ПАРКОМЯСТО,parking space,parking
+16,"ГАРАЖ, ПАРКОМЯСТО",garage/parking,parking
+17,ПАРКИНГ,parking,parking
+18,КЪЩА,house,residential
+19,ЕТАЖ ОТ КЪЩА,house floor,residential
+20,ВИЛА,villa,residential
+21,ПАРЦЕЛ,plot,land
+22,МЯСТО,plot,land
+23,ХОТЕЛ,hotel,commercial
+24,СКЛАД,warehouse,industrial
+25,САМОСТОЯТЕЛНА СГРАДА,standalone building,industrial
+26,ФАБРИКА/ЗАВОД,factory/plant,industrial
+27,ТЪРГОВСКИ КОМПЛЕКС,commercial complex,commercial
+28,ФЕРМА,farm,land
+29,ВИЛНО СЕЛИЩЕ,villa community,residential
+30,СОЛАРЕН ПАРК,solar park,land
+31,АВТОСЕРВИЗ,auto repair shop,commercial
+32,ФРИЗЬОРСКИ/КОЗМЕТИЧЕН САЛОН,hair/beauty salon,commercial
+33,ЛЕКАРСКИ КАБИНЕТ,doctor's office,commercial
+34,БЕНЗИНОСТАНЦИЯ/ГАЗСТАНЦИЯ,fuel/gas station,commercial
+35,ФИТНЕС ЗАЛА,gym,commercial
+36,ДОМ ЗА ВЪЗРАСТНИ ХОРА,care home,commercial
+37,КЛИНИКА,clinic,commercial
+38,СПА/СОЛАРНО СТУДИО,spa/tanning studio,commercial
+39,СТОМАТОЛОГИЧЕН КАБИНЕТ,dental office,commercial
+40,ДЕТСКИ ЦЕНТЪР,children's center,commercial
+41,БАНКОВ ОФИС,bank office,commercial
+42,АВТОМИВКА,car wash,commercial
+43,АПТЕКА,pharmacy,commercial
+44,ХЛАДИЛЕН СКЛАД,cold storage,industrial
+45,АКВАПАРК,water park,commercial
+46,ФОТОГРАФСКО СТУДИО,photography studio,commercial

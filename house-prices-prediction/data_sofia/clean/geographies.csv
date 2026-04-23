@@ -1,0 +1,4254 @@
+﻿geo_id,parent_id,level,name_bg,name_en,locality_type
+1,,region,Благоевград,Blagoevgrad,city
+2,,region,Бургас,Burgas,city
+3,,region,Варна,Varna,city
+4,,region,Велико Търново,Veliko Tarnovo,city
+5,,region,Видин,Vidin,city
+6,,region,Враца,Vratsa,city
+7,,region,Габрово,Gabrovo,city
+8,,region,Добрич,Dobrich,city
+9,,region,Кърджали,Kardzhali,city
+10,,region,Кюстендил,Kyustendil,city
+11,,region,Ловеч,Lovech,city
+12,,region,Монтана,Montana,city
+13,,region,Пазарджик,Pazardzhik,city
+14,,region,Перник,Pernik,city
+15,,region,Плевен,Pleven,city
+16,,region,Пловдив,Plovdiv,city
+17,,region,Разград,Razgrad,city
+18,,region,Русе,Ruse,city
+19,,region,Силистра,Silistra,city
+20,,region,Сливен,Sliven,city
+21,,region,Смолян,Smolyan,city
+22,,region,София,Sofiya,city
+23,,region,Стара Загора,Stara Zagora,city
+24,,region,Търговище,Targovishte,city
+25,,region,Хасково,Haskovo,city
+26,,region,Шумен,Shumen,city
+27,,region,Ямбол,Yambol,city
+28,1,locality,Абланица,Ablanitsa,village
+29,1,locality,Аврамово,Avramovo,village
+30,1,locality,Балдево,Baldevo,village
+31,1,locality,Банско,Bansko,city
+32,1,locality,Баня,Banya,village
+33,1,locality,Бачево,Bachevo,village
+34,1,locality,Беласица,Belasitsa,village
+35,1,locality,Белица,Belitsa,city
+36,1,locality,Бело поле,Belo pole,village
+37,1,locality,Бистрица,Bistritsa,village
+38,1,locality,Благоевград,Blagoevgrad,city
+39,1,locality,Боровичене,Borovichene,village
+40,1,locality,Борово,Borovo,village
+41,1,locality,Брежани,Brezhani,village
+42,1,locality,Бучино,Buchino,village
+43,1,locality,Българчево,Balgarchevo,village
+44,1,locality,Виногради,Vinogradi,village
+45,1,locality,Влахи,Vlahi,village
+46,1,locality,Враня,Vranya,village
+47,1,locality,Гайтаниново,Gaytaninovo,village
+48,1,locality,Гега,Gega,village
+49,1,locality,Годлево,Godlevo,village
+50,1,locality,Горна Брезница,Gorna Breznitsa,village
+51,1,locality,Горна Крушица,Gorna Krushitsa,village
+52,1,locality,Горно Драглище,Gorno Draglishte,village
+53,1,locality,Горно Спанчево,Gorno Spanchevo,village
+54,1,locality,Горно Хърсово,Gorno Harsovo,village
+55,1,locality,Гостун,Gostun,village
+56,1,locality,Гоце Делчев,Gotse Delchev,city
+57,1,locality,Градево,Gradevo,village
+58,1,locality,Гърмен,Garmen,village
+59,1,locality,Дамяница,Damyanitsa,village
+60,1,locality,Дебрен,Debren,village
+61,1,locality,Дебрене,Debrene,village
+62,1,locality,Делвино,Delvino,village
+63,1,locality,Делчево,Delchevo,village
+64,1,locality,Джигурово,Dzhigurovo,village
+65,1,locality,Добринище,Dobrinishte,city
+66,1,locality,Добърско,Dobarsko,village
+67,1,locality,Долен,Dolen,village
+68,1,locality,Долна Градешница,Dolna Gradeshnitsa,village
+69,1,locality,Долно Драглище,Dolno Draglishte,village
+70,1,locality,Долно Спанчево,Dolno Spanchevo,village
+71,1,locality,Дренково,Drenkovo,village
+72,1,locality,Дъбница,Dabnitsa,village
+73,1,locality,Дъбрава,Dabrava,village
+74,1,locality,Еленово,Elenovo,village
+75,1,locality,Елешница,Eleshnitsa,village
+76,1,locality,Зелендол,Zelendol,village
+77,1,locality,Златолист,Zlatolist,village
+78,1,locality,Зорница,Zornitsa,village
+79,1,locality,Изгрев,Izgrev,village
+80,1,locality,Илинден,Ilinden,village
+81,1,locality,Илинденци,Ilindentsi,village
+82,1,locality,Кавракирово,Kavrakirovo,village
+83,1,locality,Каменица,Kamenitsa,village
+84,1,locality,Капатово,Kapatovo,village
+85,1,locality,Катунци,Katuntsi,village
+86,1,locality,Ключ,Klyuch,village
+87,1,locality,Ковачевица,Kovachevitsa,village
+88,1,locality,Коларово,Kolarovo,village
+89,1,locality,Копривлен,Koprivlen,village
+90,1,locality,Корница,Kornitsa,village
+91,1,locality,Кремен,Kremen,village
+92,1,locality,Кресна,Kresna,city
+93,1,locality,Крупник,Krupnik,village
+94,1,locality,Крушево,Krushevo,village
+95,1,locality,Кулата,Kulata,village
+96,1,locality,Кърналово,Karnalovo,village
+97,1,locality,Ласкарево,Laskarevo,village
+98,1,locality,Левуново,Levunovo,village
+99,1,locality,Лешница,Leshnitsa,village
+100,1,locality,Лещен,Leshten,village
+101,1,locality,Лиляново,Lilyanovo,village
+102,1,locality,Логодаж,Logodazh,village
+103,1,locality,Лозеница,Lozenitsa,village
+104,1,locality,Лъжница,Lazhnitsa,village
+105,1,locality,Любовище,Lyubovishte,village
+106,1,locality,Малки Цалим,Malki Tsalim,village
+107,1,locality,Марикостиново,Marikostinovo,village
+108,1,locality,Марчево,Marchevo,village
+109,1,locality,Мелник,Melnik,city
+110,1,locality,Места,Mesta,village
+111,1,locality,Микрево,Mikrevo,village
+112,1,locality,Михнево,Mihnevo,village
+113,1,locality,Мощанец,Moshtanets,village
+114,1,locality,Мусомища,Musomishta,village
+115,1,locality,Ново Кономлади,Novo Konomladi,village
+116,1,locality,Ново Лески,Novo Leski,village
+117,1,locality,Обидим,Obidim,village
+118,1,locality,Огняново,Ognyanovo,village
+119,1,locality,Ощава,Oshtava,village
+120,1,locality,Падеш,Padesh,village
+121,1,locality,Петрелик,Petrelik,village
+122,1,locality,Петрич,Petrich,city
+123,1,locality,Плоски,Ploski,village
+124,1,locality,Покровник,Pokrovnik,village
+125,1,locality,Поленица,Polenitsa,village
+126,1,locality,Полето,Poleto,village
+127,1,locality,Първомай,Parvomay,village
+128,1,locality,Разлог,Razlog,city
+129,1,locality,Ракитна,Rakitna,village
+130,1,locality,Рилци,Riltsi,village
+131,1,locality,Рожен,Rozhen,village
+132,1,locality,Рупите,Rupite,village
+133,1,locality,Садово,Sadovo,village
+134,1,locality,Самуилово,Samuilovo,village
+135,1,locality,Сандански,Sandanski,city
+136,1,locality,Сатовча,Satovcha,village
+137,1,locality,Селище,Selishte,village
+138,1,locality,Симитли,Simitli,city
+139,1,locality,Склаве,Sklave,village
+140,1,locality,Скребатно,Skrebatno,village
+141,1,locality,Скрът,Skrat,village
+142,1,locality,Сливница,Slivnitsa,village
+143,1,locality,Старчево,Starchevo,village
+144,1,locality,Струмяни,Strumyani,village
+145,1,locality,Тешово,Teshovo,village
+146,1,locality,Тополница,Topolnitsa,village
+147,1,locality,Хаджидимово,Hadzhidimovo,city
+148,1,locality,Хотово,Hotovo,village
+149,1,locality,Хърсово,Harsovo,village
+150,1,locality,Цапарево,Tsaparevo,village
+151,1,locality,Черешница,Chereshnitsa,village
+152,1,locality,Черниче,Cherniche,village
+153,1,locality,Чучулигово,Chuchuligovo,village
+154,1,locality,Якоруда,Yakoruda,city
+155,1,locality,път Е79,pat E79,main_road
+156,2,locality,Айтос,Aytos,city
+157,2,locality,Александрово,Aleksandrovo,village
+158,2,locality,Аспарухово,Asparuhovo,village
+159,2,locality,Атия,Atiya,village
+160,2,locality,Ахелой,Aheloy,city
+161,2,locality,Ахтопол,Ahtopol,city
+162,2,locality,Балабанчево,Balabanchevo,village
+163,2,locality,Баня,Banya,village
+164,2,locality,Бата,Bata,village
+165,2,locality,Белеврен,Belevren,village
+166,2,locality,Белила,Belila,village
+167,2,locality,Бероново,Beronovo,village
+168,2,locality,Бистрец,Bistrets,village
+169,2,locality,Близнак,Bliznak,village
+170,2,locality,Босилково,Bosilkovo,village
+171,2,locality,Братово,Bratovo,village
+172,2,locality,Бродилово,Brodilovo,village
+173,2,locality,Бръшлян,Brashlyan,village
+174,2,locality,Брястовец,Bryastovets,village
+175,2,locality,Бургас,Burgas,city
+176,2,locality,Българи,Balgari,village
+177,2,locality,Българово,Balgarovo,city
+178,2,locality,Варвара,Varvara,village
+179,2,locality,Варовник,Varovnik,village
+180,2,locality,Ведрово,Vedrovo,village
+181,2,locality,Велика,Velika,village
+182,2,locality,Венец,Venets,village
+183,2,locality,Веселие,Veselie,village
+184,2,locality,Визица,Vizitsa,village
+185,2,locality,Винарско,Vinarsko,village
+186,2,locality,Вратица,Vratitsa,village
+187,2,locality,Вресово,Vresovo,village
+188,2,locality,Вълчин,Valchin,village
+189,2,locality,Вършило,Varshilo,village
+190,2,locality,Габерово,Gaberovo,village
+191,2,locality,Габър,Gabar,village
+192,2,locality,Глумче,Glumche,village
+193,2,locality,Голямо Буково,Golyamo Bukovo,village
+194,2,locality,Горица,Goritsa,village
+195,2,locality,Горово,Gorovo,village
+196,2,locality,Граматиково,Gramatikovo,village
+197,2,locality,Гранитец,Granitets,village
+198,2,locality,Граничар,Granichar,village
+199,2,locality,Грозден,Grozden,village
+200,2,locality,Гълъбец,Galabets,village
+201,2,locality,Гюльовца,Gyulyovtsa,village
+202,2,locality,Дебелт,Debelt,village
+203,2,locality,Деветак,Devetak,village
+204,2,locality,Деветинци,Devetintsi,village
+205,2,locality,Димчево,Dimchevo,village
+206,2,locality,Добриново,Dobrinovo,village
+207,2,locality,Долно Ябълково,Dolno Yabalkovo,village
+208,2,locality,Драганово,Draganovo,village
+209,2,locality,Драганци,Dragantsi,village
+210,2,locality,Драка,Draka,village
+211,2,locality,Драчево,Drachevo,village
+212,2,locality,Дрянковец,Dryankovets,village
+213,2,locality,Дъбник,Dabnik,village
+214,2,locality,Дъбовица,Dabovitsa,village
+215,2,locality,Дъскотна,Daskotna,village
+216,2,locality,Дюлево,Dyulevo,village
+217,2,locality,Дюни,Dyuni,resort_complex
+218,2,locality,Екзарх Антимово,Ekzarh Antimovo,village
+219,2,locality,Елените,Elenite,resort_complex
+220,2,locality,Емона,Emona,village
+221,2,locality,Есен,Esen,village
+222,2,locality,Железник,Zheleznik,village
+223,2,locality,Желязово,Zhelyazovo,village
+224,2,locality,Житосвят,Zhitosvyat,village
+225,2,locality,Заберново,Zabernovo,village
+226,2,locality,Завет,Zavet,village
+227,2,locality,Загорци,Zagortsi,village
+228,2,locality,Звездец,Zvezdets,village
+229,2,locality,Зетьово,Zetyovo,village
+230,2,locality,Зидарово,Zidarovo,village
+231,2,locality,Зимен,Zimen,village
+232,2,locality,Зорница,Zornitsa,village
+233,2,locality,Извор,Izvor,village
+234,2,locality,Изворище,Izvorishte,village
+235,2,locality,Изгрев,Izgrev,village
+236,2,locality,Индже войвода,Indzhe voyvoda,village
+237,2,locality,Искра,Iskra,village
+238,2,locality,Каблешково,Kableshkovo,city
+239,2,locality,Каменар,Kamenar,village
+240,2,locality,Камено,Kameno,city
+241,2,locality,Камчия,Kamchiya,village
+242,2,locality,Карагеоргиево,Karageorgievo,village
+243,2,locality,Караново,Karanovo,village
+244,2,locality,Карнобат,Karnobat,city
+245,2,locality,Кирово,Kirovo,village
+246,2,locality,Китен,Kiten,city
+247,2,locality,Китка,Kitka,village
+248,2,locality,Кликач,Klikach,village
+249,2,locality,Климаш,Klimash,village
+250,2,locality,Козаре,Kozare,village
+251,2,locality,Козичино,Kozichino,village
+252,2,locality,Козница,Koznitsa,village
+253,2,locality,Кондолово,Kondolovo,village
+254,2,locality,Константиново,Konstantinovo,village
+255,2,locality,Кости,Kosti,village
+256,2,locality,Кошарица,Kosharitsa,village
+257,2,locality,Крумово градище,Krumovo gradishte,village
+258,2,locality,Крушевец,Krushevets,village
+259,2,locality,Крушово,Krushovo,village
+260,2,locality,Кръстина,Krastina,village
+261,2,locality,Кубадин,Kubadin,village
+262,2,locality,Ливада,Livada,village
+263,2,locality,Лозарево,Lozarevo,village
+264,2,locality,Лозенец,Lozenets,village
+265,2,locality,Лъка,Laka,village
+266,2,locality,Люляково,Lyulyakovo,village
+267,2,locality,Лясково,Lyaskovo,village
+268,2,locality,Малина,Malina,village
+269,2,locality,Малка поляна,Malka polyana,village
+270,2,locality,Малко Търново,Malko Tarnovo,city
+271,2,locality,Манолич,Manolich,village
+272,2,locality,Маринка,Marinka,village
+273,2,locality,Медово,Medovo,village
+274,2,locality,Миролюбово,Mirolyubovo,village
+275,2,locality,Младежко,Mladezhko,village
+276,2,locality,Момина църква,Momina tsarkva,village
+277,2,locality,Мрежичко,Mrezhichko,village
+278,2,locality,Мъглен,Maglen,village
+279,2,locality,Невестино,Nevestino,village
+280,2,locality,Несебър,Nesebar,city
+281,2,locality,Ново Паничарево,Novo Panicharevo,village
+282,2,locality,Обзор,Obzor,city
+283,2,locality,Огнен,Ognen,village
+284,2,locality,Оризаре,Orizare,village
+285,2,locality,Орлинци,Orlintsi,village
+286,2,locality,Паницово,Panitsovo,village
+287,2,locality,Пещерско,Peshtersko,village
+288,2,locality,Пирне,Pirne,village
+289,2,locality,Писменово,Pismenovo,village
+290,2,locality,Планиница,Planinitsa,village
+291,2,locality,Подвис,Podvis,village
+292,2,locality,Полски извор,Polski izvor,village
+293,2,locality,Поморие,Pomorie,city
+294,2,locality,Порой,Poroy,village
+295,2,locality,Преображенци,Preobrazhentsi,village
+296,2,locality,Прилеп,Prilep,village
+297,2,locality,Приморско,Primorsko,city
+298,2,locality,Присад,Prisad,village
+299,2,locality,Приселци,Priseltsi,village
+300,2,locality,Просеник,Prosenik,village
+301,2,locality,Проход,Prohod,village
+302,2,locality,Пънчево,Panchevo,village
+303,2,locality,Равадиново,Ravadinovo,village
+304,2,locality,Равда,Ravda,village
+305,2,locality,Равна гора,Ravna gora,village
+306,2,locality,Равнец,Ravnets,village
+307,2,locality,Радойново,Radoynovo,village
+308,2,locality,Разбойна,Razboyna,village
+309,2,locality,Раклица,Raklitsa,village
+310,2,locality,Раковсково,Rakovskovo,village
+311,2,locality,Резово,Rezovo,village
+312,2,locality,Росен,Rosen,village
+313,2,locality,Росеново,Rosenovo,village
+314,2,locality,Рудник,Rudnik,village
+315,2,locality,Руен,Ruen,village
+316,2,locality,Русокастро,Rusokastro,village
+317,2,locality,Ръжица,Razhitsa,village
+318,2,locality,Садово,Sadovo,village
+319,2,locality,Сан-Стефано,San-Stefano,village
+320,2,locality,Свети Влас,Sveti Vlas,city
+321,2,locality,Светлина,Svetlina,village
+322,2,locality,Свобода,Svoboda,village
+323,2,locality,Сигмен,Sigmen,village
+324,2,locality,Синеморец,Sinemorets,village
+325,2,locality,Синьо камене,Sinyo kamene,village
+326,2,locality,Скала,Skala,village
+327,2,locality,Скалак,Skalak,village
+328,2,locality,Славянци,Slavyantsi,village
+329,2,locality,Слънчев бряг,Slanchev bryag,resort_complex
+330,2,locality,Смолник,Smolnik,village
+331,2,locality,Созопол,Sozopol,city
+332,2,locality,Соколово,Sokolovo,village
+333,2,locality,Средец,Sredets,city
+334,2,locality,Стоилово,Stoilovo,village
+335,2,locality,Страцин,Stratsin,village
+336,2,locality,Сунгурларе,Sungurlare,city
+337,2,locality,Суходол,Suhodol,village
+338,2,locality,Съдиево,Sadievo,village
+339,2,locality,Съединение,Saedinenie,village
+340,2,locality,Сърнево,Sarnevo,village
+341,2,locality,Твърдица,Tvarditsa,village
+342,2,locality,Терзийско,Terziysko,village
+343,2,locality,Тополица,Topolitsa,village
+344,2,locality,Тракия,Trakiya,highway
+345,2,locality,Трояново,Troyanovo,village
+346,2,locality,Трънак,Tranak,village
+347,2,locality,Тръстиково,Trastikovo,village
+348,2,locality,Тънково,Tankovo,village
+349,2,locality,Фазаново,Fazanovo,village
+350,2,locality,Факия,Fakiya,village
+351,2,locality,Хаджиите,Hadzhiite,village
+352,2,locality,Царево,Tsarevo,city
+353,2,locality,Череша,Cheresha,village
+354,2,locality,Черково,Cherkovo,village
+355,2,locality,Черни връх,Cherni vrah,village
+356,2,locality,Черница,Chernitsa,village
+357,2,locality,Черноград,Chernograd,village
+358,2,locality,Черноморец,Chernomorets,city
+359,2,locality,Чубра,Chubra,village
+360,2,locality,Шиварово,Shivarovo,village
+361,2,locality,Ябълчево,Yabalchevo,village
+362,2,locality,Ясна поляна,Yasna polyana,village
+363,3,locality,Аврен,Avren,village
+364,3,locality,Аксаково,Aksakovo,city
+365,3,locality,Арковна,Arkovna,village
+366,3,locality,Аспарухово,Asparuhovo,village
+367,3,locality,Баново,Banovo,village
+368,3,locality,Белоградец,Belogradets,village
+369,3,locality,Белослав,Beloslav,city
+370,3,locality,Бенковски,Benkovski,village
+371,3,locality,Близнаци,Bliznatsi,village
+372,3,locality,Блъсково,Blaskovo,village
+373,3,locality,Бозвелийско,Bozveliysko,village
+374,3,locality,Болярци,Bolyartsi,village
+375,3,locality,Боряна,Boryana,village
+376,3,locality,Ботево,Botevo,village
+377,3,locality,Бояна,Boyana,village
+378,3,locality,Брестак,Brestak,village
+379,3,locality,Бърдарево,Bardarevo,village
+380,3,locality,Бързица,Barzitsa,village
+381,3,locality,Бяла,Byala,city
+382,3,locality,Варна,Varna,city
+383,3,locality,Величково,Velichkovo,village
+384,3,locality,Венелин,Venelin,village
+385,3,locality,Венчан,Venchan,village
+386,3,locality,Ветрино,Vetrino,village
+387,3,locality,Водица,Voditsa,village
+388,3,locality,Войводино,Voyvodino,village
+389,3,locality,Въглен,Vaglen,village
+390,3,locality,Вълчи дол,Valchi dol,city
+391,3,locality,Габърница,Gabarnitsa,village
+392,3,locality,Генерал Кантарджиево,General Kantardzhievo,village
+393,3,locality,Генерал Киселово,General Kiselovo,village
+394,3,locality,Генерал Колево,General Kolevo,village
+395,3,locality,Голица,Golitsa,village
+396,3,locality,Горен чифлик,Goren chiflik,village
+397,3,locality,Горица,Goritsa,village
+398,3,locality,Господиново,Gospodinovo,village
+399,3,locality,Градинарово,Gradinarovo,village
+400,3,locality,Гроздьово,Grozdyovo,village
+401,3,locality,Дебелец,Debelets,village
+402,3,locality,Девня,Devnya,city
+403,3,locality,Детелина,Detelina,village
+404,3,locality,Добрева чешма,Dobreva cheshma,area
+405,3,locality,Добри дол,Dobri dol,village
+406,3,locality,Добрина,Dobrina,village
+407,3,locality,Доброглед,Dobrogled,village
+408,3,locality,Доброплодно,Dobroplodno,village
+409,3,locality,Добротич,Dobrotich,village
+410,3,locality,Долище,Dolishte,village
+411,3,locality,Долни чифлик,Dolni chiflik,city
+412,3,locality,Дъбравино,Dabravino,village
+413,3,locality,Дългопол,Dalgopol,city
+414,3,locality,Дюлино,Dyulino,village
+415,3,locality,Езерово,Ezerovo,village
+416,3,locality,Есеница,Esenitsa,village
+417,3,locality,Житница,Zhitnitsa,village
+418,3,locality,Засмяно,Zasmyano,village
+419,3,locality,Звездица,Zvezditsa,village
+420,3,locality,Звънец,Zvanets,village
+421,3,locality,Здравец,Zdravets,village
+422,3,locality,Златина,Zlatina,village
+423,3,locality,Зорница,Zornitsa,village
+424,3,locality,Игнатиево,Ignatievo,city
+425,3,locality,Изворско,Izvorsko,village
+426,3,locality,Изгрев,Izgrev,village
+427,3,locality,Искър,Iskar,village
+428,3,locality,Казашка река,Kazashka reka,village
+429,3,locality,Казашко,Kazashko,village
+430,3,locality,Калиманци,Kalimantsi,village
+431,3,locality,Камен дял,Kamen dyal,village
+432,3,locality,Каменар,Kamenar,village
+433,3,locality,Камчия,Kamchiya,resort_complex
+434,3,locality,Караманите,Karamanite,village
+435,3,locality,Кипра,Kipra,village
+436,3,locality,Китен,Kiten,village
+437,3,locality,Китка,Kitka,village
+438,3,locality,Кичево,Kichevo,village
+439,3,locality,Климентово,Klimentovo,village
+440,3,locality,Комарево,Komarevo,village
+441,3,locality,Комунари,Komunari,village
+442,3,locality,Константиново,Konstantinovo,village
+443,3,locality,Красимир,Krasimir,village
+444,3,locality,Кривини,Krivini,village
+445,3,locality,Кривня,Krivnya,village
+446,3,locality,Крумово,Krumovo,village
+447,3,locality,Круша,Krusha,village
+448,3,locality,Куманово,Kumanovo,village
+449,3,locality,Левски,Levski,village
+450,3,locality,Любен Каравелово,Lyuben Karavelovo,village
+451,3,locality,Манастир,Manastir,village
+452,3,locality,Метличина,Metlichina,village
+453,3,locality,Михалич,Mihalich,village
+454,3,locality,Млада гвардия,Mlada gvardiya,village
+455,3,locality,Момчилово,Momchilovo,village
+456,3,locality,Невша,Nevsha,village
+457,3,locality,Неново,Nenovo,village
+458,3,locality,Неофит Рилски,Neofit Rilski,village
+459,3,locality,Николаевка,Nikolaevka,village
+460,3,locality,Нова Шипка,Nova Shipka,village
+461,3,locality,Новаково,Novakovo,village
+462,3,locality,Ново Оряхово,Novo Oryahovo,village
+463,3,locality,Оборище,Oborishte,village
+464,3,locality,Овчага,Ovchaga,village
+465,3,locality,Орешак,Oreshak,village
+466,3,locality,Осеново,Osenovo,village
+467,3,locality,Падина,Padina,village
+468,3,locality,Партизани,Partizani,village
+469,3,locality,Перчемлията,Perchemliyata,area
+470,3,locality,Петров дол,Petrov dol,village
+471,3,locality,Попович,Popovich,village
+472,3,locality,Припек,Pripek,village
+473,3,locality,Приселци,Priseltsi,village
+474,3,locality,Провадия,Provadiya,city
+475,3,locality,Просечен,Prosechen,village
+476,3,locality,Пчелник,Pchelnik,village
+477,3,locality,Равна,Ravna,village
+478,3,locality,Равна гора,Ravna gora,village
+479,3,locality,Радан войвода,Radan voyvoda,village
+480,3,locality,Радево,Radevo,village
+481,3,locality,Разделна,Razdelna,village
+482,3,locality,Рудник,Rudnik,village
+483,3,locality,Сава,Sava,village
+484,3,locality,Садово,Sadovo,village
+485,3,locality,Самотино,Samotino,village
+486,3,locality,Синдел,Sindel,village
+487,3,locality,Сладка вода,Sladka voda,village
+488,3,locality,Слънчево,Slanchevo,village
+489,3,locality,Снежина,Snezhina,village
+490,3,locality,Солник,Solnik,village
+491,3,locality,Средно село,Sredno selo,village
+492,3,locality,Старо Оряхово,Staro Oryahovo,village
+493,3,locality,Староселец,Staroselets,village
+494,3,locality,Стефан Караджа,Stefan Karadzha,village
+495,3,locality,Страхил,Strahil,village
+496,3,locality,Страшимирово,Strashimirovo,village
+497,3,locality,Суворово,Suvorovo,city
+498,3,locality,Тополи,Topoli,village
+499,3,locality,Тръстиково,Trastikovo,village
+500,3,locality,Тутраканци,Tutrakantsi,village
+501,3,locality,Храброво,Hrabrovo,village
+502,3,locality,Царевци,Tsarevtsi,village
+503,3,locality,Цонево,Tsonevo,village
+504,3,locality,Чайка,Chayka,village
+505,3,locality,Червенци,Cherventsi,village
+506,3,locality,Черковна,Cherkovna,village
+507,3,locality,Чернево,Chernevo,village
+508,3,locality,Шкорпиловци,Shkorpilovtsi,village
+509,3,locality,Щипско,Shtipsko,village
+510,3,locality,Юнак,Yunak,village
+511,3,locality,Юнец,Yunets,village
+512,3,locality,Ягнило,Yagnilo,village
+513,3,locality,Яребична,Yarebichna,village
+514,4,locality,Ал. Стамболийски,Al. Stamboliyski,reservoir
+515,4,locality,Алеково,Alekovo,village
+516,4,locality,Александрово,Aleksandrovo,village
+517,4,locality,Арбанаси,Arbanasi,village
+518,4,locality,Асеново,Asenovo,village
+519,4,locality,Бадевци,Badevtsi,village
+520,4,locality,Баевци,Baevtsi,village
+521,4,locality,Балван,Balvan,village
+522,4,locality,Балканци,Balkantsi,village
+523,4,locality,Балуци,Balutsi,village
+524,4,locality,Батак,Batak,village
+525,4,locality,Беброво,Bebrovo,village
+526,4,locality,Бейковци,Beykovtsi,village
+527,4,locality,Беляковец,Belyakovets,village
+528,4,locality,Благоево,Blagoevo,village
+529,4,locality,Блъсковци,Blaskovtsi,village
+530,4,locality,Бойковци,Boykovtsi,village
+531,4,locality,Бранковци,Brankovtsi,village
+532,4,locality,Бръчковци,Brachkovtsi,village
+533,4,locality,Буйновци,Buynovtsi,village
+534,4,locality,Буковец,Bukovets,village
+535,4,locality,Бутово,Butovo,village
+536,4,locality,Българско Сливово,Balgarsko Slivovo,village
+537,4,locality,Бяла река,Byala reka,village
+538,4,locality,Бяла черква,Byala cherkva,city
+539,4,locality,Бялковци,Byalkovtsi,village
+540,4,locality,Вардим,Vardim,village
+541,4,locality,Велико Търново,Veliko Tarnovo,city
+542,4,locality,Велковци,Velkovtsi,village
+543,4,locality,Велчево,Velchevo,village
+544,4,locality,Ветринци,Vetrintsi,village
+545,4,locality,Виноград,Vinograd,village
+546,4,locality,Вишовград,Vishovgrad,village
+547,4,locality,Владислав,Vladislav,village
+548,4,locality,Водолей,Vodoley,village
+549,4,locality,Войнежа,Voynezha,village
+550,4,locality,Вонеща вода,Voneshta voda,village
+551,4,locality,Въглевци,Vaglevtsi,village
+552,4,locality,Вълчовци,Valchovtsi,village
+553,4,locality,Върбица,Varbitsa,village
+554,4,locality,Върбовка,Varbovka,village
+555,4,locality,Вързилковци,Varzilkovtsi,village
+556,4,locality,Вързулица,Varzulitsa,village
+557,4,locality,Габровци,Gabrovtsi,village
+558,4,locality,Големани,Golemani,village
+559,4,locality,Големаните,Golemanite,village
+560,4,locality,Горна Липница,Gorna Lipnitsa,village
+561,4,locality,Горна Оряховица,Gorna Oryahovitsa,city
+562,4,locality,Горна Студена,Gorna Studena,village
+563,4,locality,Горски Сеновец,Gorski Senovets,village
+564,4,locality,Горски горен Тръмбеш,Gorski goren Trambesh,village
+565,4,locality,Горски долен Тръмбеш,Gorski dolen Trambesh,village
+566,4,locality,Горско Калугерово,Gorsko Kalugerovo,village
+567,4,locality,Горско Косово,Gorsko Kosovo,village
+568,4,locality,Горско ново село,Gorsko novo selo,village
+569,4,locality,Градина,Gradina,village
+570,4,locality,Граматици,Gramatitsi,village
+571,4,locality,Дебелец,Debelets,city
+572,4,locality,Деветаците,Devetatsite,village
+573,4,locality,Дедина,Dedina,village
+574,4,locality,Дединци,Dedintsi,village
+575,4,locality,Джулюница,Dzhulyunitsa,village
+576,4,locality,Димча,Dimcha,village
+577,4,locality,Дичин,Dichin,village
+578,4,locality,Добри дял,Dobri dyal,village
+579,4,locality,Долна Липница,Dolna Lipnitsa,village
+580,4,locality,Долна Оряховица,Dolna Oryahovitsa,city
+581,4,locality,Долни Марян,Dolni Maryan,village
+582,4,locality,Долно Шивачево,Dolno Shivachevo,village
+583,4,locality,Донковци,Donkovtsi,village
+584,4,locality,Драганово,Draganovo,village
+585,4,locality,Драгижево,Dragizhevo,village
+586,4,locality,Драгневци,Dragnevtsi,village
+587,4,locality,Драгомирово,Dragomirovo,village
+588,4,locality,Дрента,Drenta,village
+589,4,locality,Дърлевци,Darlevtsi,village
+590,4,locality,Дъскот,Daskot,village
+591,4,locality,Елена,Elena,city
+592,4,locality,Емен,Emen,village
+593,4,locality,Златарица,Zlataritsa,city
+594,4,locality,Иванча,Ivancha,village
+595,4,locality,Игнатовци,Ignatovtsi,village
+596,4,locality,Илаков рът,Ilakov rat,village
+597,4,locality,Кавлак,Kavlak,village
+598,4,locality,Калайджии,Kalaydzhii,village
+599,4,locality,Камен,Kamen,village
+600,4,locality,Каменари,Kamenari,village
+601,4,locality,Караисен,Karaisen,village
+602,4,locality,Каранци,Karantsi,village
+603,4,locality,Кесарево,Kesarevo,village
+604,4,locality,Килифарево,Kilifarevo,city
+605,4,locality,Климентово,Klimentovo,village
+606,4,locality,Коевци,Koevtsi,village
+607,4,locality,Козаревец,Kozarevets,village
+608,4,locality,Козловец,Kozlovets,village
+609,4,locality,Константин,Konstantin,village
+610,4,locality,Костел,Kostel,village
+611,4,locality,Красно градище,Krasno gradishte,village
+612,4,locality,Крушето,Krusheto,village
+613,4,locality,Куцина,Kutsina,village
+614,4,locality,Къпиново,Kapinovo,village
+615,4,locality,Лагерите,Lagerite,village
+616,4,locality,Лазарци,Lazartsi,village
+617,4,locality,Леденик,Ledenik,village
+618,4,locality,Лесичери,Lesicheri,village
+619,4,locality,Лозен,Lozen,village
+620,4,locality,Любенци,Lyubentsi,village
+621,4,locality,Лясковец,Lyaskovets,city
+622,4,locality,Малки чифлик,Malki chiflik,village
+623,4,locality,Марян,Maryan,village
+624,4,locality,Масларево,Maslarevo,village
+625,4,locality,Мерданя,Merdanya,village
+626,4,locality,Мийковци,Miykovtsi,village
+627,4,locality,Миндя,Mindya,village
+628,4,locality,Мирово,Mirovo,village
+629,4,locality,Михалци,Mihaltsi,village
+630,4,locality,Мишеморков хан,Mishemorkov han,village
+631,4,locality,Момин сбор,Momin sbor,village
+632,4,locality,Морава,Morava,village
+633,4,locality,Мусина,Musina,village
+634,4,locality,Нацовци,Natsovtsi,village
+635,4,locality,Недан,Nedan,village
+636,4,locality,Николаево,Nikolaevo,village
+637,4,locality,Никюп,Nikyup,village
+638,4,locality,Нова Върбовка,Nova Varbovka,village
+639,4,locality,Ново градище,Novo gradishte,village
+640,4,locality,Ново село,Novo selo,village
+641,4,locality,Обединение,Obedinenie,village
+642,4,locality,Овча могила,Ovcha mogila,village
+643,4,locality,Ореш,Oresh,village
+644,4,locality,Орловец,Orlovets,village
+645,4,locality,Осенарите,Osenarite,village
+646,4,locality,Павел,Pavel,village
+647,4,locality,Павликени,Pavlikeni,city
+648,4,locality,Паисий,Paisiy,village
+649,4,locality,Палици,Palitsi,village
+650,4,locality,Папратлива,Papratliva,village
+651,4,locality,Паскалевец,Paskalevets,village
+652,4,locality,Патреш,Patresh,village
+653,4,locality,Петко Каравелово,Petko Karavelovo,village
+654,4,locality,Петковци,Petkovtsi,village
+655,4,locality,Писарево,Pisarevo,village
+656,4,locality,Плаково,Plakovo,village
+657,4,locality,Поликраище,Polikraishte,village
+658,4,locality,Полски Сеновец,Polski Senovets,village
+659,4,locality,Полски Тръмбеш,Polski Trambesh,city
+660,4,locality,Попрусевци,Poprusevtsi,village
+661,4,locality,Правда,Pravda,village
+662,4,locality,Присово,Prisovo,village
+663,4,locality,Пушево,Pushevo,village
+664,4,locality,Пчелище,Pchelishte,village
+665,4,locality,Първомайци,Parvomaytsi,village
+666,4,locality,Равново,Ravnovo,village
+667,4,locality,Раданово,Radanovo,village
+668,4,locality,Радковци,Radkovtsi,village
+669,4,locality,Радовци,Radovtsi,village
+670,4,locality,Разсоха,Razsoha,village
+671,4,locality,Райковци,Raykovtsi,village
+672,4,locality,Райновци,Raynovtsi,village
+673,4,locality,Ресен,Resen,village
+674,4,locality,Родина,Rodina,village
+675,4,locality,Росица,Rositsa,village
+676,4,locality,Росно,Rosno,village
+677,4,locality,Русаля,Rusalya,village
+678,4,locality,Руховци,Ruhovtsi,village
+679,4,locality,Самоводене,Samovodene,village
+680,4,locality,Свищов,Svishtov,city
+681,4,locality,Сливовица,Slivovitsa,village
+682,4,locality,Сломер,Slomer,village
+683,4,locality,Средни колиби,Sredni kolibi,village
+684,4,locality,Стамболово,Stambolovo,village
+685,4,locality,Стражица,Strazhitsa,city
+686,4,locality,Страхилово,Strahilovo,village
+687,4,locality,Стрелец,Strelets,village
+688,4,locality,Сухиндол,Suhindol,city
+689,4,locality,Сушица,Sushitsa,village
+690,4,locality,Теменуга,Temenuga,village
+691,4,locality,Титевци,Titevtsi,village
+692,4,locality,Тодювци,Todyuvtsi,village
+693,4,locality,Търкашени,Tarkasheni,village
+694,4,locality,Хаджидимитрово,Hadzhidimitrovo,village
+695,4,locality,Харваловци,Harvalovtsi,village
+696,4,locality,Хотница,Hotnitsa,village
+697,4,locality,Хъневци,Hanevtsi,village
+698,4,locality,Царевец,Tsarevets,village
+699,4,locality,Царски извор,Tsarski izvor,village
+700,4,locality,Церова кория,Tserova koriya,village
+701,4,locality,Чакали,Chakali,village
+702,4,locality,Червена,Chervena,village
+703,4,locality,Черни дял,Cherni dyal,village
+704,4,locality,Чешма,Cheshma,village
+705,4,locality,Шемшево,Shemshevo,village
+706,4,locality,Шереметя,Sheremetya,village
+707,4,locality,Шилковци,Shilkovtsi,village
+708,4,locality,Шодековци,Shodekovtsi,village
+709,4,locality,Яковци,Yakovtsi,village
+710,4,locality,Ялово,Yalovo,village
+711,4,locality,Янтра,Yantra,village
+712,4,locality,път Е85,pat E85,main_road
+713,5,locality,Антимово,Antimovo,village
+714,5,locality,Арчар,Archar,village
+715,5,locality,Балей,Baley,village
+716,5,locality,Бела,Bela,village
+717,5,locality,Бела Рада,Bela Rada,village
+718,5,locality,Бело поле,Belo pole,village
+719,5,locality,Белоградчик,Belogradchik,city
+720,5,locality,Бойница,Boynitsa,village
+721,5,locality,Боровица,Borovitsa,village
+722,5,locality,Ботево,Botevo,village
+723,5,locality,Брегово,Bregovo,city
+724,5,locality,Буковец,Bukovets,village
+725,5,locality,Вещица,Veshtitsa,village
+726,5,locality,Видин,Vidin,city
+727,5,locality,Винарово,Vinarovo,village
+728,5,locality,Водна,Vodna,village
+729,5,locality,Воднянци,Vodnyantsi,village
+730,5,locality,Войница,Voynitsa,village
+731,5,locality,Връв,Vrav,village
+732,5,locality,Вълчек,Valchek,village
+733,5,locality,Върба,Varba,village
+734,5,locality,Върбово,Varbovo,village
+735,5,locality,Върбовчец,Varbovchets,village
+736,5,locality,Въртоп,Vartop,village
+737,5,locality,Гайтанци,Gaytantsi,village
+738,5,locality,Големаново,Golemanovo,village
+739,5,locality,Гомотарци,Gomotartsi,village
+740,5,locality,Градец,Gradets,village
+741,5,locality,Грамада,Gramada,city
+742,5,locality,Гранитово,Granitovo,village
+743,5,locality,Гъмзово,Gamzovo,village
+744,5,locality,Делейна,Deleyna,village
+745,5,locality,Димово,Dimovo,city
+746,5,locality,Долни Лом,Dolni Lom,village
+747,5,locality,Дражинци,Drazhintsi,village
+748,5,locality,Дреновец,Drenovets,village
+749,5,locality,Дружба,Druzhba,village
+750,5,locality,Дунавци,Dunavtsi,city
+751,5,locality,Дъбравка,Dabravka,village
+752,5,locality,Жеглица,Zheglitsa,village
+753,5,locality,Ивановци,Ivanovtsi,village
+754,5,locality,Извор,Izvor,village
+755,5,locality,Иново,Inovo,village
+756,5,locality,Капитановци,Kapitanovtsi,village
+757,5,locality,Кошава,Koshava,village
+758,5,locality,Кула,Kula,city
+759,5,locality,Кутово,Kutovo,village
+760,5,locality,Лагошевци,Lagoshevtsi,village
+761,5,locality,Макреш,Makresh,village
+762,5,locality,Неговановци,Negovanovtsi,village
+763,5,locality,Ново село,Novo selo,village
+764,5,locality,Новоселци,Novoseltsi,village
+765,5,locality,Орешец,Oreshets,village
+766,5,locality,Орешец,Oreshets,railway_station
+767,5,locality,Ошане,Oshane,village
+768,5,locality,Пешаково,Peshakovo,village
+769,5,locality,Плешивец,Pleshivets,village
+770,5,locality,Подгоре,Podgore,village
+771,5,locality,Покрайна,Pokrayna,village
+772,5,locality,Полетковци,Poletkovtsi,village
+773,5,locality,Пролазница,Prolaznitsa,village
+774,5,locality,Рабиша,Rabisha,village
+775,5,locality,Раброво,Rabrovo,village
+776,5,locality,Ракитница,Rakitnitsa,village
+777,5,locality,Раковица,Rakovitsa,village
+778,5,locality,Раяновци,Rayanovtsi,village
+779,5,locality,Ружинци,Ruzhintsi,village
+780,5,locality,Рупци,Ruptsi,village
+781,5,locality,Синаговци,Sinagovtsi,village
+782,5,locality,Слана бара,Slana bara,village
+783,5,locality,Сланотрън,Slanotran,village
+784,5,locality,Срацимирово,Sratsimirovo,village
+785,5,locality,Средогрив,Sredogriv,village
+786,5,locality,Стакевци,Stakevtsi,village
+787,5,locality,Тияновци,Tiyanovtsi,village
+788,5,locality,Толовица,Tolovitsa,village
+789,5,locality,Тошевци,Toshevtsi,village
+790,5,locality,Търговище,Targovishte,village
+791,5,locality,Флорентин,Florentin,village
+792,5,locality,Цар Симеоново,Tsar Simeonovo,village
+793,5,locality,Чифлик,Chiflik,village
+794,5,locality,Чичил,Chichil,village
+795,5,locality,Чупрене,Chuprene,village
+796,5,locality,Шишенци,Shishentsi,village
+797,6,locality,Алтимир,Altimir,village
+798,6,locality,Баница,Banitsa,village
+799,6,locality,Бели извор,Beli izvor,village
+800,6,locality,Боденец,Bodenets,village
+801,6,locality,Борован,Borovan,village
+802,6,locality,Ботуня,Botunya,village
+803,6,locality,Брусен,Brusen,village
+804,6,locality,Бутан,Butan,village
+805,6,locality,Бърдарски геран,Bardarski geran,village
+806,6,locality,Бързина,Barzina,village
+807,6,locality,Бяла Слатина,Byala Slatina,city
+808,6,locality,Веслец,Veslets,village
+809,6,locality,Вировско,Virovsko,village
+810,6,locality,Враца,Vratsa,city
+811,6,locality,Върбешница,Varbeshnitsa,village
+812,6,locality,Върбица,Varbitsa,village
+813,6,locality,Галатин,Galatin,village
+814,6,locality,Галиче,Galiche,village
+815,6,locality,Главаци,Glavatsi,village
+816,6,locality,Гложене,Glozhene,village
+817,6,locality,Големо Бабино,Golemo Babino,village
+818,6,locality,Голямо Пещене,Golyamo Peshtene,village
+819,6,locality,Горна Бешовица,Gorna Beshovitsa,village
+820,6,locality,Горна Кремена,Gorna Kremena,village
+821,6,locality,Горни Вадин,Gorni Vadin,village
+822,6,locality,Горно Пещене,Gorno Peshtene,village
+823,6,locality,Градешница,Gradeshnitsa,village
+824,6,locality,Девене,Devene,village
+825,6,locality,Добролево,Dobrolevo,village
+826,6,locality,Долна Бешовица,Dolna Beshovitsa,village
+827,6,locality,Долна Кремена,Dolna Kremena,village
+828,6,locality,Долни Вадин,Dolni Vadin,village
+829,6,locality,Дърманци,Darmantsi,village
+830,6,locality,Елисейна,Eliseyna,village
+831,6,locality,Зверино,Zverino,village
+832,6,locality,Згориград,Zgorigrad,village
+833,6,locality,Игнатица,Ignatitsa,village
+834,6,locality,Камено поле,Kameno pole,village
+835,6,locality,Караш,Karash,village
+836,6,locality,Козлодуй,Kozloduy,city
+837,6,locality,Костелево,Kostelevo,village
+838,6,locality,Краводер,Kravoder,village
+839,6,locality,Крива бара,Kriva bara,village
+840,6,locality,Криводол,Krivodol,city
+841,6,locality,Крушовица,Krushovitsa,village
+842,6,locality,Курново,Kurnovo,village
+843,6,locality,Лесура,Lesura,village
+844,6,locality,Лик,Lik,village
+845,6,locality,Лиляче,Lilyache,village
+846,6,locality,Липница,Lipnitsa,village
+847,6,locality,Лютаджик,Lyutadzhik,village
+848,6,locality,Лютиброд,Lyutibrod,village
+849,6,locality,Лютидол,Lyutidol,village
+850,6,locality,Малорад,Malorad,village
+851,6,locality,Манастирище,Manastirishte,village
+852,6,locality,Мездра,Mezdra,city
+853,6,locality,Мизия,Miziya,city
+854,6,locality,Михайлово,Mihaylovo,village
+855,6,locality,Моравица,Moravitsa,village
+856,6,locality,Мраморен,Mramoren,village
+857,6,locality,Нефела,Nefela,village
+858,6,locality,Нивянин,Nivyanin,village
+859,6,locality,Оряхово,Oryahovo,city
+860,6,locality,Оселна,Oselna,village
+861,6,locality,Ослен Криводол,Oslen Krivodol,village
+862,6,locality,Остров,Ostrov,village
+863,6,locality,Оходен,Ohoden,village
+864,6,locality,Очиндол,Ochindol,village
+865,6,locality,Паволче,Pavolche,village
+866,6,locality,Попица,Popitsa,village
+867,6,locality,Пудрия,Pudriya,village
+868,6,locality,Радовене,Radovene,village
+869,6,locality,Ракево,Rakevo,village
+870,6,locality,Ребърково,Rebarkovo,village
+871,6,locality,Рогозен,Rogozen,village
+872,6,locality,Роман,Roman,city
+873,6,locality,Руска Бела,Ruska Bela,village
+874,6,locality,Селановци,Selanovtsi,village
+875,6,locality,Синьо бърдо,Sinyo bardo,village
+876,6,locality,Сираково,Sirakovo,village
+877,6,locality,Соколаре,Sokolare,village
+878,6,locality,Софрониево,Sofronievo,village
+879,6,locality,Старо село,Staro selo,village
+880,6,locality,Стояновци,Stoyanovtsi,village
+881,6,locality,Струпец,Strupets,village
+882,6,locality,Типченица,Tipchenitsa,village
+883,6,locality,Тишевица,Tishevitsa,village
+884,6,locality,Тлачене,Tlachene,village
+885,6,locality,Три кладенци,Tri kladentsi,village
+886,6,locality,Търнава,Tarnava,village
+887,6,locality,Търнак,Tarnak,village
+888,6,locality,Фурен,Furen,village
+889,6,locality,Хайредин,Hayredin,village
+890,6,locality,Хубавене,Hubavene,village
+891,6,locality,Цаконица,Tsakonitsa,village
+892,6,locality,Царевец,Tsarevets,village
+893,6,locality,Челопек,Chelopek,village
+894,6,locality,Чирен,Chiren,village
+895,7,locality,Агатово,Agatovo,village
+896,7,locality,Ал. Стамболийски,Al. Stamboliyski,reservoir
+897,7,locality,Ангелов,Angelov,village
+898,7,locality,Армените,Armenite,village
+899,7,locality,Баевци,Baevtsi,village
+900,7,locality,Баланите,Balanite,village
+901,7,locality,Балванците,Balvantsite,village
+902,7,locality,Бангейци,Bangeytsi,village
+903,7,locality,Банковци,Bankovtsi,village
+904,7,locality,Батошево,Batoshevo,village
+905,7,locality,Белица,Belitsa,village
+906,7,locality,Беломъжите,Belomazhite,village
+907,7,locality,Бериево,Berievo,village
+908,7,locality,Бижовци,Bizhovtsi,village
+909,7,locality,Боазът,Boazat,village
+910,7,locality,Богатово,Bogatovo,village
+911,7,locality,Боженците,Bozhentsite,village
+912,7,locality,Борики,Boriki,village
+913,7,locality,Брънеците,Branetsite,village
+914,7,locality,Буря,Burya,village
+915,7,locality,Бучуковци,Buchukovtsi,village
+916,7,locality,Бялково,Byalkovo,village
+917,7,locality,Валевци,Valevtsi,village
+918,7,locality,Велковци,Velkovtsi,village
+919,7,locality,Влайчовци,Vlaychovtsi,village
+920,7,locality,Врабците,Vrabtsite,village
+921,7,locality,Враниловци,Vranilovtsi,village
+922,7,locality,Габрово,Gabrovo,city
+923,7,locality,Гайкини,Gaykini,village
+924,7,locality,Гайтаните,Gaytanite,village
+925,7,locality,Ганчовец,Ganchovets,village
+926,7,locality,Гарван,Garvan,village
+927,7,locality,Генчовци (Габрово),Genchovtsi (Gabrovo),village
+928,7,locality,Генчовци (Трявна),Genchovtsi (Tryavna),village
+929,7,locality,Гергини,Gergini,village
+930,7,locality,Геша,Gesha,village
+931,7,locality,Гледаци,Gledatsi,village
+932,7,locality,Глутниците,Glutnitsite,village
+933,7,locality,Гоздейка,Gozdeyka,village
+934,7,locality,Големи Българени,Golemi Balgareni,village
+935,7,locality,Горна Росица,Gorna Rositsa,village
+936,7,locality,Горни Върпища,Gorni Varpishta,village
+937,7,locality,Горнова могила,Gornova mogila,village
+938,7,locality,Гостилица,Gostilitsa,village
+939,7,locality,Градище,Gradishte,village
+940,7,locality,Градница,Gradnitsa,village
+941,7,locality,Гръблевци,Grablevtsi,village
+942,7,locality,Гъбене,Gabene,village
+943,7,locality,Гърня,Garnya,village
+944,7,locality,Дамяново,Damyanovo,village
+945,7,locality,Дебел дял,Debel dyal,village
+946,7,locality,Денчевци,Denchevtsi,village
+947,7,locality,Дивеци,Divetsi,village
+948,7,locality,Длъгня,Dlagnya,village
+949,7,locality,Добревци,Dobrevtsi,village
+950,7,locality,Добрените,Dobrenite,village
+951,7,locality,Добромирка,Dobromirka,village
+952,7,locality,Долни Драгойча,Dolni Dragoycha,village
+953,7,locality,Долни Радковци,Dolni Radkovtsi,village
+954,7,locality,Донино,Donino,village
+955,7,locality,Дончовци,Donchovtsi,village
+956,7,locality,Доча,Docha,village
+957,7,locality,Драгановци,Draganovtsi,village
+958,7,locality,Драгиевци,Dragievtsi,village
+959,7,locality,Драгневци,Dragnevtsi,village
+960,7,locality,Драгомани,Dragomani,village
+961,7,locality,Дряново,Dryanovo,city
+962,7,locality,Думници,Dumnitsi,village
+963,7,locality,Душево,Dushevo,village
+964,7,locality,Душевски колиби,Dushevski kolibi,village
+965,7,locality,Енев рът,Enev rat,village
+966,7,locality,Енчовци,Enchovtsi,village
+967,7,locality,Жълтеш,Zhaltesh,village
+968,7,locality,Зая,Zaya,village
+969,7,locality,Здравковец,Zdravkovets,village
+970,7,locality,Зелено дърво,Zeleno darvo,village
+971,7,locality,Златевци,Zlatevtsi,village
+972,7,locality,Иванили,Ivanili,village
+973,7,locality,Иванковци,Ivankovtsi,village
+974,7,locality,Иглика,Iglika,village
+975,7,locality,Игнатовци,Ignatovtsi,village
+976,7,locality,Идилево,Idilevo,village
+977,7,locality,Източник,Iztochnik,village
+978,7,locality,Йововци,Yovovtsi,village
+979,7,locality,Каломен,Kalomen,village
+980,7,locality,Камещица,Kameshtitsa,village
+981,7,locality,Караиванца,Karaivantsa,village
+982,7,locality,Карамичевци,Karamichevtsi,village
+983,7,locality,Катранджии,Katrandzhii,village
+984,7,locality,Кашенци,Kashentsi,village
+985,7,locality,Керека,Kereka,village
+986,7,locality,Киевци,Kievtsi,village
+987,7,locality,Кметовци,Kmetovtsi,village
+988,7,locality,Кози рог,Kozi rog,village
+989,7,locality,Колишовци,Kolishovtsi,village
+990,7,locality,Копчелиите,Kopcheliite,village
+991,7,locality,Кормянско,Kormyansko,village
+992,7,locality,Косарка,Kosarka,village
+993,7,locality,Костенковци,Kostenkovtsi,village
+994,7,locality,Крамолин,Kramolin,village
+995,7,locality,Креслювци,Kreslyuvtsi,village
+996,7,locality,Крушево,Krushevo,village
+997,7,locality,Кръвеник,Kravenik,village
+998,7,locality,Куманите,Kumanite,village
+999,7,locality,Купен,Kupen,village
+1000,7,locality,Лесичарка,Lesicharka,village
+1001,7,locality,Ловнидол,Lovnidol,village
+1002,7,locality,Малини,Malini,village
+1003,7,locality,Малки Вършец,Malki Varshets,village
+1004,7,locality,Малки Станчовци,Malki Stanchovtsi,village
+1005,7,locality,Малуша,Malusha,village
+1006,7,locality,Малчовци,Malchovtsi,village
+1007,7,locality,Маневци,Manevtsi,village
+1008,7,locality,Маноя,Manoya,village
+1009,7,locality,Междени,Mezhdeni,village
+1010,7,locality,Мечковица,Mechkovitsa,village
+1011,7,locality,Милковци,Milkovtsi,village
+1012,7,locality,Мичковци,Michkovtsi,village
+1013,7,locality,Младен,Mladen,village
+1014,7,locality,Млечево,Mlechevo,village
+1015,7,locality,Мрахори,Mrahori,village
+1016,7,locality,Музга,Muzga,village
+1017,7,locality,Николаево,Nikolaevo,village
+1018,7,locality,Новаковци,Novakovtsi,village
+1019,7,locality,Орловци,Orlovtsi,village
+1020,7,locality,Парчовци,Parchovtsi,village
+1021,7,locality,Пейна,Peyna,village
+1022,7,locality,Пейовци,Peyovtsi,village
+1023,7,locality,Петко Славейков,Petko Slaveykov,village
+1024,7,locality,Петровци,Petrovtsi,village
+1025,7,locality,Пецовци,Petsovtsi,village
+1026,7,locality,Плачковци,Plachkovtsi,city
+1027,7,locality,Попари,Popari,village
+1028,7,locality,Поповци,Popovtsi,village
+1029,7,locality,Престой,Prestoy,village
+1030,7,locality,Радевци,Radevtsi,village
+1031,7,locality,Радино,Radino,village
+1032,7,locality,Райновци,Raynovtsi,village
+1033,7,locality,Раховци,Rahovtsi,village
+1034,7,locality,Рачевци,Rachevtsi,village
+1035,7,locality,Ритя,Ritya,village
+1036,7,locality,Руня,Runya,village
+1037,7,locality,Рязковци,Ryazkovtsi,village
+1038,7,locality,Ряховците,Ryahovtsite,village
+1039,7,locality,Саласука,Salasuka,village
+1040,7,locality,Севлиево,Sevlievo,city
+1041,7,locality,Седянковци,Sedyankovtsi,village
+1042,7,locality,Селище,Selishte,village
+1043,7,locality,Сенник,Sennik,village
+1044,7,locality,Скалско,Skalsko,village
+1045,7,locality,Скорците,Skortsite,village
+1046,7,locality,Славейково,Slaveykovo,village
+1047,7,locality,Смиловци,Smilovtsi,village
+1048,7,locality,Соколово,Sokolovo,village
+1049,7,locality,Спанци,Spantsi,village
+1050,7,locality,Станчов хан,Stanchov han,village
+1051,7,locality,Старилковци,Starilkovtsi,village
+1052,7,locality,Стефаново,Stefanovo,village
+1053,7,locality,Стоевци,Stoevtsi,village
+1054,7,locality,Стойчовци,Stoychovtsi,village
+1055,7,locality,Стоките,Stokite,village
+1056,7,locality,Столът,Stolat,village
+1057,7,locality,Стоманеците,Stomanetsite,village
+1058,7,locality,Сухолоевци,Suholoevtsi,village
+1059,7,locality,Съботковци,Sabotkovtsi,village
+1060,7,locality,Сяровци,Syarovtsi,village
+1061,7,locality,Табашка,Tabashka,village
+1062,7,locality,Тодореците,Todoretsite,village
+1063,7,locality,Тодорчета,Todorcheta,village
+1064,7,locality,Томчевци,Tomchevtsi,village
+1065,7,locality,Торбалъжите,Torbalazhite,village
+1066,7,locality,Трапесковци,Trapeskovtsi,village
+1067,7,locality,Трънито,Tranito,village
+1068,7,locality,Трявна,Tryavna,city
+1069,7,locality,Тумбалово,Tumbalovo,village
+1070,7,locality,Туркинча,Turkincha,village
+1071,7,locality,Търхово,Tarhovo,village
+1072,7,locality,Фъревци,Farevtsi,village
+1073,7,locality,Харачерите,Haracherite,village
+1074,7,locality,Хирево,Hirevo,village
+1075,7,locality,Христовци,Hristovtsi,village
+1076,7,locality,Царева ливада,Tsareva livada,village
+1077,7,locality,Черневци,Chernevtsi,village
+1078,7,locality,Черновръх,Chernovrah,village
+1079,7,locality,Чукилите,Chukilite,village
+1080,7,locality,Чуково,Chukovo,village
+1081,7,locality,Шарани,Sharani,village
+1082,7,locality,Шипчените,Shipchenite,village
+1083,7,locality,Шопите,Shopite,village
+1084,7,locality,Шумата,Shumata,village
+1085,7,locality,Яворец,Yavorets,village
+1086,7,locality,Янковци,Yankovtsi,village
+1087,7,locality,Янтра,Yantra,village
+1088,7,locality,Ясените,Yasenite,village
+1089,8,locality,Ал. Стамболийски,Al. Stamboliyski,village
+1090,8,locality,Албена,Albena,resort_complex
+1091,8,locality,Александрия,Aleksandriya,village
+1092,8,locality,Ангеларий,Angelariy,village
+1093,8,locality,Балканци,Balkantsi,village
+1094,8,locality,Балчик,Balchik,city
+1095,8,locality,Батово,Batovo,village
+1096,8,locality,Бдинци,Bdintsi,village
+1097,8,locality,Бежаново,Bezhanovo,village
+1098,8,locality,Безводица,Bezvoditsa,village
+1099,8,locality,Белгун,Belgun,village
+1100,8,locality,Бенковски,Benkovski,village
+1101,8,locality,Било,Bilo,village
+1102,8,locality,Богдан,Bogdan,village
+1103,8,locality,Божаново,Bozhanovo,village
+1104,8,locality,Божурец,Bozhurets,village
+1105,8,locality,Божурово,Bozhurovo,village
+1106,8,locality,Бранище,Branishte,village
+1107,8,locality,Брястово,Bryastovo,village
+1108,8,locality,Българево,Balgarevo,village
+1109,8,locality,Ваклино,Vaklino,village
+1110,8,locality,Василево,Vasilevo,village
+1111,8,locality,Ведрина,Vedrina,village
+1112,8,locality,Великово,Velikovo,village
+1113,8,locality,Видно,Vidno,village
+1114,8,locality,Вичово,Vichovo,village
+1115,8,locality,Владимирово,Vladimirovo,village
+1116,8,locality,Войниково,Voynikovo,village
+1117,8,locality,Вранино,Vranino,village
+1118,8,locality,Вратарите,Vratarite,village
+1119,8,locality,Габер,Gaber,village
+1120,8,locality,Генерал Колево,General Kolevo,village
+1121,8,locality,Генерал Тошево,General Toshevo,city
+1122,8,locality,Гешаново,Geshanovo,village
+1123,8,locality,Горичане,Gorichane,village
+1124,8,locality,Горун,Gorun,village
+1125,8,locality,Градини,Gradini,village
+1126,8,locality,Градница,Gradnitsa,village
+1127,8,locality,Граничар,Granichar,village
+1128,8,locality,Гурково,Gurkovo,village
+1129,8,locality,Дебрене,Debrene,village
+1130,8,locality,Добрево,Dobrevo,village
+1131,8,locality,Добрин,Dobrin,village
+1132,8,locality,Добрич,Dobrich,city
+1133,8,locality,Долина,Dolina,village
+1134,8,locality,Дончево,Donchevo,village
+1135,8,locality,Драганово,Draganovo,village
+1136,8,locality,Дропла,Dropla,village
+1137,8,locality,Дряновец,Dryanovets,village
+1138,8,locality,Дуранкулак,Durankulak,village
+1139,8,locality,Дъбовик,Dabovik,village
+1140,8,locality,Дъбрава,Dabrava,village
+1141,8,locality,Езерец,Ezerets,village
+1142,8,locality,Житен,Zhiten,village
+1143,8,locality,Житница,Zhitnitsa,village
+1144,8,locality,Захари Стояново,Zahari Stoyanovo,village
+1145,8,locality,Земенци,Zementsi,village
+1146,8,locality,Златия,Zlatiya,village
+1147,8,locality,Змеево,Zmeevo,village
+1148,8,locality,Изворово,Izvorovo,village
+1149,8,locality,Иречек,Irechek,village
+1150,8,locality,Каварна,Kavarna,city
+1151,8,locality,Калина,Kalina,village
+1152,8,locality,Камен,Kamen,village
+1153,8,locality,Камен бряг,Kamen bryag,village
+1154,8,locality,Карапелит,Karapelit,village
+1155,8,locality,Кардам,Kardam,village
+1156,8,locality,Козлодуйци,Kozloduytsi,village
+1157,8,locality,Коларци,Kolartsi,village
+1158,8,locality,Конаре,Konare,village
+1159,8,locality,Коритен,Koriten,village
+1160,8,locality,Котленци,Kotlentsi,village
+1161,8,locality,Кочмар,Kochmar,village
+1162,8,locality,Крагулево,Kragulevo,village
+1163,8,locality,Краище,Kraishte,village
+1164,8,locality,Кранево,Kranevo,village
+1165,8,locality,Крапец,Krapets,village
+1166,8,locality,Красен,Krasen,village
+1167,8,locality,Крупен,Krupen,village
+1168,8,locality,Крушари,Krushari,village
+1169,8,locality,Къпиново,Kapinovo,village
+1170,8,locality,Ловчанци,Lovchantsi,village
+1171,8,locality,Лозенец,Lozenets,village
+1172,8,locality,Лозница,Loznitsa,village
+1173,8,locality,Ломница,Lomnitsa,village
+1174,8,locality,Люляково,Lyulyakovo,village
+1175,8,locality,Лясково,Lyaskovo,village
+1176,8,locality,Ляхово,Lyahovo,village
+1177,8,locality,Малина,Malina,village
+1178,8,locality,Малка Смолница,Malka Smolnitsa,village
+1179,8,locality,Медово,Medovo,village
+1180,8,locality,Методиево,Metodievo,village
+1181,8,locality,Миладиновци,Miladinovtsi,village
+1182,8,locality,Могилище,Mogilishte,village
+1183,8,locality,Нейково,Neykovo,village
+1184,8,locality,Нова Камена,Nova Kamena,village
+1185,8,locality,Ново Ботево,Novo Botevo,village
+1186,8,locality,Оброчище,Obrochishte,village
+1187,8,locality,Овчарово,Ovcharovo,village
+1188,8,locality,Одринци,Odrintsi,village
+1189,8,locality,Одърци,Odartsi,village
+1190,8,locality,Опанец,Opanets,village
+1191,8,locality,Орлова могила,Orlova mogila,village
+1192,8,locality,Паскалево,Paskalevo,village
+1193,8,locality,Писарово,Pisarovo,village
+1194,8,locality,Плачидол,Plachidol,village
+1195,8,locality,Пленимир,Plenimir,village
+1196,8,locality,Победа,Pobeda,village
+1197,8,locality,Полковник Дяково,Polkovnik Dyakovo,village
+1198,8,locality,Полковник Иваново,Polkovnik Ivanovo,village
+1199,8,locality,Полковник Минково,Polkovnik Minkovo,village
+1200,8,locality,Полковник Свещарово,Polkovnik Sveshtarovo,village
+1201,8,locality,Попгригорово,Popgrigorovo,village
+1202,8,locality,Поручик Кърджиево,Poruchik Kardzhievo,village
+1203,8,locality,Поручик Чунчево,Poruchik Chunchevo,village
+1204,8,locality,Преселенци,Preselentsi,village
+1205,8,locality,Преспа,Prespa,village
+1206,8,locality,Прилеп,Prilep,village
+1207,8,locality,Приморци,Primortsi,village
+1208,8,locality,Пролез,Prolez,village
+1209,8,locality,Пчеларово,Pchelarovo,village
+1210,8,locality,Пчелино,Pchelino,village
+1211,8,locality,Равнец,Ravnets,village
+1212,8,locality,Раковски,Rakovski,village
+1213,8,locality,Рогачево,Rogachevo,village
+1214,8,locality,Рогозина,Rogozina,village
+1215,8,locality,Росен,Rosen,village
+1216,8,locality,Росеново,Rosenovo,village
+1217,8,locality,Росица,Rositsa,village
+1218,8,locality,Самуилово,Samuilovo,village
+1219,8,locality,Свети Никола,Sveti Nikola,village
+1220,8,locality,Свобода,Svoboda,village
+1221,8,locality,Северняк,Severnyak,village
+1222,8,locality,Селце,Seltse,village
+1223,8,locality,Сенокос,Senokos,village
+1224,8,locality,Септемврийци,Septemvriytsi,village
+1225,8,locality,Сираково,Sirakovo,village
+1226,8,locality,Славеево,Slaveevo,village
+1227,8,locality,Сливенци,Sliventsi,village
+1228,8,locality,Смин,Smin,village
+1229,8,locality,Смолница,Smolnitsa,village
+1230,8,locality,Сноп,Snop,village
+1231,8,locality,Снягово,Snyagovo,village
+1232,8,locality,Соколово,Sokolovo,village
+1233,8,locality,Спасово,Spasovo,village
+1234,8,locality,Средина,Sredina,village
+1235,8,locality,Стаевци,Staevtsi,village
+1236,8,locality,Стефан Караджа,Stefan Karadzha,village
+1237,8,locality,Стефаново,Stefanovo,village
+1238,8,locality,Стожер,Stozher,village
+1239,8,locality,Стражица,Strazhitsa,village
+1240,8,locality,Сърнец,Sarnets,village
+1241,8,locality,Сърнино,Sarnino,village
+1242,8,locality,Твърдица,Tvarditsa,village
+1243,8,locality,Телериг,Telerig,village
+1244,8,locality,Тервел,Tervel,city
+1245,8,locality,Топола,Topola,village
+1246,8,locality,Тригорци,Trigortsi,village
+1247,8,locality,Тюленово,Tyulenovo,village
+1248,8,locality,Тянево,Tyanevo,village
+1249,8,locality,Узово,Uzovo,village
+1250,8,locality,Хаджи Димитър,Hadzhi Dimitar,village
+1251,8,locality,Храброво,Hrabrovo,village
+1252,8,locality,Царевец,Tsarevets,village
+1253,8,locality,Царичино,Tsarichino,village
+1254,8,locality,Църква,Tsarkva,village
+1255,8,locality,Челопечене,Chelopechene,village
+1256,8,locality,Черна,Cherna,village
+1257,8,locality,Черноморци,Chernomortsi,village
+1258,8,locality,Чернооково,Chernookovo,village
+1259,8,locality,Честименско,Chestimensko,village
+1260,8,locality,Шабла,Shabla,city
+1261,9,locality,Айрово,Ayrovo,village
+1262,9,locality,Ардино,Ardino,city
+1263,9,locality,Багрянка,Bagryanka,village
+1264,9,locality,Балабаново,Balabanovo,village
+1265,9,locality,Бенковски,Benkovski,village
+1266,9,locality,Биволяне,Bivolyane,village
+1267,9,locality,Бленика,Blenika,village
+1268,9,locality,Болярци,Bolyartsi,village
+1269,9,locality,Брош,Brosh,village
+1270,9,locality,Бял извор,Byal izvor,village
+1271,9,locality,Вишеград,Vishegrad,village
+1272,9,locality,Върбен,Varben,village
+1273,9,locality,Главатарци,Glavatartsi,village
+1274,9,locality,Глухар,Gluhar,village
+1275,9,locality,Гняздово,Gnyazdovo,village
+1276,9,locality,Горна крепост,Gorna krepost,village
+1277,9,locality,Горно Кирково,Gorno Kirkovo,village
+1278,9,locality,Горско Дюлево,Gorsko Dyulevo,village
+1279,9,locality,Груево,Gruevo,village
+1280,9,locality,Гургулица,Gurgulitsa,village
+1281,9,locality,Гъсково,Gaskovo,village
+1282,9,locality,Джанка,Dzhanka,village
+1283,9,locality,Джебел,Dzhebel,city
+1284,9,locality,Долна крепост,Dolna krepost,village
+1285,9,locality,Драганово,Draganovo,village
+1286,9,locality,Дрангово,Drangovo,village
+1287,9,locality,Дъждино,Dazhdino,village
+1288,9,locality,Енчец,Enchets,village
+1289,9,locality,Жинзифово,Zhinzifovo,village
+1290,9,locality,Жълтуша,Zhaltusha,village
+1291,9,locality,Завоя,Zavoya,village
+1292,9,locality,Звездел,Zvezdel,village
+1293,9,locality,Звиница,Zvinitsa,village
+1294,9,locality,Звъника,Zvanika,village
+1295,9,locality,Зелениково,Zelenikovo,village
+1296,9,locality,Калинка,Kalinka,village
+1297,9,locality,Калоянци,Kaloyantsi,village
+1298,9,locality,Каменарци,Kamenartsi,village
+1299,9,locality,Кирково,Kirkovo,village
+1300,9,locality,Комунига,Komuniga,village
+1301,9,locality,Конево,Konevo,village
+1302,9,locality,Крайно село,Krayno selo,village
+1303,9,locality,Крумовград,Krumovgrad,city
+1304,9,locality,Купците,Kuptsite,village
+1305,9,locality,Кърджали,Kardzhali,city
+1306,9,locality,Кърджали,Kardzhali,reservoir
+1307,9,locality,Ленище,Lenishte,village
+1308,9,locality,Люляково,Lyulyakovo,village
+1309,9,locality,Македонци,Makedontsi,village
+1310,9,locality,Миладиново,Miladinovo,village
+1311,9,locality,Минзухар,Minzuhar,village
+1312,9,locality,Момчилград,Momchilgrad,city
+1313,9,locality,Морянци,Moryantsi,village
+1314,9,locality,Мургово,Murgovo,village
+1315,9,locality,Нановица,Nanovitsa,village
+1316,9,locality,Невестино,Nevestino,village
+1317,9,locality,Неофит Бозвелиево,Neofit Bozvelievo,village
+1318,9,locality,Опълченско,Opalchensko,village
+1319,9,locality,Орешница,Oreshnitsa,village
+1320,9,locality,Орлица,Orlitsa,village
+1321,9,locality,Островица,Ostrovitsa,village
+1322,9,locality,Паничково,Panichkovo,village
+1323,9,locality,Панчево,Panchevo,village
+1324,9,locality,Папрат,Paprat,village
+1325,9,locality,Пепелище,Pepelishte,village
+1326,9,locality,Перперек,Perperek,village
+1327,9,locality,Петелово,Petelovo,village
+1328,9,locality,Петлино,Petlino,village
+1329,9,locality,Плазище,Plazishte,village
+1330,9,locality,Повет,Povet,village
+1331,9,locality,Подкова,Podkova,village
+1332,9,locality,Постник,Postnik,village
+1333,9,locality,Правдолюб,Pravdolyub,village
+1334,9,locality,Прилепци,Prileptsi,village
+1335,9,locality,Прогрес,Progres,village
+1336,9,locality,Пчеларово,Pchelarovo,village
+1337,9,locality,Пъдарци,Padartsi,village
+1338,9,locality,Първица,Parvitsa,village
+1339,9,locality,Равен,Raven,village
+1340,9,locality,Рани лист,Rani list,village
+1341,9,locality,Резбарци,Rezbartsi,village
+1342,9,locality,Ридово,Ridovo,village
+1343,9,locality,Русалско,Rusalsko,village
+1344,9,locality,Свобода,Svoboda,village
+1345,9,locality,Седефче,Sedefche,village
+1346,9,locality,Синчец,Sinchets,village
+1347,9,locality,Сипей,Sipey,village
+1348,9,locality,Скалище,Skalishte,village
+1349,9,locality,Скърбино,Skarbino,village
+1350,9,locality,Снежинка,Snezhinka,village
+1351,9,locality,Соколино,Sokolino,village
+1352,9,locality,Соколяне,Sokolyane,village
+1353,9,locality,Солище,Solishte,village
+1354,9,locality,Срединка,Sredinka,village
+1355,9,locality,Стар читак,Star chitak,village
+1356,9,locality,Старо място,Staro myasto,village
+1357,9,locality,Странджево,Strandzhevo,village
+1358,9,locality,Стремци,Stremtsi,village
+1359,9,locality,Студен Кладенец,Studen Kladenets,reservoir
+1360,9,locality,Тополчане,Topolchane,village
+1361,9,locality,Три могили,Tri mogili,village
+1362,9,locality,Царевец,Tsarevets,village
+1363,9,locality,Чакаларово,Chakalarovo,village
+1364,9,locality,Черна скала,Cherna skala,village
+1365,9,locality,Черноочене,Chernoochene,village
+1366,9,locality,Чилик,Chilik,village
+1367,9,locality,Чорбаджийско,Chorbadzhiysko,village
+1368,9,locality,Широко поле,Shiroko pole,village
+1369,9,locality,Шумнатица,Shumnatitsa,village
+1370,10,locality,Бабино,Babino,village
+1371,10,locality,Бабинска река,Babinska reka,village
+1372,10,locality,Багренци,Bagrentsi,village
+1373,10,locality,Бадино,Badino,village
+1374,10,locality,Баланово,Balanovo,village
+1375,10,locality,Бараково,Barakovo,village
+1376,10,locality,Берсин,Bersin,village
+1377,10,locality,Бистрица,Bistritsa,village
+1378,10,locality,Блажиево,Blazhievo,village
+1379,10,locality,Блатец,Blatets,village
+1380,10,locality,Блатино,Blatino,village
+1381,10,locality,Блато,Blato,village
+1382,10,locality,Бобов дол,Bobov dol,city
+1383,10,locality,Бобошево,Boboshevo,city
+1384,10,locality,Богослов,Bogoslov,village
+1385,10,locality,Боровец,Borovets,village
+1386,10,locality,Буново,Bunovo,village
+1387,10,locality,Бураново,Buranovo,village
+1388,10,locality,Ваксево,Vaksevo,village
+1389,10,locality,Ветрен,Vetren,village
+1390,10,locality,Вратца,Vrattsa,village
+1391,10,locality,Голема Фуча,Golema Fucha,village
+1392,10,locality,Големо село,Golemo selo,village
+1393,10,locality,Горановци,Goranovtsi,village
+1394,10,locality,Горна Брестница,Gorna Brestnitsa,village
+1395,10,locality,Горна Гращица,Gorna Grashtitsa,village
+1396,10,locality,Горна Козница,Gorna Koznitsa,village
+1397,10,locality,Горно Уйно,Gorno Uyno,village
+1398,10,locality,Грамаждано,Gramazhdano,village
+1399,10,locality,Граница,Granitsa,village
+1400,10,locality,Гърляно,Garlyano,village
+1401,10,locality,Гюешево,Gyueshevo,village
+1402,10,locality,Дворище,Dvorishte,village
+1403,10,locality,Делян,Delyan,village
+1404,10,locality,Джерман,Dzherman,village
+1405,10,locality,Длъхчево-Сабляр,Dlahchevo-Sablyar,village
+1406,10,locality,Добри дол,Dobri dol,village
+1407,10,locality,Доброво,Dobrovo,village
+1408,10,locality,Долистово,Dolistovo,village
+1409,10,locality,Долна Гращица,Dolna Grashtitsa,village
+1410,10,locality,Долни Коритен,Dolni Koriten,village
+1411,10,locality,Долно село,Dolno selo,village
+1412,10,locality,Драговищица,Dragovishtitsa,village
+1413,10,locality,Драгодан,Dragodan,village
+1414,10,locality,Друмохар,Drumohar,village
+1415,10,locality,Дупница,Dupnitsa,city
+1416,10,locality,Дяково,Dyakovo,village
+1417,10,locality,Еремия,Eremiya,village
+1418,10,locality,Жабокрът,Zhabokrat,village
+1419,10,locality,Жиленци,Zhilentsi,village
+1420,10,locality,Згурово,Zgurovo,village
+1421,10,locality,Илия,Iliya,village
+1422,10,locality,Каменик,Kamenik,village
+1423,10,locality,Каменичка Скакавица,Kamenichka Skakavitsa,village
+1424,10,locality,Катрище,Katrishte,village
+1425,10,locality,Коняво,Konyavo,village
+1426,10,locality,Копиловци,Kopilovtsi,village
+1427,10,locality,Коркина,Korkina,village
+1428,10,locality,Кочериново,Kocherinovo,city
+1429,10,locality,Крайни дол,Krayni dol,village
+1430,10,locality,Крайници,Kraynitsi,village
+1431,10,locality,Кременик,Kremenik,village
+1432,10,locality,Кюстендил,Kyustendil,city
+1433,10,locality,Лелинци,Lelintsi,village
+1434,10,locality,Лисец,Lisets,village
+1435,10,locality,Лозно,Lozno,village
+1436,10,locality,Мазарачево,Mazarachevo,village
+1437,10,locality,Мала Фуча,Mala Fucha,village
+1438,10,locality,Мали Върбовник,Mali Varbovnik,village
+1439,10,locality,Мало село,Malo selo,village
+1440,10,locality,Мламолово,Mlamolovo,village
+1441,10,locality,Мурсалево,Mursalevo,village
+1442,10,locality,Невестино,Nevestino,village
+1443,10,locality,Неделкова Гращица,Nedelkova Grashtitsa,village
+1444,10,locality,Николичевци,Nikolichevtsi,village
+1445,10,locality,Нови чифлик,Novi chiflik,village
+1446,10,locality,Новоселяне,Novoselyane,village
+1447,10,locality,Овчарци,Ovchartsi,village
+1448,10,locality,Падала,Padala,village
+1449,10,locality,Палатово,Palatovo,village
+1450,10,locality,Паничище,Panichishte,village
+1451,10,locality,Пастра,Pastra,village
+1452,10,locality,Пастух,Pastuh,village
+1453,10,locality,Пелатиково,Pelatikovo,village
+1454,10,locality,Пиперево,Piperevo,village
+1455,10,locality,Пиперков чифлик,Piperkov chiflik,village
+1456,10,locality,Полска Скакавица,Polska Skakavitsa,village
+1457,10,locality,Пороминово,Porominovo,village
+1458,10,locality,Радловци,Radlovtsi,village
+1459,10,locality,Раждавица,Razhdavitsa,village
+1460,10,locality,Раненци,Ranentsi,village
+1461,10,locality,Рашка Гращица,Rashka Grashtitsa,village
+1462,10,locality,Ресилово,Resilovo,village
+1463,10,locality,Рила,Rila,city
+1464,10,locality,Ръсово,Rasovo,village
+1465,10,locality,Самораново,Samoranovo,village
+1466,10,locality,Сапарева баня,Sapareva banya,city
+1467,10,locality,Сапарево,Saparevo,village
+1468,10,locality,Скрино,Skrino,village
+1469,10,locality,Скриняно,Skrinyano,village
+1470,10,locality,Слатино,Slatino,village
+1471,10,locality,Слокощица,Slokoshtitsa,village
+1472,10,locality,Смочево,Smochevo,village
+1473,10,locality,Соволяно,Sovolyano,village
+1474,10,locality,Стенско,Stensko,village
+1475,10,locality,Стоб,Stob,village
+1476,10,locality,Таваличево,Tavalichevo,village
+1477,10,locality,Тишаново,Tishanovo,village
+1478,10,locality,Тополница,Topolnitsa,village
+1479,10,locality,Трекляно,Treklyano,village
+1480,10,locality,Усойка,Usoyka,village
+1481,10,locality,Церовица,Tserovitsa,village
+1482,10,locality,Цървеняно,Tsarvenyano,village
+1483,10,locality,Цървище,Tsarvishte,village
+1484,10,locality,Червен брег,Cherven breg,village
+1485,10,locality,Четирци,Chetirtsi,village
+1486,10,locality,Шатрово,Shatrovo,village
+1487,10,locality,Шишковци,Shishkovtsi,village
+1488,10,locality,Ябълково,Yabalkovo,village
+1489,10,locality,Яхиново,Yahinovo,village
+1490,10,locality,път Е79,pat E79,main_road
+1491,11,locality,Абланица,Ablanitsa,village
+1492,11,locality,Александрово,Aleksandrovo,village
+1493,11,locality,Априлци,Apriltsi,city
+1494,11,locality,Баба Стана,Baba Stana,village
+1495,11,locality,Балабанско,Balabansko,village
+1496,11,locality,Балканец,Balkanets,village
+1497,11,locality,Батулци,Batultsi,village
+1498,11,locality,Баховица,Bahovitsa,village
+1499,11,locality,Бежаново,Bezhanovo,village
+1500,11,locality,Беленци,Belentsi,village
+1501,11,locality,Бели Осъм,Beli Osam,village
+1502,11,locality,Белиш,Belish,village
+1503,11,locality,Борима,Borima,village
+1504,11,locality,Брестница,Brestnitsa,village
+1505,11,locality,Брестово,Brestovo,village
+1506,11,locality,Българене,Balgarene,village
+1507,11,locality,Български извор,Balgarski izvor,village
+1508,11,locality,Васильово,Vasilyovo,village
+1509,11,locality,Велчево,Velchevo,village
+1510,11,locality,Владиня,Vladinya,village
+1511,11,locality,Врабево,Vrabevo,village
+1512,11,locality,Гложене,Glozhene,village
+1513,11,locality,Голец,Golets,village
+1514,11,locality,Голям извор,Golyam izvor,village
+1515,11,locality,Голяма Брестница,Golyama Brestnitsa,village
+1516,11,locality,Голяма Желязна,Golyama Zhelyazna,village
+1517,11,locality,Горан,Goran,village
+1518,11,locality,Горно Павликене,Gorno Pavlikene,village
+1519,11,locality,Горно трапе,Gorno trape,village
+1520,11,locality,Горско Сливово,Gorsko Slivovo,village
+1521,11,locality,Гостиня,Gostinya,village
+1522,11,locality,Гумощник,Gumoshtnik,village
+1523,11,locality,Дебнево,Debnevo,village
+1524,11,locality,Деветаки,Devetaki,village
+1525,11,locality,Дерманци,Dermantsi,village
+1526,11,locality,Дивчовото,Divchovoto,village
+1527,11,locality,Добревци,Dobrevtsi,village
+1528,11,locality,Добродан,Dobrodan,village
+1529,11,locality,Дойренци,Doyrentsi,village
+1530,11,locality,Драгана,Dragana,village
+1531,11,locality,Драшкова поляна,Drashkova polyana,village
+1532,11,locality,Дренов,Drenov,village
+1533,11,locality,Дъбрава,Dabrava,village
+1534,11,locality,Дълбок дол,Dalbok dol,village
+1535,11,locality,Златна Панега,Zlatna Panega,village
+1536,11,locality,Изворче,Izvorche,village
+1537,11,locality,Йоглав,Yoglav,village
+1538,11,locality,Казачево,Kazachevo,village
+1539,11,locality,Калейца,Kaleytsa,village
+1540,11,locality,Каленик,Kalenik,village
+1541,11,locality,Карлуково,Karlukovo,village
+1542,11,locality,Катунец,Katunets,village
+1543,11,locality,Крушуна,Krushuna,village
+1544,11,locality,Къкрина,Kakrina,village
+1545,11,locality,Кърпачево,Karpachevo,village
+1546,11,locality,Лесидрен,Lesidren,village
+1547,11,locality,Летница,Letnitsa,city
+1548,11,locality,Лешница,Leshnitsa,village
+1549,11,locality,Лисец,Lisets,village
+1550,11,locality,Ловеч,Lovech,city
+1551,11,locality,Ломец,Lomets,village
+1552,11,locality,Луковит,Lukovit,city
+1553,11,locality,Малиново,Malinovo,village
+1554,11,locality,Малка Желязна,Malka Zhelyazna,village
+1555,11,locality,Малък извор,Malak izvor,village
+1556,11,locality,Микре,Mikre,village
+1557,11,locality,Орешак,Oreshak,village
+1558,11,locality,Орешене,Oreshene,village
+1559,11,locality,Орляне,Orlyane,village
+1560,11,locality,Патрешко,Patreshko,village
+1561,11,locality,Петревене,Petrevene,village
+1562,11,locality,Пещерна,Peshterna,village
+1563,11,locality,Прелом,Prelom,village
+1564,11,locality,Пресяка,Presyaka,village
+1565,11,locality,Радювене,Radyuvene,village
+1566,11,locality,Рибарица,Ribaritsa,village
+1567,11,locality,Румянцево,Rumyantsevo,village
+1568,11,locality,Скандалото,Skandaloto,village
+1569,11,locality,Скобелево,Skobelevo,village
+1570,11,locality,Славщица,Slavshtitsa,village
+1571,11,locality,Славяни,Slavyani,village
+1572,11,locality,Слатина,Slatina,village
+1573,11,locality,Сливек,Slivek,village
+1574,11,locality,Смочан,Smochan,village
+1575,11,locality,Соколово,Sokolovo,village
+1576,11,locality,Сопот,Sopot,reservoir
+1577,11,locality,Сопот,Sopot,village
+1578,11,locality,Старо село,Staro selo,village
+1579,11,locality,Стефаново,Stefanovo,village
+1580,11,locality,Тепава,Tepava,village
+1581,11,locality,Терзийско,Terziysko,village
+1582,11,locality,Тетевен,Teteven,city
+1583,11,locality,Тодоричене,Todorichene,village
+1584,11,locality,Торос,Toros,village
+1585,11,locality,Троян,Troyan,city
+1586,11,locality,Угърчин,Ugarchin,city
+1587,11,locality,Умаревци,Umarevtsi,village
+1588,11,locality,Хемус,Hemus,highway
+1589,11,locality,Хлевене,Hlevene,village
+1590,11,locality,Чавдарци,Chavdartsi,village
+1591,11,locality,Черни Вит,Cherni Vit,village
+1592,11,locality,Черни Осъм,Cherni Osam,village
+1593,11,locality,Чифлик,Chiflik,village
+1594,11,locality,Шипково,Shipkovo,village
+1595,11,locality,Ъглен,Aglen,village
+1596,11,locality,Ябланица,Yablanitsa,city
+1597,12,locality,Балювица,Balyuvitsa,village
+1598,12,locality,Безденица,Bezdenitsa,village
+1599,12,locality,Бели брод,Beli brod,village
+1600,12,locality,Белимел,Belimel,village
+1601,12,locality,Белотинци,Belotintsi,village
+1602,12,locality,Берковица,Berkovitsa,city
+1603,12,locality,Благово,Blagovo,village
+1604,12,locality,Бойчиновци,Boychinovtsi,city
+1605,12,locality,Бокиловци,Bokilovtsi,village
+1606,12,locality,Боровци,Borovtsi,village
+1607,12,locality,Брусарци,Brusartsi,city
+1608,12,locality,Бъзовец,Bazovets,village
+1609,12,locality,Бързия,Barziya,village
+1610,12,locality,Василовци,Vasilovtsi,village
+1611,12,locality,Видлица,Vidlitsa,village
+1612,12,locality,Винище,Vinishte,village
+1613,12,locality,Вирове,Virove,village
+1614,12,locality,Владимирово,Vladimirovo,village
+1615,12,locality,Войници,Voynitsi,village
+1616,12,locality,Вълчедръм,Valchedram,city
+1617,12,locality,Вършец,Varshets,city
+1618,12,locality,Габровница,Gabrovnitsa,village
+1619,12,locality,Гаврил Геново,Gavril Genovo,village
+1620,12,locality,Гаганица,Gaganitsa,village
+1621,12,locality,Георги Дамяново,Georgi Damyanovo,village
+1622,12,locality,Говежда,Govezhda,village
+1623,12,locality,Горна Бела речка,Gorna Bela rechka,village
+1624,12,locality,Горна Лука,Gorna Luka,village
+1625,12,locality,Горно Озирово,Gorno Ozirovo,village
+1626,12,locality,Горно Церовене,Gorno Tserovene,village
+1627,12,locality,Доктор Йосифово,Doktor Yosifovo,village
+1628,12,locality,Долна Бела речка,Dolna Bela rechka,village
+1629,12,locality,Долна Вереница,Dolna Verenitsa,village
+1630,12,locality,Долна Рикса,Dolna Riksa,village
+1631,12,locality,Долни Цибър,Dolni Tsibar,village
+1632,12,locality,Долно Озирово,Dolno Ozirovo,village
+1633,12,locality,Долно Церовене,Dolno Tserovene,village
+1634,12,locality,Драганица,Draganitsa,village
+1635,12,locality,Дъбова махала,Dabova mahala,village
+1636,12,locality,Дълги дел,Dalgi del,village
+1637,12,locality,Дългоделци,Dalgodeltsi,village
+1638,12,locality,Ерден,Erden,village
+1639,12,locality,Железна,Zhelezna,village
+1640,12,locality,Замфирово,Zamfirovo,village
+1641,12,locality,Златия,Zlatiya,village
+1642,12,locality,Клисурица,Klisuritsa,village
+1643,12,locality,Княжева махала,Knyazheva mahala,village
+1644,12,locality,Кобиляк,Kobilyak,village
+1645,12,locality,Ковачица,Kovachitsa,village
+1646,12,locality,Комощица,Komoshtitsa,village
+1647,12,locality,Костенци,Kostentsi,village
+1648,12,locality,Котеновци,Kotenovtsi,village
+1649,12,locality,Крапчене,Krapchene,village
+1650,12,locality,Лесковец,Leskovets,village
+1651,12,locality,Лехчево,Lehchevo,village
+1652,12,locality,Липен,Lipen,village
+1653,12,locality,Лом,Lom,city
+1654,12,locality,Медковец,Medkovets,village
+1655,12,locality,Мездрея,Mezdreya,village
+1656,12,locality,Меляне,Melyane,village
+1657,12,locality,Мокреш,Mokresh,village
+1658,12,locality,Монтана,Montana,city
+1659,12,locality,Мърчево,Marchevo,village
+1660,12,locality,Николово,Nikolovo,village
+1661,12,locality,Охрид,Ohrid,village
+1662,12,locality,Песочница,Pesochnitsa,village
+1663,12,locality,Пишурка,Pishurka,village
+1664,12,locality,Помеждин,Pomezhdin,village
+1665,12,locality,Пърличево,Parlichevo,village
+1666,12,locality,Равна,Ravna,village
+1667,12,locality,Септемврийци,Septemvriytsi,village
+1668,12,locality,Сливовик,Slivovik,village
+1669,12,locality,Смирненски,Smirnenski,village
+1670,12,locality,Смоляновци,Smolyanovtsi,village
+1671,12,locality,Спанчевци,Spanchevtsi,village
+1672,12,locality,Сталийска махала,Staliyska mahala,village
+1673,12,locality,Станево,Stanevo,village
+1674,12,locality,Стубел,Stubel,village
+1675,12,locality,Студено буче,Studeno buche,village
+1676,12,locality,Сумер,Sumer,village
+1677,12,locality,Трифоново,Trifonovo,village
+1678,12,locality,Цветкова бара,Tsvetkova bara,village
+1679,12,locality,Черкаски,Cherkaski,village
+1680,12,locality,Чипровци,Chiprovtsi,city
+1681,12,locality,Ягодово,Yagodovo,village
+1682,12,locality,Якимово,Yakimovo,village
+1683,13,locality,Аканджиево,Akandzhievo,village
+1684,13,locality,Алеко Константиново,Aleko Konstantinovo,village
+1685,13,locality,Априлци,Apriltsi,village
+1686,13,locality,Баня,Banya,village
+1687,13,locality,Батак,Batak,city
+1688,13,locality,Батак,Batak,reservoir
+1689,13,locality,Белово,Belovo,city
+1690,13,locality,Блатница,Blatnitsa,village
+1691,13,locality,Бошуля,Boshulya,village
+1692,13,locality,Братаница,Bratanitsa,village
+1693,13,locality,Брацигово,Bratsigovo,city
+1694,13,locality,Бъта,Bata,village
+1695,13,locality,Бяга,Byaga,village
+1696,13,locality,Варвара,Varvara,village
+1697,13,locality,Велинград,Velingrad,city
+1698,13,locality,Величково,Velichkovo,village
+1699,13,locality,Ветрен,Vetren,city
+1700,13,locality,Ветрен дол,Vetren dol,village
+1701,13,locality,Виноградец,Vinogradets,village
+1702,13,locality,Габровица,Gabrovitsa,village
+1703,13,locality,Гелеменово,Gelemenovo,village
+1704,13,locality,Главиница,Glavinitsa,village
+1705,13,locality,Говедаре,Govedare,village
+1706,13,locality,Голямо Белово,Golyamo Belovo,village
+1707,13,locality,Горно вършило,Gorno varshilo,village
+1708,13,locality,Дебръщица,Debrashtitsa,village
+1709,13,locality,Динката,Dinkata,village
+1710,13,locality,Добровница,Dobrovnitsa,village
+1711,13,locality,Долно вършило,Dolno varshilo,village
+1712,13,locality,Дорково,Dorkovo,village
+1713,13,locality,Драгиново,Draginovo,village
+1714,13,locality,Драгор,Dragor,village
+1715,13,locality,Дъбравите,Dabravite,village
+1716,13,locality,Дюлево,Dyulevo,village
+1717,13,locality,Елшица,Elshitsa,village
+1718,13,locality,Жребичко,Zhrebichko,village
+1719,13,locality,Звъничево,Zvanichevo,village
+1720,13,locality,Злокучене,Zlokuchene,village
+1721,13,locality,Ивайло,Ivaylo,village
+1722,13,locality,Исперихово,Isperihovo,village
+1723,13,locality,Калугерово,Kalugerovo,village
+1724,13,locality,Капитан Димитриево,Kapitan Dimitrievo,village
+1725,13,locality,Карабунар,Karabunar,village
+1726,13,locality,Ковачево,Kovachevo,village
+1727,13,locality,Козарско,Kozarsko,village
+1728,13,locality,Костандово,Kostandovo,city
+1729,13,locality,Крали Марко,Krali Marko,village
+1730,13,locality,Левски,Levski,village
+1731,13,locality,Лесичово,Lesichovo,village
+1732,13,locality,Лозен,Lozen,village
+1733,13,locality,Ляхово,Lyahovo,village
+1734,13,locality,Мало Конаре,Malo Konare,village
+1735,13,locality,Мененкьово,Menenkyovo,village
+1736,13,locality,Мирянци,Miryantsi,village
+1737,13,locality,Мокрище,Mokrishte,village
+1738,13,locality,Момина клисура,Momina klisura,village
+1739,13,locality,Оборище,Oborishte,village
+1740,13,locality,Овчеполци,Ovchepoltsi,village
+1741,13,locality,Огняново,Ognyanovo,village
+1742,13,locality,Пазарджик,Pazardzhik,city
+1743,13,locality,Памидово,Pamidovo,village
+1744,13,locality,Панагюрище,Panagyurishte,city
+1745,13,locality,Панагюрски колонии,Panagyurski kolonii,village
+1746,13,locality,Паталеница,Patalenitsa,village
+1747,13,locality,Пашови,Pashovi,village
+1748,13,locality,Пещера,Peshtera,city
+1749,13,locality,Пищигово,Pishtigovo,village
+1750,13,locality,Поибрене,Poibrene,village
+1751,13,locality,Попинци,Popintsi,village
+1752,13,locality,Равногор,Ravnogor,village
+1753,13,locality,Радилово,Radilovo,village
+1754,13,locality,Ракитово,Rakitovo,city
+1755,13,locality,Розово,Rozovo,village
+1756,13,locality,Росен,Rosen,village
+1757,13,locality,Сарая,Saraya,village
+1758,13,locality,Сбор,Sbor,village
+1759,13,locality,Свобода,Svoboda,village
+1760,13,locality,Семчиново,Semchinovo,village
+1761,13,locality,Септември,Septemvri,city
+1762,13,locality,Сестримо,Sestrimo,village
+1763,13,locality,Симеоновец,Simeonovets,village
+1764,13,locality,Синитово,Sinitovo,village
+1765,13,locality,Славовица,Slavovitsa,village
+1766,13,locality,Смилец,Smilets,village
+1767,13,locality,Сребриново,Srebrinovo,village
+1768,13,locality,Стрелча,Strelcha,city
+1769,13,locality,Сърница,Sarnitsa,city
+1770,13,locality,Тополи дол,Topoli dol,village
+1771,13,locality,Тракия,Trakiya,highway
+1772,13,locality,Фотиново,Fotinovo,village
+1773,13,locality,Хаджиево,Hadzhievo,village
+1774,13,locality,Цар Асен,Tsar Asen,village
+1775,13,locality,Церово,Tserovo,village
+1776,13,locality,Цигов чарк,Tsigov chark,area
+1777,13,locality,Црънча,Tsrancha,village
+1778,13,locality,Черногорово,Chernogorovo,village
+1779,13,locality,Щърково,Shtarkovo,village
+1780,13,locality,Юнаците,Yunatsite,village
+1781,13,locality,Юндола,Yundola,village
+1782,14,locality,Арзан,Arzan,village
+1783,14,locality,Бабица,Babitsa,village
+1784,14,locality,Байкалско,Baykalsko,village
+1785,14,locality,Банище,Banishte,village
+1786,14,locality,Банкя,Bankya,village
+1787,14,locality,Батановци,Batanovtsi,city
+1788,14,locality,Бегуновци,Begunovtsi,village
+1789,14,locality,Беланица,Belanitsa,village
+1790,14,locality,Берайнци,Berayntsi,village
+1791,14,locality,Беренде,Berende,village
+1792,14,locality,Блатешница,Blateshnitsa,village
+1793,14,locality,Бобораци,Boboratsi,village
+1794,14,locality,Богданов дол,Bogdanov dol,village
+1795,14,locality,Борнарево,Bornarevo,village
+1796,14,locality,Боснек,Bosnek,village
+1797,14,locality,Брезник,Breznik,city
+1798,14,locality,Брезнишки извор,Breznishki izvor,village
+1799,14,locality,Бусинци,Busintsi,village
+1800,14,locality,Велковци,Velkovtsi,village
+1801,14,locality,Видрица,Vidritsa,village
+1802,14,locality,Вискяр,Viskyar,village
+1803,14,locality,Витановци,Vitanovtsi,village
+1804,14,locality,Владимир,Vladimir,village
+1805,14,locality,Вукан,Vukan,village
+1806,14,locality,Габровдол,Gabrovdol,village
+1807,14,locality,Гигинци,Gigintsi,village
+1808,14,locality,Главановци,Glavanovtsi,village
+1809,14,locality,Глоговица,Glogovitsa,village
+1810,14,locality,Гоз,Goz,village
+1811,14,locality,Големо Бучино,Golemo Buchino,village
+1812,14,locality,Горна Врабча,Gorna Vrabcha,village
+1813,14,locality,Горна Диканя,Gorna Dikanya,village
+1814,14,locality,Горна Секирна,Gorna Sekirna,village
+1815,14,locality,Горни Романци,Gorni Romantsi,village
+1816,14,locality,Горочевци,Gorochevtsi,village
+1817,14,locality,Гълъбник,Galabnik,village
+1818,14,locality,Гърло,Garlo,village
+1819,14,locality,Дебели лаг,Debeli lag,village
+1820,14,locality,Дивля,Divlya,village
+1821,14,locality,Дивотино,Divotino,village
+1822,14,locality,Долна Диканя,Dolna Dikanya,village
+1823,14,locality,Долна Мелна,Dolna Melna,village
+1824,14,locality,Долна Секирна,Dolna Sekirna,village
+1825,14,locality,Долни Раковец,Dolni Rakovets,village
+1826,14,locality,Долни Романци,Dolni Romantsi,village
+1827,14,locality,Драгичево,Dragichevo,village
+1828,14,locality,Драгомирово,Dragomirovo,village
+1829,14,locality,Дрен,Dren,village
+1830,14,locality,Друган,Drugan,village
+1831,14,locality,Душинци,Dushintsi,village
+1832,14,locality,Егълница,Egalnitsa,village
+1833,14,locality,Ездимирци,Ezdimirtsi,village
+1834,14,locality,Еловдол,Elovdol,village
+1835,14,locality,Ерул,Erul,village
+1836,14,locality,Жабляно,Zhablyano,village
+1837,14,locality,Жедна,Zhedna,village
+1838,14,locality,Житуша,Zhitusha,village
+1839,14,locality,Забел,Zabel,village
+1840,14,locality,Завала,Zavala,village
+1841,14,locality,Зелениград,Zelenigrad,village
+1842,14,locality,Земен,Zemen,city
+1843,14,locality,Зидарци,Zidartsi,village
+1844,14,locality,Извор,Izvor,village
+1845,14,locality,Калище,Kalishte,village
+1846,14,locality,Касилаг,Kasilag,village
+1847,14,locality,Кладница,Kladnitsa,village
+1848,14,locality,Кленовик,Klenovik,village
+1849,14,locality,Ковачевци,Kovachevtsi,village
+1850,14,locality,Кондофрей,Kondofrey,village
+1851,14,locality,Конска,Konska,village
+1852,14,locality,Копаница,Kopanitsa,village
+1853,14,locality,Косача,Kosacha,village
+1854,14,locality,Кошарево,Kosharevo,village
+1855,14,locality,Кошарите,Kosharite,village
+1856,14,locality,Кралев дол,Kralev dol,village
+1857,14,locality,Лесковец,Leskovets,village
+1858,14,locality,Лешниковци,Leshnikovtsi,village
+1859,14,locality,Лобош,Lobosh,village
+1860,14,locality,Люлин,Lyulin,village
+1861,14,locality,Люлин,Lyulin,highway
+1862,14,locality,Лялинци,Lyalintsi,village
+1863,14,locality,Мещица,Meshtitsa,village
+1864,14,locality,Мрамор,Mramor,village
+1865,14,locality,Мурено,Mureno,village
+1866,14,locality,Насалевци,Nasalevtsi,village
+1867,14,locality,Негованци,Negovantsi,village
+1868,14,locality,Неделково,Nedelkovo,village
+1869,14,locality,Непразненци,Nepraznentsi,village
+1870,14,locality,Николаево,Nikolaevo,village
+1871,14,locality,Ноевци,Noevtsi,village
+1872,14,locality,Озърновци,Ozarnovtsi,village
+1873,14,locality,Парамун,Paramun,village
+1874,14,locality,Перник,Pernik,city
+1875,14,locality,Пещера,Peshtera,village
+1876,14,locality,Планиница,Planinitsa,village
+1877,14,locality,Поцърненци,Potsarnentsi,village
+1878,14,locality,Прибой,Priboy,village
+1879,14,locality,Пчелина,Pchelina,reservoir
+1880,14,locality,Радибош,Radibosh,village
+1881,14,locality,Радово,Radovo,village
+1882,14,locality,Радомир,Radomir,city
+1883,14,locality,Радуй,Raduy,village
+1884,14,locality,Ракиловци,Rakilovtsi,village
+1885,14,locality,Рани луг,Rani lug,village
+1886,14,locality,Расник,Rasnik,village
+1887,14,locality,Ребро,Rebro,village
+1888,14,locality,Режанци,Rezhantsi,village
+1889,14,locality,Рударци,Rudartsi,village
+1890,14,locality,Ръжавец,Razhavets,village
+1891,14,locality,Садовик,Sadovik,village
+1892,14,locality,Светля,Svetlya,village
+1893,14,locality,Селищен дол,Selishten dol,village
+1894,14,locality,Сирищник,Sirishtnik,village
+1895,14,locality,Слаковци,Slakovtsi,village
+1896,14,locality,Смиров дол,Smirov dol,village
+1897,14,locality,Сопица,Sopitsa,village
+1898,14,locality,Стайчовци,Staychovtsi,village
+1899,14,locality,Станьовци,Stanyovtsi,village
+1900,14,locality,Старо село,Staro selo,village
+1901,14,locality,Стефаново,Stefanovo,village
+1902,14,locality,Стрезимировци,Strezimirovtsi,village
+1903,14,locality,Студен извор,Studen izvor,village
+1904,14,locality,Студена,Studena,village
+1905,14,locality,Трън,Tran,city
+1906,14,locality,Туроковци,Turokovtsi,village
+1907,14,locality,Углярци,Uglyartsi,village
+1908,14,locality,Филиповци,Filipovtsi,village
+1909,14,locality,Цегриловци,Tsegrilovtsi,village
+1910,14,locality,Чепино,Chepino,village
+1911,14,locality,Червена могила,Chervena mogila,village
+1912,14,locality,Черна гора,Cherna gora,village
+1913,14,locality,Чуйпетлово,Chuypetlovo,village
+1914,14,locality,Чуковец,Chukovets,village
+1915,14,locality,Ярджиловци,Yardzhilovtsi,village
+1916,14,locality,Ярловци,Yarlovtsi,village
+1917,14,locality,път Е79,pat E79,main_road
+1918,15,locality,Асеново,Asenovo,village
+1919,15,locality,Асеновци,Asenovtsi,village
+1920,15,locality,Аспарухово,Asparuhovo,village
+1921,15,locality,Байкал,Baykal,village
+1922,15,locality,Беглеж,Beglezh,village
+1923,15,locality,Белене,Belene,city
+1924,15,locality,Биволаре,Bivolare,village
+1925,15,locality,Божурица,Bozhuritsa,village
+1926,15,locality,Бохот,Bohot,village
+1927,15,locality,Брегаре,Bregare,village
+1928,15,locality,Бреница,Brenitsa,village
+1929,15,locality,Брест,Brest,village
+1930,15,locality,Бресте,Breste,village
+1931,15,locality,Брестовец,Brestovets,village
+1932,15,locality,Бръшляница,Brashlyanitsa,village
+1933,15,locality,Буковлък,Bukovlak,village
+1934,15,locality,Българене,Balgarene,village
+1935,15,locality,Бъркач,Barkach,village
+1936,15,locality,Въбел,Vabel,village
+1937,15,locality,Вълчитрън,Valchitran,village
+1938,15,locality,Върбица,Varbitsa,village
+1939,15,locality,Гиген,Gigen,village
+1940,15,locality,Горна Митрополия,Gorna Mitropoliya,village
+1941,15,locality,Горни Дъбник,Gorni Dabnik,village
+1942,15,locality,Горник,Gornik,village
+1943,15,locality,Горталово,Gortalovo,village
+1944,15,locality,Гостиля,Gostilya,village
+1945,15,locality,Градина,Gradina,village
+1946,15,locality,Градище,Gradishte,village
+1947,15,locality,Гривица,Grivitsa,village
+1948,15,locality,Гулянци,Gulyantsi,city
+1949,15,locality,Дебово,Debovo,village
+1950,15,locality,Девенци,Deventsi,village
+1951,15,locality,Деков,Dekov,village
+1952,15,locality,Дисевица,Disevitsa,village
+1953,15,locality,Долна Митрополия,Dolna Mitropoliya,city
+1954,15,locality,Долни Вит,Dolni Vit,village
+1955,15,locality,Долни Дъбник,Dolni Dabnik,city
+1956,15,locality,Долни Луковит,Dolni Lukovit,village
+1957,15,locality,Драгаш войвода,Dragash voyvoda,village
+1958,15,locality,Дъбован,Dabovan,village
+1959,15,locality,Евлогиево,Evlogievo,village
+1960,15,locality,Еница,Enitsa,village
+1961,15,locality,Жернов,Zhernov,village
+1962,15,locality,Загражден,Zagrazhden,village
+1963,15,locality,Згалево,Zgalevo,village
+1964,15,locality,Изгрев,Izgrev,village
+1965,15,locality,Искър,Iskar,city
+1966,15,locality,Искър,Iskar,village
+1967,15,locality,Каменец,Kamenets,village
+1968,15,locality,Кнежа,Knezha,city
+1969,15,locality,Козар Белене,Kozar Belene,village
+1970,15,locality,Коиловци,Koilovtsi,village
+1971,15,locality,Койнаре,Koynare,city
+1972,15,locality,Комарево,Komarevo,village
+1973,15,locality,Крета,Kreta,village
+1974,15,locality,Крушовене,Krushovene,village
+1975,15,locality,Крушовица,Krushovitsa,village
+1976,15,locality,Кулина вода,Kulina voda,village
+1977,15,locality,Къртожабене,Kartozhabene,village
+1978,15,locality,Къшин,Kashin,village
+1979,15,locality,Лазарово,Lazarovo,village
+1980,15,locality,Ласкар,Laskar,village
+1981,15,locality,Левски,Levski,city
+1982,15,locality,Ленково,Lenkovo,village
+1983,15,locality,Лепица,Lepitsa,village
+1984,15,locality,Лозица,Lozitsa,village
+1985,15,locality,Любеново,Lyubenovo,village
+1986,15,locality,Малчика,Malchika,village
+1987,15,locality,Мечка,Mechka,village
+1988,15,locality,Милковица,Milkovitsa,village
+1989,15,locality,Муселиево,Muselievo,village
+1990,15,locality,Николаево,Nikolaevo,village
+1991,15,locality,Никопол,Nikopol,city
+1992,15,locality,Новачене,Novachene,village
+1993,15,locality,Обнова,Obnova,village
+1994,15,locality,Одърне,Odarne,village
+1995,15,locality,Опанец,Opanets,village
+1996,15,locality,Ореховица,Orehovitsa,village
+1997,15,locality,Пелишат,Pelishat,village
+1998,15,locality,Петокладенци,Petokladentsi,village
+1999,15,locality,Петърница,Petarnitsa,village
+2000,15,locality,Писарово,Pisarovo,village
+2001,15,locality,Плевен,Pleven,city
+2002,15,locality,Победа,Pobeda,village
+2003,15,locality,Подем,Podem,village
+2004,15,locality,Пордим,Pordim,city
+2005,15,locality,Радишево,Radishevo,village
+2006,15,locality,Радомирци,Radomirtsi,village
+2007,15,locality,Ракита,Rakita,village
+2008,15,locality,Ралево,Ralevo,village
+2009,15,locality,Реселец,Reselets,village
+2010,15,locality,Рибен,Riben,village
+2011,15,locality,Рупци,Ruptsi,village
+2012,15,locality,Садовец,Sadovets,village
+2013,15,locality,Славовица,Slavovitsa,village
+2014,15,locality,Славяново,Slavyanovo,city
+2015,15,locality,Сомовит,Somovit,village
+2016,15,locality,Ставерци,Stavertsi,village
+2017,15,locality,Староселци,Staroseltsi,village
+2018,15,locality,Стежерово,Stezherovo,village
+2019,15,locality,Сухаче,Suhache,village
+2020,15,locality,Татари,Tatari,village
+2021,15,locality,Телиш,Telish,village
+2022,15,locality,Тодорово,Todorovo,village
+2023,15,locality,Тотлебен,Totleben,village
+2024,15,locality,Трънчовица,Tranchovitsa,village
+2025,15,locality,Тръстеник,Trastenik,city
+2026,15,locality,Тученица,Tuchenitsa,village
+2027,15,locality,Търнене,Tarnene,village
+2028,15,locality,Червен бряг,Cherven bryag,city
+2029,15,locality,Черковица,Cherkovitsa,village
+2030,15,locality,Чомаковци,Chomakovtsi,village
+2031,15,locality,Шияково,Shiyakovo,village
+2032,15,locality,Ясен,Yasen,village
+2033,15,locality,път Е83,pat E83,main_road
+2034,16,locality,Анево,Anevo,village
+2035,16,locality,Асеновград,Asenovgrad,city
+2036,16,locality,Ахматово,Ahmatovo,village
+2037,16,locality,Бабек,Babek,village
+2038,16,locality,Баня,Banya,city
+2039,16,locality,Бачково,Bachkovo,village
+2040,16,locality,Бегово,Begovo,village
+2041,16,locality,Бегунци,Beguntsi,village
+2042,16,locality,Белащица,Belashtitsa,village
+2043,16,locality,Белица,Belitsa,village
+2044,16,locality,Беловица,Belovitsa,village
+2045,16,locality,Белозем,Belozem,village
+2046,16,locality,Бенковски,Benkovski,village
+2047,16,locality,Богдан,Bogdan,village
+2048,16,locality,Богданица,Bogdanitsa,village
+2049,16,locality,Бойково,Boykovo,village
+2050,16,locality,Болярино,Bolyarino,village
+2051,16,locality,Болярци,Bolyartsi,village
+2052,16,locality,Борец,Borets,village
+2053,16,locality,Борово,Borovo,village
+2054,16,locality,Боянци,Boyantsi,village
+2055,16,locality,Браниполе,Branipole,village
+2056,16,locality,Брезово,Brezovo,city
+2057,16,locality,Брестник,Brestnik,village
+2058,16,locality,Брестовица,Brestovitsa,village
+2059,16,locality,Брягово,Bryagovo,village
+2060,16,locality,Буково,Bukovo,village
+2061,16,locality,Бяла река,Byala reka,village
+2062,16,locality,Васил Левски,Vasil Levski,village
+2063,16,locality,Ведраре,Vedrare,village
+2064,16,locality,Виница,Vinitsa,village
+2065,16,locality,Войводиново,Voyvodinovo,village
+2066,16,locality,Войнягово,Voynyagovo,village
+2067,16,locality,Войсил,Voysil,village
+2068,16,locality,Врата,Vrata,village
+2069,16,locality,Върбен,Varben,village
+2070,16,locality,Главатар,Glavatar,village
+2071,16,locality,Голям чардак,Golyam chardak,village
+2072,16,locality,Горна махала,Gorna mahala,village
+2073,16,locality,Горни Домлян,Gorni Domlyan,village
+2074,16,locality,Горнослав,Gornoslav,village
+2075,16,locality,Градина,Gradina,village
+2076,16,locality,Граф Игнатиево,Graf Ignatievo,village
+2077,16,locality,Гълъбово,Galabovo,village
+2078,16,locality,Дедево,Dedevo,village
+2079,16,locality,Джурково,Dzhurkovo,village
+2080,16,locality,Динк,Dink,village
+2081,16,locality,Добралък,Dobralak,village
+2082,16,locality,Добри дол,Dobri dol,village
+2083,16,locality,Добростан,Dobrostan,village
+2084,16,locality,Долна махала,Dolna mahala,village
+2085,16,locality,Долнослав,Dolnoslav,village
+2086,16,locality,Домлян,Domlyan,village
+2087,16,locality,Драгойново,Dragoynovo,village
+2088,16,locality,Драгомир,Dragomir,village
+2089,16,locality,Дрангово,Drangovo,village
+2090,16,locality,Дряново,Dryanovo,village
+2091,16,locality,Дуванлии,Duvanlii,village
+2092,16,locality,Дъбене,Dabene,village
+2093,16,locality,Дълбок извор,Dalbok izvor,village
+2094,16,locality,Дълго поле,Dalgo pole,village
+2095,16,locality,Езерово,Ezerovo,village
+2096,16,locality,Желязно,Zhelyazno,village
+2097,16,locality,Житница,Zhitnitsa,village
+2098,16,locality,Здравец,Zdravets,mountain_hut
+2099,16,locality,Зелениково,Zelenikovo,village
+2100,16,locality,Златитрап,Zlatitrap,village
+2101,16,locality,Златовръх,Zlatovrah,village
+2102,16,locality,Златосел,Zlatosel,village
+2103,16,locality,Иван Вазово,Ivan Vazovo,village
+2104,16,locality,Иганово,Iganovo,village
+2105,16,locality,Избеглии,Izbeglii,village
+2106,16,locality,Извор,Izvor,village
+2107,16,locality,Изворово,Izvorovo,village
+2108,16,locality,Искра,Iskra,village
+2109,16,locality,Йоаким Груево,Yoakim Gruevo,village
+2110,16,locality,Кадиево,Kadievo,village
+2111,16,locality,Калековец,Kalekovets,village
+2112,16,locality,Калофер,Kalofer,city
+2113,16,locality,Калояново,Kaloyanovo,village
+2114,16,locality,Каравелово,Karavelovo,village
+2115,16,locality,Караджалово,Karadzhalovo,village
+2116,16,locality,Караджово,Karadzhovo,village
+2117,16,locality,Карлово,Karlovo,city
+2118,16,locality,Катуница,Katunitsa,village
+2119,16,locality,Климент,Kliment,village
+2120,16,locality,Клисура,Klisura,city
+2121,16,locality,Козаново,Kozanovo,village
+2122,16,locality,Конуш,Konush,village
+2123,16,locality,Косово,Kosovo,village
+2124,16,locality,Костиево,Kostievo,village
+2125,16,locality,Кочево,Kochevo,village
+2126,16,locality,Красново,Krasnovo,village
+2127,16,locality,Крислово,Krislovo,village
+2128,16,locality,Кричим,Krichim,city
+2129,16,locality,Крумово,Krumovo,village
+2130,16,locality,Крушево,Krushevo,village
+2131,16,locality,Крушово,Krushovo,village
+2132,16,locality,Кръстевич,Krastevich,village
+2133,16,locality,Куклен,Kuklen,city
+2134,16,locality,Куртово,Kurtovo,village
+2135,16,locality,Куртово Конаре,Kurtovo Konare,village
+2136,16,locality,Кърнаре,Karnare,village
+2137,16,locality,Леново,Lenovo,village
+2138,16,locality,Лилково,Lilkovo,village
+2139,16,locality,Лъки,Laki,city
+2140,16,locality,Лясково,Lyaskovo,village
+2141,16,locality,Малък чардак,Malak chardak,village
+2142,16,locality,Манастир,Manastir,village
+2143,16,locality,Маноле,Manole,village
+2144,16,locality,Манолско Конаре,Manolsko Konare,village
+2145,16,locality,Марино поле,Marino pole,village
+2146,16,locality,Марково,Markovo,village
+2147,16,locality,Милево,Milevo,village
+2148,16,locality,Михилци,Mihiltsi,village
+2149,16,locality,Момино село,Momino selo,village
+2150,16,locality,Моминско,Mominsko,village
+2151,16,locality,Московец,Moskovets,village
+2152,16,locality,Мостово,Mostovo,village
+2153,16,locality,Мраченик,Mrachenik,village
+2154,16,locality,Мулдава,Muldava,village
+2155,16,locality,Мътеница,Matenitsa,village
+2156,16,locality,Найден Герово,Nayden Gerovo,village
+2157,16,locality,Нареченски бани,Narechenski bani,village
+2158,16,locality,Неделево,Nedelevo,village
+2159,16,locality,Новаково,Novakovo,village
+2160,16,locality,Нови извор,Novi izvor,village
+2161,16,locality,Ново Железаре,Novo Zhelezare,village
+2162,16,locality,Ново село,Novo selo,village
+2163,16,locality,Орешец,Oreshets,village
+2164,16,locality,Оризари,Orizari,village
+2165,16,locality,Отец Кирилово,Otets Kirilovo,village
+2166,16,locality,Отец Паисиево,Otets Paisievo,village
+2167,16,locality,Паничери,Panicheri,village
+2168,16,locality,Патриарх Евтимово,Patriarh Evtimovo,village
+2169,16,locality,Певците,Pevtsite,village
+2170,16,locality,Перущица,Perushtitsa,city
+2171,16,locality,Песнопой,Pesnopoy,village
+2172,16,locality,Пловдив,Plovdiv,city
+2173,16,locality,Поповица,Popovitsa,village
+2174,16,locality,Поройна,Poroyna,village
+2175,16,locality,Правище,Pravishte,village
+2176,16,locality,Православен,Pravoslaven,village
+2177,16,locality,Пролом,Prolom,village
+2178,16,locality,Пъдарско,Padarsko,village
+2179,16,locality,Първенец,Parvenets,village
+2180,16,locality,Първомай,Parvomay,city
+2181,16,locality,Радиново,Radinovo,village
+2182,16,locality,Раковски,Rakovski,city
+2183,16,locality,Рогош,Rogosh,village
+2184,16,locality,Розино,Rozino,village
+2185,16,locality,Розовец,Rozovets,village
+2186,16,locality,Руен,Ruen,village
+2187,16,locality,Ръжево,Razhevo,village
+2188,16,locality,Ръжево Конаре,Razhevo Konare,village
+2189,16,locality,Садово,Sadovo,city
+2190,16,locality,Свежен,Svezhen,village
+2191,16,locality,Селци,Seltsi,village
+2192,16,locality,Сини връх,Sini vrah,village
+2193,16,locality,Ситово,Sitovo,village
+2194,16,locality,Скобелево,Skobelevo,village
+2195,16,locality,Скутаре,Skutare,village
+2196,16,locality,Слатина,Slatina,village
+2197,16,locality,Соколица,Sokolitsa,village
+2198,16,locality,Сопот,Sopot,city
+2199,16,locality,Стамболийски,Stamboliyski,city
+2200,16,locality,Старо Железаре,Staro Zhelezare,village
+2201,16,locality,Старосел,Starosel,village
+2202,16,locality,Стоево,Stoevo,village
+2203,16,locality,Столетово,Stoletovo,village
+2204,16,locality,Стрелци,Streltsi,village
+2205,16,locality,Строево,Stroevo,village
+2206,16,locality,Стряма,Stryama,village
+2207,16,locality,Сухозем,Suhozem,village
+2208,16,locality,Съединение,Saedinenie,city
+2209,16,locality,Сърнегор,Sarnegor,village
+2210,16,locality,Татарево,Tatarevo,village
+2211,16,locality,Тополово,Topolovo,village
+2212,16,locality,Тракия,Trakiya,highway
+2213,16,locality,Три могили,Tri mogili,village
+2214,16,locality,Триводици,Trivoditsi,village
+2215,16,locality,Трилистник,Trilistnik,village
+2216,16,locality,Труд,Trud,village
+2217,16,locality,Тюркмен,Tyurkmen,village
+2218,16,locality,Устина,Ustina,village
+2219,16,locality,Хисаря,Hisarya,city
+2220,16,locality,Храбрино,Hrabrino,village
+2221,16,locality,Христо Даново,Hristo Danovo,village
+2222,16,locality,Цалапица,Tsalapitsa,village
+2223,16,locality,Цар Калоян,Tsar Kaloyan,village
+2224,16,locality,Царацово,Tsaratsovo,village
+2225,16,locality,Царимир,Tsarimir,village
+2226,16,locality,Церетелево,Tseretelevo,village
+2227,16,locality,Червен,Cherven,village
+2228,16,locality,Черничево,Chernichevo,village
+2229,16,locality,Черноземен,Chernozemen,village
+2230,16,locality,Чехларе,Chehlare,village
+2231,16,locality,Чешнегирово,Cheshnegirovo,village
+2232,16,locality,Чоба,Choba,village
+2233,16,locality,Чурен,Churen,village
+2234,16,locality,Шишманци,Shishmantsi,village
+2235,16,locality,Югово,Yugovo,village
+2236,16,locality,Яврово,Yavrovo,village
+2237,16,locality,Ягодово,Yagodovo,village
+2238,16,locality,Ясно поле,Yasno pole,village
+2239,17,locality,Балкански,Balkanski,village
+2240,17,locality,Бели Лом,Beli Lom,village
+2241,17,locality,Беловец,Belovets,village
+2242,17,locality,Благоево,Blagoevo,village
+2243,17,locality,Богданци,Bogdantsi,village
+2244,17,locality,Божурово,Bozhurovo,village
+2245,17,locality,Веселина,Veselina,village
+2246,17,locality,Гецово,Getsovo,village
+2247,17,locality,Градина,Gradina,village
+2248,17,locality,Дряновец,Dryanovets,village
+2249,17,locality,Дянково,Dyankovo,village
+2250,17,locality,Езерче,Ezerche,village
+2251,17,locality,Завет,Zavet,city
+2252,17,locality,Звънарци,Zvanartsi,village
+2253,17,locality,Исперих,Isperih,city
+2254,17,locality,Йонково,Yonkovo,village
+2255,17,locality,Кара Михал,Kara Mihal,village
+2256,17,locality,Киченица,Kichenitsa,village
+2257,17,locality,Костанденец,Kostandenets,village
+2258,17,locality,Кубрат,Kubrat,city
+2259,17,locality,Ловско,Lovsko,village
+2260,17,locality,Лозница,Loznitsa,city
+2261,17,locality,Лъвино,Lavino,village
+2262,17,locality,Малък Поровец,Malak Porovets,village
+2263,17,locality,Манастирци,Manastirtsi,village
+2264,17,locality,Мортагоново,Mortagonovo,village
+2265,17,locality,Недоклан,Nedoklan,village
+2266,17,locality,Осенец,Osenets,village
+2267,17,locality,Островче,Ostrovche,village
+2268,17,locality,Побит камък,Pobit kamak,village
+2269,17,locality,Подайва,Podayva,village
+2270,17,locality,Пороище,Poroishte,village
+2271,17,locality,Просторно,Prostorno,village
+2272,17,locality,Равно,Ravno,village
+2273,17,locality,Радинград,Radingrad,village
+2274,17,locality,Разград,Razgrad,city
+2275,17,locality,Райнино,Raynino,village
+2276,17,locality,Раковски,Rakovski,village
+2277,17,locality,Свещари,Sveshtari,village
+2278,17,locality,Сейдол,Seydol,village
+2279,17,locality,Стражец,Strazhets,village
+2280,17,locality,Тертер,Terter,village
+2281,17,locality,Тодорово,Todorovo,village
+2282,17,locality,Топчии,Topchii,village
+2283,17,locality,Трапище,Trapishte,village
+2284,17,locality,Тръбач,Trabach,village
+2285,17,locality,Ушинци,Ushintsi,village
+2286,17,locality,Хърсово,Harsovo,village
+2287,17,locality,Цар Калоян,Tsar Kaloyan,city
+2288,17,locality,Черковна,Cherkovna,village
+2289,17,locality,Юпер,Yuper,village
+2290,17,locality,Ясеновец,Yasenovets,village
+2291,18,locality,Бабово,Babovo,village
+2292,18,locality,Баниска,Baniska,village
+2293,18,locality,Басарбово,Basarbovo,village
+2294,18,locality,Батин,Batin,village
+2295,18,locality,Батишница,Batishnitsa,village
+2296,18,locality,Белцов,Beltsov,village
+2297,18,locality,Беляново,Belyanovo,village
+2298,18,locality,Бистренци,Bistrentsi,village
+2299,18,locality,Божичен,Bozhichen,village
+2300,18,locality,Борисово,Borisovo,village
+2301,18,locality,Борово,Borovo,city
+2302,18,locality,Босилковци,Bosilkovtsi,village
+2303,18,locality,Брестовица,Brestovitsa,village
+2304,18,locality,Бръшлен,Brashlen,village
+2305,18,locality,Бъзовец,Bazovets,village
+2306,18,locality,Бъзън,Bazan,village
+2307,18,locality,Бяла,Byala,city
+2308,18,locality,Ветово,Vetovo,city
+2309,18,locality,Волово,Volovo,village
+2310,18,locality,Глоджево,Glodzhevo,city
+2311,18,locality,Голямо Враново,Golyamo Vranovo,village
+2312,18,locality,Горно Абланово,Gorno Ablanovo,village
+2313,18,locality,Две могили,Dve mogili,city
+2314,18,locality,Джулюница,Dzhulyunitsa,village
+2315,18,locality,Долна Студена,Dolna Studena,village
+2316,18,locality,Долно Абланово,Dolno Ablanovo,village
+2317,18,locality,Дряновец,Dryanovets,village
+2318,18,locality,Екзарх Йосиф,Ekzarh Yosif,village
+2319,18,locality,Иваново,Ivanovo,village
+2320,18,locality,Караманово,Karamanovo,village
+2321,18,locality,Каран Върбовка,Karan Varbovka,village
+2322,18,locality,Кацелово,Katselovo,village
+2323,18,locality,Копривец,Koprivets,village
+2324,18,locality,Кошарна,Kosharna,village
+2325,18,locality,Кошов,Koshov,village
+2326,18,locality,Красен,Krasen,village
+2327,18,locality,Кривина,Krivina,village
+2328,18,locality,Кривня,Krivnya,village
+2329,18,locality,Лом Черковна,Lom Cherkovna,village
+2330,18,locality,Малко Враново,Malko Vranovo,village
+2331,18,locality,Мартен,Marten,city
+2332,18,locality,Мечка,Mechka,village
+2333,18,locality,Могилино,Mogilino,village
+2334,18,locality,Николово,Nikolovo,village
+2335,18,locality,Нисово,Nisovo,village
+2336,18,locality,Новград,Novgrad,village
+2337,18,locality,Ново село,Novo selo,village
+2338,18,locality,Обретеник,Obretenik,village
+2339,18,locality,Острица,Ostritsa,village
+2340,18,locality,Пейчиново,Peychinovo,village
+2341,18,locality,Пепелина,Pepelina,village
+2342,18,locality,Пет кладенци,Pet kladentsi,village
+2343,18,locality,Пиперково,Piperkovo,village
+2344,18,locality,Пиргово,Pirgovo,village
+2345,18,locality,Писанец,Pisanets,village
+2346,18,locality,Полско Косово,Polsko Kosovo,village
+2347,18,locality,Просена,Prosena,village
+2348,18,locality,Русе,Ruse,city
+2349,18,locality,Ряхово,Ryahovo,village
+2350,18,locality,Сандрово,Sandrovo,village
+2351,18,locality,Сваленик,Svalenik,village
+2352,18,locality,Семерджиево,Semerdzhievo,village
+2353,18,locality,Сеново,Senovo,city
+2354,18,locality,Сливо поле,Slivo pole,city
+2355,18,locality,Смирненски,Smirnenski,village
+2356,18,locality,Табачка,Tabachka,village
+2357,18,locality,Тетово,Tetovo,village
+2358,18,locality,Тръстеник,Trastenik,village
+2359,18,locality,Хотанца,Hotantsa,village
+2360,18,locality,Ценово,Tsenovo,village
+2361,18,locality,Церовец,Tserovets,village
+2362,18,locality,Червен,Cherven,village
+2363,18,locality,Червена вода,Chervena voda,village
+2364,18,locality,Черешово,Chereshovo,village
+2365,18,locality,Чилнов,Chilnov,village
+2366,18,locality,Широково,Shirokovo,village
+2367,18,locality,Щръклево,Shtraklevo,village
+2368,18,locality,Юделник,Yudelnik,village
+2369,18,locality,път Е85,pat E85,main_road
+2370,19,locality,Айдемир,Aydemir,village
+2371,19,locality,Алеково,Alekovo,village
+2372,19,locality,Алфатар,Alfatar,city
+2373,19,locality,Бабук,Babuk,village
+2374,19,locality,Белица,Belitsa,village
+2375,19,locality,Ветрен,Vetren,village
+2376,19,locality,Войново,Voynovo,village
+2377,19,locality,Гарван,Garvan,village
+2378,19,locality,Главан,Glavan,village
+2379,19,locality,Главиница,Glavinitsa,city
+2380,19,locality,Грънчарово,Grancharovo,village
+2381,19,locality,Добруджанка,Dobrudzhanka,village
+2382,19,locality,Дулово,Dulovo,city
+2383,19,locality,Зафирово,Zafirovo,village
+2384,19,locality,Златоклас,Zlatoklas,village
+2385,19,locality,Кайнарджа,Kaynardzha,village
+2386,19,locality,Калипетрово,Kalipetrovo,village
+2387,19,locality,Каменци,Kamentsi,village
+2388,19,locality,Малък Преславец,Malak Preslavets,village
+2389,19,locality,Межден,Mezhden,village
+2390,19,locality,Нова Черна,Nova Cherna,village
+2391,19,locality,Осен,Osen,village
+2392,19,locality,Пожарево,Pozharevo,village
+2393,19,locality,Полковник Ламбриново,Polkovnik Lambrinovo,village
+2394,19,locality,Поляна,Polyana,village
+2395,19,locality,Попина,Popina,village
+2396,19,locality,Професор Иширково,Profesor Ishirkovo,village
+2397,19,locality,Светослав,Svetoslav,village
+2398,19,locality,Секулово,Sekulovo,village
+2399,19,locality,Силистра,Silistra,city
+2400,19,locality,Ситово,Sitovo,village
+2401,19,locality,Сребърна,Srebarna,village
+2402,19,locality,Средище,Sredishte,village
+2403,19,locality,Старо село,Staro selo,village
+2404,19,locality,Сяново,Syanovo,village
+2405,19,locality,Тутракан,Tutrakan,city
+2406,19,locality,Цар Асен,Tsar Asen,village
+2407,19,locality,Цар Самуил,Tsar Samuil,village
+2408,19,locality,Ценович,Tsenovich,village
+2409,19,locality,Черногор,Chernogor,village
+2410,19,locality,Чернолик,Chernolik,village
+2411,19,locality,Шуменци,Shumentsi,village
+2412,20,locality,Асеновец,Asenovets,village
+2413,20,locality,Баня,Banya,village
+2414,20,locality,Близнец,Bliznets,village
+2415,20,locality,Божевци,Bozhevtsi,village
+2416,20,locality,Боринци,Borintsi,village
+2417,20,locality,Боров дол,Borov dol,village
+2418,20,locality,Бял кладенец,Byal kladenets,village
+2419,20,locality,Бяла,Byala,village
+2420,20,locality,Глушник,Glushnik,village
+2421,20,locality,Голямо Чочовени,Golyamo Chochoveni,village
+2422,20,locality,Горно Александрово,Gorno Aleksandrovo,village
+2423,20,locality,Градско,Gradsko,village
+2424,20,locality,Дядово,Dyadovo,village
+2425,20,locality,Езеро,Ezero,village
+2426,20,locality,Еленово,Elenovo,village
+2427,20,locality,Желю войвода,Zhelyu voyvoda,village
+2428,20,locality,Жеравна,Zheravna,village
+2429,20,locality,Загорци,Zagortsi,village
+2430,20,locality,Злати войвода,Zlati voyvoda,village
+2431,20,locality,Изгрев,Izgrev,village
+2432,20,locality,Ичера,Ichera,village
+2433,20,locality,Калояново,Kaloyanovo,village
+2434,20,locality,Каменово,Kamenovo,village
+2435,20,locality,Караново,Karanovo,village
+2436,20,locality,Катунище,Katunishte,village
+2437,20,locality,Кермен,Kermen,city
+2438,20,locality,Кипилово,Kipilovo,village
+2439,20,locality,Ковачите,Kovachite,village
+2440,20,locality,Коньово,Konyovo,village
+2441,20,locality,Кортен,Korten,village
+2442,20,locality,Котел,Kotel,city
+2443,20,locality,Крушаре,Krushare,village
+2444,20,locality,Любенова махала,Lyubenova mahala,village
+2445,20,locality,Малко Чочовени,Malko Chochoveni,village
+2446,20,locality,Медвен,Medven,village
+2447,20,locality,Мечкарево,Mechkarevo,village
+2448,20,locality,Млекарево,Mlekarevo,village
+2449,20,locality,Научене,Nauchene,village
+2450,20,locality,Нейково,Neykovo,village
+2451,20,locality,Нова Загора,Nova Zagora,city
+2452,20,locality,Новоселец,Novoselets,village
+2453,20,locality,Омарчево,Omarchevo,village
+2454,20,locality,Пет могили,Pet mogili,village
+2455,20,locality,Полско Пъдарево,Polsko Padarevo,village
+2456,20,locality,Радево,Radevo,village
+2457,20,locality,Радецки,Radetski,village
+2458,20,locality,Селиминово,Seliminovo,village
+2459,20,locality,Сливен,Sliven,city
+2460,20,locality,Сокол,Sokol,village
+2461,20,locality,Сотиря,Sotirya,village
+2462,20,locality,Стара река,Stara reka,village
+2463,20,locality,Старо село,Staro selo,village
+2464,20,locality,Стоил войвода,Stoil voyvoda,village
+2465,20,locality,Събрано,Sabrano,village
+2466,20,locality,Съдиево,Sadievo,village
+2467,20,locality,Съдийско поле,Sadiysko pole,village
+2468,20,locality,Твърдица,Tvarditsa,city
+2469,20,locality,Тополчане,Topolchane,village
+2470,20,locality,Трапоклово,Trapoklovo,village
+2471,20,locality,Чинтулово,Chintulovo,village
+2472,20,locality,Чокоба,Chokoba,village
+2473,20,locality,Шивачево,Shivachevo,city
+2474,21,locality,Арда,Arda,village
+2475,21,locality,Баните,Banite,village
+2476,21,locality,Беден,Beden,village
+2477,21,locality,Богутево,Bogutevo,village
+2478,21,locality,Борино,Borino,village
+2479,21,locality,Бостина,Bostina,village
+2480,21,locality,Брезе,Breze,village
+2481,21,locality,Бръщен,Brashten,village
+2482,21,locality,Бяла река,Byala reka,village
+2483,21,locality,Виево,Vievo,village
+2484,21,locality,Вишнево,Vishnevo,village
+2485,21,locality,Влахово,Vlahovo,village
+2486,21,locality,Водни пад,Vodni pad,village
+2487,21,locality,Вълчан дол,Valchan dol,village
+2488,21,locality,Върбина,Varbina,village
+2489,21,locality,Върбово,Varbovo,village
+2490,21,locality,Гела,Gela,village
+2491,21,locality,Глогино,Glogino,village
+2492,21,locality,Горна Арда,Gorna Arda,village
+2493,21,locality,Гращица,Grashtitsa,village
+2494,21,locality,Гудевица,Gudevitsa,village
+2495,21,locality,Давидково,Davidkovo,village
+2496,21,locality,Девин,Devin,city
+2497,21,locality,Долен,Dolen,village
+2498,21,locality,Доспат,Dospat,city
+2499,21,locality,Доспат,Dospat,reservoir
+2500,21,locality,Дрянка,Dryanka,village
+2501,21,locality,Дунево,Dunevo,village
+2502,21,locality,Забърдо,Zabardo,village
+2503,21,locality,Загражден,Zagrazhden,village
+2504,21,locality,Златоград,Zlatograd,city
+2505,21,locality,Змеица,Zmeitsa,village
+2506,21,locality,Зорница,Zornitsa,village
+2507,21,locality,Киселчово,Kiselchovo,village
+2508,21,locality,Кожари,Kozhari,village
+2509,21,locality,Кремене,Kremene,village
+2510,21,locality,Кръстатица,Krastatitsa,village
+2511,21,locality,Кукувица,Kukuvitsa,village
+2512,21,locality,Кутела,Kutela,village
+2513,21,locality,Късак,Kasak,village
+2514,21,locality,Левочево,Levochevo,village
+2515,21,locality,Лещак,Leshtak,village
+2516,21,locality,Любча,Lyubcha,village
+2517,21,locality,Лясково,Lyaskovo,village
+2518,21,locality,Мадан,Madan,city
+2519,21,locality,Малка Арда,Malka Arda,village
+2520,21,locality,Михалково,Mihalkovo,village
+2521,21,locality,Могилица,Mogilitsa,village
+2522,21,locality,Момчиловци,Momchilovtsi,village
+2523,21,locality,Мугла,Mugla,village
+2524,21,locality,Неделино,Nedelino,city
+2525,21,locality,Орехово,Orehovo,village
+2526,21,locality,Оряховец,Oryahovets,village
+2527,21,locality,Осиково,Osikovo,village
+2528,21,locality,Павелско,Pavelsko,village
+2529,21,locality,Пампорово,Pamporovo,resort_complex
+2530,21,locality,Петково,Petkovo,village
+2531,21,locality,Писаница,Pisanitsa,village
+2532,21,locality,Полковник Серафимово,Polkovnik Serafimovo,village
+2533,21,locality,Проглед,Progled,village
+2534,21,locality,Равнината,Ravninata,village
+2535,21,locality,Река,Reka,village
+2536,21,locality,Речани,Rechani,village
+2537,21,locality,Ровина,Rovina,village
+2538,21,locality,Рудозем,Rudozem,city
+2539,21,locality,Селча,Selcha,village
+2540,21,locality,Сивино,Sivino,village
+2541,21,locality,Славейно,Slaveyno,village
+2542,21,locality,Сливка,Slivka,village
+2543,21,locality,Смилян,Smilyan,village
+2544,21,locality,Смолян,Smolyan,city
+2545,21,locality,Соколовци,Sokolovtsi,village
+2546,21,locality,Солища,Solishta,village
+2547,21,locality,Средногорци,Srednogortsi,village
+2548,21,locality,Стикъл,Stikal,village
+2549,21,locality,Стойките,Stoykite,village
+2550,21,locality,Студенец,Studenets,village
+2551,21,locality,Стърница,Starnitsa,village
+2552,21,locality,Тикале,Tikale,village
+2553,21,locality,Триград,Trigrad,village
+2554,21,locality,Турян,Turyan,village
+2555,21,locality,Търън,Taran,village
+2556,21,locality,Фатово,Fatovo,village
+2557,21,locality,Хасовица,Hasovitsa,village
+2558,21,locality,Хвойна,Hvoyna,village
+2559,21,locality,Чепеларе,Chepelare,city
+2560,21,locality,Черешово,Chereshovo,village
+2561,21,locality,Чокманово,Chokmanovo,village
+2562,21,locality,Широка лъка,Shiroka laka,village
+2563,22,locality,Алдомировци,Aldomirovtsi,village
+2564,22,locality,Алино,Alino,village
+2565,22,locality,Антон,Anton,village
+2566,22,locality,Априлово,Aprilovo,village
+2567,22,locality,Байлово,Baylovo,village
+2568,22,locality,Бакьово,Bakyovo,village
+2569,22,locality,Балша,Balsha,village
+2570,22,locality,Бальовци,Balyovtsi,village
+2571,22,locality,Банкя,Bankya,city
+2572,22,locality,Банчовци,Banchovtsi,village
+2573,22,locality,Батулия,Batuliya,village
+2574,22,locality,Бахалин,Bahalin,village
+2575,22,locality,Безден,Bezden,village
+2576,22,locality,Бели Искър,Beli Iskar,village
+2577,22,locality,Белица,Belitsa,village
+2578,22,locality,Белопопци,Belopoptsi,village
+2579,22,locality,Белчин,Belchin,village
+2580,22,locality,Белчински бани,Belchinski bani,village
+2581,22,locality,Бенковски,Benkovski,village
+2582,22,locality,Беренде,Berende,village
+2583,22,locality,Беренде извор,Berende izvor,village
+2584,22,locality,Бистрица,Bistritsa,village
+2585,22,locality,Бов,Bov,village
+2586,22,locality,Бов,Bov,railway_station
+2587,22,locality,Богданлия,Bogdanliya,village
+2588,22,locality,Богьовци,Bogyovtsi,village
+2589,22,locality,Боерица,Boeritsa,village
+2590,22,locality,Боженица,Bozhenitsa,village
+2591,22,locality,Божурище,Bozhurishte,city
+2592,22,locality,Бойковец,Boykovets,village
+2593,22,locality,Борика,Borika,village
+2594,22,locality,Боровец,Borovets,resort_complex
+2595,22,locality,Ботевград,Botevgrad,city
+2596,22,locality,Бракьовци,Brakyovtsi,village
+2597,22,locality,Брезе,Breze,village
+2598,22,locality,Брестака,Brestaka,village
+2599,22,locality,Брусен,Brusen,village
+2600,22,locality,Бузяковци,Buzyakovtsi,village
+2601,22,locality,Букоровци,Bukorovtsi,village
+2602,22,locality,Буново,Bunovo,village
+2603,22,locality,Бусманци,Busmantsi,village
+2604,22,locality,Бухово,Buhovo,city
+2605,22,locality,Бучин проход,Buchin prohod,village
+2606,22,locality,Бърдо,Bardo,village
+2607,22,locality,Бърложница,Barlozhnitsa,village
+2608,22,locality,Бърля,Barlya,village
+2609,22,locality,Вакарел,Vakarel,village
+2610,22,locality,Василовци,Vasilovtsi,village
+2611,22,locality,Венковец,Venkovets,village
+2612,22,locality,Веринско,Verinsko,village
+2613,22,locality,Видраре,Vidrare,village
+2614,22,locality,Владая,Vladaya,village
+2615,22,locality,Владиславци,Vladislavtsi,village
+2616,22,locality,Владо Тричков,Vlado Trichkov,village
+2617,22,locality,Войнеговци,Voynegovtsi,village
+2618,22,locality,Волуяк,Voluyak,village
+2619,22,locality,Врачеш,Vrachesh,village
+2620,22,locality,Връдловци,Vradlovtsi,village
+2621,22,locality,Върбница,Varbnitsa,village
+2622,22,locality,Габер,Gaber,village
+2623,22,locality,Габра,Gabra,village
+2624,22,locality,Габровница,Gabrovnitsa,village
+2625,22,locality,Гайтанево,Gaytanevo,village
+2626,22,locality,Гара Елин Пелин,Gara Elin Pelin,village
+2627,22,locality,Герман,German,village
+2628,22,locality,Гинци,Gintsi,village
+2629,22,locality,Говедарци,Govedartsi,village
+2630,22,locality,Годеч,Godech,city
+2631,22,locality,Голема Раковица,Golema Rakovitsa,village
+2632,22,locality,Големо Малово,Golemo Malovo,village
+2633,22,locality,Голяновци,Golyanovtsi,village
+2634,22,locality,Горна Василица,Gorna Vasilitsa,village
+2635,22,locality,Горна Малина,Gorna Malina,village
+2636,22,locality,Горни Богров,Gorni Bogrov,village
+2637,22,locality,Горни Окол,Gorni Okol,village
+2638,22,locality,Горно Камарци,Gorno Kamartsi,village
+2639,22,locality,Горунака,Gorunaka,village
+2640,22,locality,Градец,Gradets,village
+2641,22,locality,Григорево,Grigorevo,village
+2642,22,locality,Губеш,Gubesh,village
+2643,22,locality,Гургулят,Gurgulyat,village
+2644,22,locality,Гурково,Gurkovo,village
+2645,22,locality,Гурмазово,Gurmazovo,village
+2646,22,locality,Гуцал,Gutsal,village
+2647,22,locality,Гълъбовци,Galabovtsi,village
+2648,22,locality,Делян,Delyan,village
+2649,22,locality,Джурово,Dzhurovo,village
+2650,22,locality,Доброславци,Dobroslavtsi,village
+2651,22,locality,Добърчин,Dobarchin,village
+2652,22,locality,Доганово,Doganovo,village
+2653,22,locality,Долна Малина,Dolna Malina,village
+2654,22,locality,Долна баня,Dolna banya,city
+2655,22,locality,Долни Богров,Dolni Bogrov,village
+2656,22,locality,Долни Окол,Dolni Okol,village
+2657,22,locality,Долни Пасарел,Dolni Pasarel,village
+2658,22,locality,Долно Камарци,Dolno Kamartsi,village
+2659,22,locality,Доспей,Dospey,village
+2660,22,locality,Драговищица,Dragovishtitsa,village
+2661,22,locality,Драгоман,Dragoman,city
+2662,22,locality,Драготинци,Dragotintsi,village
+2663,22,locality,Драгушиново,Dragushinovo,village
+2664,22,locality,Дреатин,Dreatin,village
+2665,22,locality,Дреново,Drenovo,village
+2666,22,locality,Дружево,Druzhevo,village
+2667,22,locality,Дръмша,Dramsha,village
+2668,22,locality,Душанци,Dushantsi,village
+2669,22,locality,Елешница,Eleshnitsa,village
+2670,22,locality,Елин Пелин,Elin Pelin,city
+2671,22,locality,Етрополе,Etropole,city
+2672,22,locality,Железница,Zheleznitsa,village
+2673,22,locality,Желен,Zhelen,village
+2674,22,locality,Желява,Zhelyava,village
+2675,22,locality,Живково,Zhivkovo,village
+2676,22,locality,Житен,Zhiten,village
+2677,22,locality,Заселе,Zasele,village
+2678,22,locality,Зимевица,Zimevitsa,village
+2679,22,locality,Златица,Zlatitsa,city
+2680,22,locality,Златуша,Zlatusha,village
+2681,22,locality,Злокучене,Zlokuchene,village
+2682,22,locality,Иваняне,Ivanyane,village
+2683,22,locality,Извор,Izvor,village
+2684,22,locality,Искрец,Iskrets,village
+2685,22,locality,Ихтиман,Ihtiman,city
+2686,22,locality,Казичене,Kazichene,village
+2687,22,locality,Каленовци,Kalenovtsi,village
+2688,22,locality,Калотина,Kalotina,village
+2689,22,locality,Калугерово,Kalugerovo,village
+2690,22,locality,Каменица,Kamenitsa,village
+2691,22,locality,Караполци,Karapoltsi,village
+2692,22,locality,Клисура,Klisura,village
+2693,22,locality,Клисура (Самоков),Klisura (Samokov),village
+2694,22,locality,Ковачевци,Kovachevtsi,village
+2695,22,locality,Кокаляне,Kokalyane,village
+2696,22,locality,Копривщица,Koprivshtitsa,city
+2697,22,locality,Костадинкино,Kostadinkino,village
+2698,22,locality,Костенец,Kostenets,village
+2699,22,locality,Костенец,Kostenets,city
+2700,22,locality,Костинброд,Kostinbrod,city
+2701,22,locality,Краево,Kraevo,village
+2702,22,locality,Кривина,Krivina,village
+2703,22,locality,Круша,Krusha,village
+2704,22,locality,Крушовица,Krushovitsa,village
+2705,22,locality,Кубратово,Kubratovo,village
+2706,22,locality,Кътина,Katina,village
+2707,22,locality,Лакатник,Lakatnik,village
+2708,22,locality,Лакатник,Lakatnik,railway_station
+2709,22,locality,Левище,Levishte,village
+2710,22,locality,Лесковдол,Leskovdol,village
+2711,22,locality,Лесново,Lesnovo,village
+2712,22,locality,Липница,Lipnitsa,village
+2713,22,locality,Литаково,Litakovo,village
+2714,22,locality,Лозен,Lozen,village
+2715,22,locality,Локорско,Lokorsko,village
+2716,22,locality,Лопушня,Lopushnya,village
+2717,22,locality,Лопян,Lopyan,village
+2718,22,locality,Луково,Lukovo,village
+2719,22,locality,Лъга,Laga,village
+2720,22,locality,Любница,Lyubnitsa,village
+2721,22,locality,Маджаре,Madzhare,village
+2722,22,locality,Макоцево,Makotsevo,village
+2723,22,locality,Мала Раковица,Mala Rakovitsa,village
+2724,22,locality,Мала църква,Mala tsarkva,village
+2725,22,locality,Малки Искър,Malki Iskar,village
+2726,22,locality,Мало Бучино,Malo Buchino,village
+2727,22,locality,Мало Малово,Malo Malovo,village
+2728,22,locality,Манаселска река,Manaselska reka,village
+2729,22,locality,Манастирище,Manastirishte,village
+2730,22,locality,Марица,Maritsa,village
+2731,22,locality,Мечката,Mechkata,area
+2732,22,locality,Миланово,Milanovo,village
+2733,22,locality,Мирково,Mirkovo,village
+2734,22,locality,Мирово,Mirovo,village
+2735,22,locality,Мировяне,Mirovyane,village
+2736,22,locality,Момин проход,Momin prohod,city
+2737,22,locality,Мрамор,Mramor,village
+2738,22,locality,Мургаш,Murgash,village
+2739,22,locality,Мусачево,Musachevo,village
+2740,22,locality,Мухово,Muhovo,village
+2741,22,locality,Мърчаево,Marchaevo,village
+2742,22,locality,Негован,Negovan,village
+2743,22,locality,Негушево,Negushevo,village
+2744,22,locality,Нейкьовец,Neykyovets,village
+2745,22,locality,Несла,Nesla,village
+2746,22,locality,Новачене,Novachene,village
+2747,22,locality,Нови Искър,Novi Iskar,city
+2748,22,locality,Нови хан,Novi han,village
+2749,22,locality,Ново бърдо,Novo bardo,village
+2750,22,locality,Ново село,Novo selo,village
+2751,22,locality,Огняново,Ognyanovo,village
+2752,22,locality,Огоя,Ogoya,village
+2753,22,locality,Опицвет,Opitsvet,village
+2754,22,locality,Осеновлаг,Osenovlag,village
+2755,22,locality,Осиковица,Osikovitsa,village
+2756,22,locality,Осиковска Лакавица,Osikovska Lakavitsa,village
+2757,22,locality,Осоица,Osoitsa,village
+2758,22,locality,Очуша,Ochusha,village
+2759,22,locality,Пановци,Panovtsi,village
+2760,22,locality,Панчарево,Pancharevo,village
+2761,22,locality,Пауново,Paunovo,village
+2762,22,locality,Петково,Petkovo,village
+2763,22,locality,Петрич,Petrich,village
+2764,22,locality,Петърч,Petarch,village
+2765,22,locality,Пирдоп,Pirdop,city
+2766,22,locality,Плана,Plana,village
+2767,22,locality,Подгорие,Podgorie,village
+2768,22,locality,Подгумер,Podgumer,village
+2769,22,locality,Пожарево,Pozharevo,village
+2770,22,locality,Полянци,Polyantsi,village
+2771,22,locality,Понор,Ponor,village
+2772,22,locality,Поповци,Popovtsi,village
+2773,22,locality,Поповяне,Popovyane,village
+2774,22,locality,Потоп,Potop,village
+2775,22,locality,Правец,Pravets,city
+2776,22,locality,Правешка Лакавица,Praveshka Lakavitsa,village
+2777,22,locality,Продановци,Prodanovtsi,village
+2778,22,locality,Пролеша,Prolesha,village
+2779,22,locality,Пчелин,Pchelin,village
+2780,22,locality,Равнище,Ravnishte,village
+2781,22,locality,Равно поле,Ravno pole,village
+2782,22,locality,Радотина,Radotina,village
+2783,22,locality,Радуил,Raduil,village
+2784,22,locality,Радуловци,Radulovtsi,village
+2785,22,locality,Разлив,Razliv,village
+2786,22,locality,Райово,Rayovo,village
+2787,22,locality,Ракита,Rakita,village
+2788,22,locality,Рашково,Rashkovo,village
+2789,22,locality,Раяновци,Rayanovtsi,village
+2790,22,locality,Реброво,Rebrovo,village
+2791,22,locality,Редина,Redina,village
+2792,22,locality,Рельово,Relyovo,village
+2793,22,locality,Рибарица,Ribaritsa,village
+2794,22,locality,Росоман,Rosoman,village
+2795,22,locality,Ръжана,Razhana,village
+2796,22,locality,Самоков,Samokov,city
+2797,22,locality,Саранци,Sarantsi,village
+2798,22,locality,Световрачене,Svetovrachene,village
+2799,22,locality,Свидня,Svidnya,village
+2800,22,locality,Своге,Svoge,city
+2801,22,locality,Своде,Svode,village
+2802,22,locality,Селянин,Selyanin,village
+2803,22,locality,Скравена,Skravena,village
+2804,22,locality,Сливница,Slivnitsa,city
+2805,22,locality,Смолско,Smolsko,village
+2806,22,locality,София,Sofiya,city
+2807,22,locality,Станинци,Stanintsi,village
+2808,22,locality,Столник,Stolnik,village
+2809,22,locality,Стъргел,Stargel,village
+2810,22,locality,Табан,Taban,village
+2811,22,locality,Томпсън,Tompsan,village
+2812,22,locality,Трудовец,Trudovets,village
+2813,22,locality,Туден,Tuden,village
+2814,22,locality,Хераково,Herakovo,village
+2815,22,locality,Храбърско,Hrabarsko,village
+2816,22,locality,Царичина,Tsarichina,village
+2817,22,locality,Цацаровци,Tsatsarovtsi,village
+2818,22,locality,Церецел,Tseretsel,village
+2819,22,locality,Церово,Tserovo,village
+2820,22,locality,Цръклевци,Tsraklevtsi,village
+2821,22,locality,Църквище,Tsarkvishte,village
+2822,22,locality,Чавдар,Chavdar,village
+2823,22,locality,Чеканец,Chekanets,village
+2824,22,locality,Чеканчево,Chekanchevo,village
+2825,22,locality,Челопеч,Chelopech,village
+2826,22,locality,Чепинци,Chepintsi,village
+2827,22,locality,Черньово,Chernyovo,village
+2828,22,locality,Чибаовци,Chibaovtsi,village
+2829,22,locality,Чорул,Chorul,village
+2830,22,locality,Чуковезер,Chukovezer,village
+2831,22,locality,Чурек,Churek,village
+2832,22,locality,Шипочане,Shipochane,village
+2833,22,locality,Широки дол,Shiroki dol,village
+2834,22,locality,Шума,Shuma,village
+2835,22,locality,Ябланица,Yablanitsa,village
+2836,22,locality,Ялботина,Yalbotina,village
+2837,22,locality,Ямна,Yamna,village
+2838,22,locality,Яна,Yana,village
+2839,22,locality,Ярлово,Yarlovo,village
+2840,22,locality,в.з.Ярема,v.z.Yarema,villa_zone
+2841,22,locality,яз. Искър,yaz. Iskar,area
+2842,23,locality,Александрово,Aleksandrovo,village
+2843,23,locality,Априлово,Aprilovo,village
+2844,23,locality,Арнаутито,Arnautito,village
+2845,23,locality,Бащино,Bashtino,village
+2846,23,locality,Бенковски,Benkovski,village
+2847,23,locality,Богомилово,Bogomilovo,village
+2848,23,locality,Боздуганово,Bozduganovo,village
+2849,23,locality,Борилово,Borilovo,village
+2850,23,locality,Борово,Borovo,village
+2851,23,locality,Борущица,Borushtitsa,village
+2852,23,locality,Братя Даскалови,Bratya Daskalovi,village
+2853,23,locality,Братя Кунчеви,Bratya Kunchevi,village
+2854,23,locality,Бузовград,Buzovgrad,village
+2855,23,locality,Бъдеще,Badeshte,village
+2856,23,locality,Българене,Balgarene,village
+2857,23,locality,Бял извор,Byal izvor,village
+2858,23,locality,Бяло поле,Byalo pole,village
+2859,23,locality,Васил Левски,Vasil Levski,village
+2860,23,locality,Великово,Velikovo,village
+2861,23,locality,Венец,Venets,village
+2862,23,locality,Верен,Veren,village
+2863,23,locality,Ветрен,Vetren,village
+2864,23,locality,Виден,Viden,village
+2865,23,locality,Винарово,Vinarovo,village
+2866,23,locality,Габарево,Gabarevo,village
+2867,23,locality,Гита,Gita,village
+2868,23,locality,Главан,Glavan,village
+2869,23,locality,Голямо Дряново,Golyamo Dryanovo,village
+2870,23,locality,Горно Белево,Gorno Belevo,village
+2871,23,locality,Горно Ботево,Gorno Botevo,village
+2872,23,locality,Горно Изворово,Gorno Izvorovo,village
+2873,23,locality,Горно Сахране,Gorno Sahrane,village
+2874,23,locality,Горно Черковище,Gorno Cherkovishte,village
+2875,23,locality,Горно ново село,Gorno novo selo,village
+2876,23,locality,Гранит,Granit,village
+2877,23,locality,Гурково,Gurkovo,city
+2878,23,locality,Гълъбово,Galabovo,city
+2879,23,locality,Даскал-Атанасово,Daskal-Atanasovo,village
+2880,23,locality,Димитриево,Dimitrievo,village
+2881,23,locality,Димовци,Dimovtsi,village
+2882,23,locality,Диня,Dinya,village
+2883,23,locality,Долно Сахране,Dolno Sahrane,village
+2884,23,locality,Долно изворово,Dolno izvorovo,village
+2885,23,locality,Долно ново село,Dolno novo selo,village
+2886,23,locality,Дунавци,Dunavtsi,village
+2887,23,locality,Дъбово,Dabovo,village
+2888,23,locality,Дълбоки,Dalboki,village
+2889,23,locality,Държава,Darzhava,village
+2890,23,locality,Едрево,Edrevo,village
+2891,23,locality,Еленино,Elenino,village
+2892,23,locality,Елхово (Николаево),Elhovo (Nikolaevo),village
+2893,23,locality,Елхово (Стара Загора),Elhovo (Stara Zagora),village
+2894,23,locality,Енина,Enina,village
+2895,23,locality,Жребчево,Zhrebchevo,reservoir
+2896,23,locality,Жълтопоп,Zhaltopop,village
+2897,23,locality,Загоре,Zagore,village
+2898,23,locality,Землен,Zemlen,village
+2899,23,locality,Зетьово,Zetyovo,village
+2900,23,locality,Зимница,Zimnitsa,village
+2901,23,locality,Златна ливада,Zlatna livada,village
+2902,23,locality,Змейово,Zmeyovo,village
+2903,23,locality,Знаменосец,Znamenosets,village
+2904,23,locality,Казанка,Kazanka,village
+2905,23,locality,Казанлък,Kazanlak,city
+2906,23,locality,Калитиново,Kalitinovo,village
+2907,23,locality,Калояновец,Kaloyanovets,village
+2908,23,locality,Кирилово,Kirilovo,village
+2909,23,locality,Княжевско,Knyazhevsko,village
+2910,23,locality,Ковач,Kovach,village
+2911,23,locality,Ковачево,Kovachevo,village
+2912,23,locality,Козаревец,Kozarevets,village
+2913,23,locality,Коларово,Kolarovo,village
+2914,23,locality,Колена,Kolena,village
+2915,23,locality,Колю Мариново,Kolyu Marinovo,village
+2916,23,locality,Конаре,Konare,village
+2917,23,locality,Константиновец,Konstantinovets,village
+2918,23,locality,Копринка,Koprinka,village
+2919,23,locality,Копринка,Koprinka,reservoir
+2920,23,locality,Кравино,Kravino,village
+2921,23,locality,Крън,Kran,city
+2922,23,locality,Кънчево,Kanchevo,village
+2923,23,locality,Ловец,Lovets,village
+2924,23,locality,Лозен,Lozen,village
+2925,23,locality,Любеново,Lyubenovo,village
+2926,23,locality,Люляк,Lyulyak,village
+2927,23,locality,Лява река,Lyava reka,village
+2928,23,locality,Лясково,Lyaskovo,village
+2929,23,locality,Маджерито,Madzherito,village
+2930,23,locality,Малка Верея,Malka Vereya,village
+2931,23,locality,Малко Дряново,Malko Dryanovo,village
+2932,23,locality,Малко Кадиево,Malko Kadievo,village
+2933,23,locality,Малко Тръново,Malko Tranovo,village
+2934,23,locality,Малък дол,Malak dol,village
+2935,23,locality,Манолово,Manolovo,village
+2936,23,locality,Марково,Markovo,village
+2937,23,locality,Маца,Matsa,village
+2938,23,locality,Медникарово,Mednikarovo,village
+2939,23,locality,Медово,Medovo,village
+2940,23,locality,Мирово,Mirovo,village
+2941,23,locality,Михайлово,Mihaylovo,village
+2942,23,locality,Могила,Mogila,village
+2943,23,locality,Могилово,Mogilovo,village
+2944,23,locality,Мъглиж,Maglizh,city
+2945,23,locality,Найденово,Naydenovo,village
+2946,23,locality,Николаево,Nikolaevo,city
+2947,23,locality,Нова махала,Nova mahala,village
+2948,23,locality,Ново село,Novo selo,village
+2949,23,locality,Обручище,Obruchishte,village
+2950,23,locality,Овощник,Ovoshtnik,village
+2951,23,locality,Опан,Opan,village
+2952,23,locality,Опълченец,Opalchenets,village
+2953,23,locality,Оризово,Orizovo,village
+2954,23,locality,Оряховица,Oryahovitsa,village
+2955,23,locality,Осетеново,Osetenovo,village
+2956,23,locality,Остра могила,Ostra mogila,village
+2957,23,locality,Павел баня,Pavel banya,city
+2958,23,locality,Памукчии,Pamukchii,village
+2959,23,locality,Паничерево,Panicherevo,village
+2960,23,locality,Партизанин,Partizanin,village
+2961,23,locality,Петрово,Petrovo,village
+2962,23,locality,Плодовитово,Plodovitovo,village
+2963,23,locality,Подслон,Podslon,village
+2964,23,locality,Помощник,Pomoshtnik,village
+2965,23,locality,Православ,Pravoslav,village
+2966,23,locality,Преславен,Preslaven,village
+2967,23,locality,Пряпорец,Pryaporets,village
+2968,23,locality,Пчелиново,Pchelinovo,village
+2969,23,locality,Пшеничево,Pshenichevo,village
+2970,23,locality,Пъстрен,Pastren,village
+2971,23,locality,Пъстрово,Pastrovo,village
+2972,23,locality,Раднево,Radnevo,city
+2973,23,locality,Разделна,Razdelna,village
+2974,23,locality,Ракитница,Rakitnitsa,village
+2975,23,locality,Рисиманово,Risimanovo,village
+2976,23,locality,Розово,Rozovo,village
+2977,23,locality,Рупките,Rupkite,village
+2978,23,locality,Самуилово,Samuilovo,village
+2979,23,locality,Свобода,Svoboda,village
+2980,23,locality,Свободен,Svoboden,village
+2981,23,locality,Селце,Seltse,village
+2982,23,locality,Скобелево,Skobelevo,village
+2983,23,locality,Сладък кладенец,Sladak kladenets,village
+2984,23,locality,Сливито,Slivito,village
+2985,23,locality,Спасово,Spasovo,village
+2986,23,locality,Средец,Sredets,village
+2987,23,locality,Средно градище,Sredno gradishte,village
+2988,23,locality,Средногорово,Srednogorovo,village
+2989,23,locality,Стара Загора,Stara Zagora,city
+2990,23,locality,Старозагорски бани,Starozagorski bani,village
+2991,23,locality,Столетово,Stoletovo,village
+2992,23,locality,Стоян-Заимово,Stoyan-Zaimovo,village
+2993,23,locality,Стрелец,Strelets,village
+2994,23,locality,Сулица,Sulitsa,village
+2995,23,locality,Съединение,Saedinenie,village
+2996,23,locality,Сърневец,Sarnevets,village
+2997,23,locality,Сърнево,Sarnevo,village
+2998,23,locality,Тополяне,Topolyane,village
+2999,23,locality,Тракия,Trakiya,village
+3000,23,locality,Тракия,Trakiya,highway
+3001,23,locality,Трънково,Trankovo,village
+3002,23,locality,Тулово,Tulovo,village
+3003,23,locality,Турия,Turiya,village
+3004,23,locality,Тъжа,Tazha,village
+3005,23,locality,Хан Аспарухово,Han Asparuhovo,village
+3006,23,locality,Християново,Hristiyanovo,village
+3007,23,locality,Хрищени,Hrishteni,village
+3008,23,locality,Целина,Tselina,village
+3009,23,locality,Ценово,Tsenovo,village
+3010,23,locality,Черганово,Cherganovo,village
+3011,23,locality,Черна гора,Cherna gora,village
+3012,23,locality,Чирпан,Chirpan,city
+3013,23,locality,Шаново,Shanovo,village
+3014,23,locality,Шейново,Sheynovo,village
+3015,23,locality,Шипка,Shipka,city
+3016,23,locality,Юлиево,Yulievo,village
+3017,23,locality,Яворово,Yavorovo,village
+3018,23,locality,Ягода,Yagoda,village
+3019,23,locality,Яздач,Yazdach,village
+3020,23,locality,Ясеново,Yasenovo,village
+3021,23,locality,Ястребово,Yastrebovo,village
+3022,23,locality,път Е85,pat E85,main_road
+3023,24,locality,Алваново,Alvanovo,village
+3024,24,locality,Александрово,Aleksandrovo,village
+3025,24,locality,Антоново,Antonovo,city
+3026,24,locality,Априлово,Aprilovo,village
+3027,24,locality,Баба Тонка,Baba Tonka,village
+3028,24,locality,Баячево,Bayachevo,village
+3029,24,locality,Берковски,Berkovski,village
+3030,24,locality,Бистра,Bistra,village
+3031,24,locality,Божурка,Bozhurka,village
+3032,24,locality,Бракница,Braknitsa,village
+3033,24,locality,Буховци,Buhovtsi,village
+3034,24,locality,Вардун,Vardun,village
+3035,24,locality,Васил Левски,Vasil Levski,village
+3036,24,locality,Великовци,Velikovtsi,village
+3037,24,locality,Величка,Velichka,village
+3038,24,locality,Вельово,Velyovo,village
+3039,24,locality,Водица,Voditsa,village
+3040,24,locality,Голямо Соколово,Golyamo Sokolovo,village
+3041,24,locality,Горица,Goritsa,village
+3042,24,locality,Горско Абланово,Gorsko Ablanovo,village
+3043,24,locality,Давидово,Davidovo,village
+3044,24,locality,Девино,Devino,village
+3045,24,locality,Длъжка поляна,Dlazhka polyana,village
+3046,24,locality,Долец,Dolets,village
+3047,24,locality,Долна Златица,Dolna Zlatitsa,village
+3048,24,locality,Долна Хубавка,Dolna Hubavka,village
+3049,24,locality,Дралфа,Dralfa,village
+3050,24,locality,Дриново,Drinovo,village
+3051,24,locality,Дългач,Dalgach,village
+3052,24,locality,Еленово,Elenovo,village
+3053,24,locality,Заветно,Zavetno,village
+3054,24,locality,Захари Стояново,Zahari Stoyanovo,village
+3055,24,locality,Звезда,Zvezda,village
+3056,24,locality,Здравец,Zdravets,village
+3057,24,locality,Илийно,Iliyno,village
+3058,24,locality,Камбурово,Kamburovo,village
+3059,24,locality,Кардам,Kardam,village
+3060,24,locality,Китино,Kitino,village
+3061,24,locality,Ковачевец,Kovachevets,village
+3062,24,locality,Козма презвитер,Kozma prezviter,village
+3063,24,locality,Копрец,Koprets,village
+3064,24,locality,Кошничари,Koshnichari,village
+3065,24,locality,Крушолак,Krusholak,village
+3066,24,locality,Кръшно,Krashno,village
+3067,24,locality,Кьосевци,Kyosevtsi,village
+3068,24,locality,Лиляк,Lilyak,village
+3069,24,locality,Ловец,Lovets,village
+3070,24,locality,Ломци,Lomtsi,village
+3071,24,locality,Любичево,Lyubichevo,village
+3072,24,locality,Люблен,Lyublen,village
+3073,24,locality,Макариополско,Makariopolsko,village
+3074,24,locality,Маково,Makovo,village
+3075,24,locality,Малоградец,Malogradets,village
+3076,24,locality,Марчино,Marchino,village
+3077,24,locality,Медовина,Medovina,village
+3078,24,locality,Мировец,Mirovets,village
+3079,24,locality,Момино,Momino,village
+3080,24,locality,Моравица,Moravitsa,village
+3081,24,locality,Надарево,Nadarevo,village
+3082,24,locality,Овчарово,Ovcharovo,village
+3083,24,locality,Омуртаг,Omurtag,city
+3084,24,locality,Опака,Opaka,city
+3085,24,locality,Осиково,Osikovo,village
+3086,24,locality,Острец,Ostrets,village
+3087,24,locality,Паламарца,Palamartsa,village
+3088,24,locality,Певец,Pevets,village
+3089,24,locality,Пиринец,Pirinets,village
+3090,24,locality,Помощица,Pomoshtitsa,village
+3091,24,locality,Попово,Popovo,city
+3092,24,locality,Пресиян,Presiyan,village
+3093,24,locality,Пресяк,Presyak,village
+3094,24,locality,Пробуда,Probuda,village
+3095,24,locality,Разбойна,Razboyna,village
+3096,24,locality,Ралица,Ralitsa,village
+3097,24,locality,Росица,Rositsa,village
+3098,24,locality,Руец,Ruets,village
+3099,24,locality,Рътлина,Ratlina,village
+3100,24,locality,Садина,Sadina,village
+3101,24,locality,Стеврек,Stevrek,village
+3102,24,locality,Стража,Strazha,village
+3103,24,locality,Съединение,Saedinenie,village
+3104,24,locality,Таймище,Taymishte,village
+3105,24,locality,Търговище,Targovishte,city
+3106,24,locality,Халваджийско,Halvadzhiysko,village
+3107,24,locality,Цар Асен,Tsar Asen,village
+3108,24,locality,Черни бряг,Cherni bryag,village
+3109,24,locality,Шишковица,Shishkovitsa,village
+3110,24,locality,Ястребино,Yastrebino,village
+3111,25,locality,Александрово,Aleksandrovo,village
+3112,25,locality,Белица,Belitsa,village
+3113,25,locality,Белополяне,Belopolyane,village
+3114,25,locality,Бодрово,Bodrovo,village
+3115,25,locality,Браница,Branitsa,village
+3116,25,locality,Брод,Brod,village
+3117,25,locality,Брягово,Bryagovo,village
+3118,25,locality,Брястово,Bryastovo,village
+3119,25,locality,Българин,Balgarin,village
+3120,25,locality,Българска поляна,Balgarska polyana,village
+3121,25,locality,Бял кладенец,Byal kladenets,village
+3122,25,locality,Великан,Velikan,village
+3123,25,locality,Владимирово,Vladimirovo,village
+3124,25,locality,Войводово,Voyvodovo,village
+3125,25,locality,Въгларово,Vaglarovo,village
+3126,25,locality,Върбица,Varbitsa,village
+3127,25,locality,Гарваново,Garvanovo,village
+3128,25,locality,Генералово,Generalovo,village
+3129,25,locality,Георги Добрево,Georgi Dobrevo,village
+3130,25,locality,Голям извор,Golyam izvor,village
+3131,25,locality,Голямо Асеново,Golyamo Asenovo,village
+3132,25,locality,Горно Войводино,Gorno Voyvodino,village
+3133,25,locality,Горски извор,Gorski izvor,village
+3134,25,locality,Гълъбец,Galabets,village
+3135,25,locality,Димитровград,Dimitrovgrad,city
+3136,25,locality,Димитровче,Dimitrovche,village
+3137,25,locality,Динево,Dinevo,village
+3138,25,locality,Добрич,Dobrich,village
+3139,25,locality,Долно Белево,Dolno Belevo,village
+3140,25,locality,Долно Луково,Dolno Lukovo,village
+3141,25,locality,Долно Черковище,Dolno Cherkovishte,village
+3142,25,locality,Долноселци,Dolnoseltsi,village
+3143,25,locality,Доситеево,Dositeevo,village
+3144,25,locality,Драбишна,Drabishna,village
+3145,25,locality,Дряново,Dryanovo,village
+3146,25,locality,Дъбовец,Dabovets,village
+3147,25,locality,Елена,Elena,village
+3148,25,locality,Ефрем,Efrem,village
+3149,25,locality,Железари,Zhelezari,village
+3150,25,locality,Златополе,Zlatopole,village
+3151,25,locality,Ивайловград,Ivaylovgrad,city
+3152,25,locality,Ивайловград,Ivaylovgrad,reservoir
+3153,25,locality,Иваново,Ivanovo,village
+3154,25,locality,Изворово,Izvorovo,village
+3155,25,locality,Йерусалимово,Yerusalimovo,village
+3156,25,locality,Каменна река,Kamenna reka,village
+3157,25,locality,Капитан Андреево,Kapitan Andreevo,village
+3158,25,locality,Караманци,Karamantsi,village
+3159,25,locality,Каснаково,Kasnakovo,village
+3160,25,locality,Клокотница,Klokotnitsa,village
+3161,25,locality,Книжовник,Knizhovnik,village
+3162,25,locality,Княжево,Knyazhevo,village
+3163,25,locality,Козлец,Kozlets,village
+3164,25,locality,Конници,Konnitsi,village
+3165,25,locality,Константиново,Konstantinovo,village
+3166,25,locality,Конуш,Konush,village
+3167,25,locality,Корен,Koren,village
+3168,25,locality,Костилково,Kostilkovo,village
+3169,25,locality,Костур,Kostur,village
+3170,25,locality,Крепост,Krepost,village
+3171,25,locality,Крум,Krum,village
+3172,25,locality,Левка,Levka,village
+3173,25,locality,Лисово,Lisovo,village
+3174,25,locality,Лозен,Lozen,village
+3175,25,locality,Любеново,Lyubenovo,village
+3176,25,locality,Любимец,Lyubimets,city
+3177,25,locality,Маджарово,Madzharovo,city
+3178,25,locality,Малево,Malevo,village
+3179,25,locality,Малко Асеново,Malko Asenovo,village
+3180,25,locality,Малко градище,Malko gradishte,village
+3181,25,locality,Манастир,Manastir,village
+3182,25,locality,Мандра,Mandra,village
+3183,25,locality,Марица,Maritsa,highway
+3184,25,locality,Маслиново,Maslinovo,village
+3185,25,locality,Мезек,Mezek,village
+3186,25,locality,Меричлери,Merichleri,city
+3187,25,locality,Минерални бани,Mineralni bani,village
+3188,25,locality,Младиново,Mladinovo,village
+3189,25,locality,Момково,Momkovo,village
+3190,25,locality,Мрамор,Mramor,village
+3191,25,locality,Навъсен,Navasen,village
+3192,25,locality,Надежден,Nadezhden,village
+3193,25,locality,Николово,Nikolovo,village
+3194,25,locality,Нова Надежда,Nova Nadezhda,village
+3195,25,locality,Овчарово,Ovcharovo,village
+3196,25,locality,Одринци,Odrintsi,village
+3197,25,locality,Орешник,Oreshnik,village
+3198,25,locality,Орлов дол,Orlov dol,village
+3199,25,locality,Орлово,Orlovo,village
+3200,25,locality,Подкрепа,Podkrepa,village
+3201,25,locality,Поляново,Polyanovo,village
+3202,25,locality,Преславец,Preslavets,village
+3203,25,locality,Присадец,Prisadets,village
+3204,25,locality,Пъстрогор,Pastrogor,village
+3205,25,locality,Радиево,Radievo,village
+3206,25,locality,Радовец,Radovets,village
+3207,25,locality,Райкова могила,Raykova mogila,village
+3208,25,locality,Родопи,Rodopi,village
+3209,25,locality,Сакарци,Sakartsi,village
+3210,25,locality,Светлина (Димитровград),Svetlina (Dimitrovgrad),village
+3211,25,locality,Светлина (Тополовград),Svetlina (Topolovgrad),village
+3212,25,locality,Светослав,Svetoslav,village
+3213,25,locality,Свиленград,Svilengrad,city
+3214,25,locality,Свирково,Svirkovo,village
+3215,25,locality,Сив кладенец,Siv kladenets,village
+3216,25,locality,Сива река,Siva reka,village
+3217,25,locality,Силен,Silen,village
+3218,25,locality,Симеоновград,Simeonovgrad,city
+3219,25,locality,Синапово,Sinapovo,village
+3220,25,locality,Сираково,Sirakovo,village
+3221,25,locality,Скобелево,Skobelevo,village
+3222,25,locality,Славяново,Slavyanovo,village
+3223,25,locality,Срем,Srem,village
+3224,25,locality,Сталево,Stalevo,village
+3225,25,locality,Стамболийски,Stamboliyski,village
+3226,25,locality,Стамболово,Stambolovo,village
+3227,25,locality,Странско,Stransko,village
+3228,25,locality,Студена,Studena,village
+3229,25,locality,Сусам,Susam,village
+3230,25,locality,Татарево,Tatarevo,village
+3231,25,locality,Тополовград,Topolovgrad,city
+3232,25,locality,Тракиец,Trakiets,village
+3233,25,locality,Троян,Troyan,village
+3234,25,locality,Тънково,Tankovo,village
+3235,25,locality,Узунджово,Uzundzhovo,village
+3236,25,locality,Устрем,Ustrem,village
+3237,25,locality,Харманли,Harmanli,city
+3238,25,locality,Хасково,Haskovo,city
+3239,25,locality,Хлябово,Hlyabovo,village
+3240,25,locality,Царева поляна,Tsareva polyana,village
+3241,25,locality,Черна могила,Cherna mogila,village
+3242,25,locality,Ябълково,Yabalkovo,village
+3243,26,locality,Александрово,Aleksandrovo,village
+3244,26,locality,Беджене,Bedzhene,village
+3245,26,locality,Белокопитово,Belokopitovo,village
+3246,26,locality,Благово,Blagovo,village
+3247,26,locality,Близнаци,Bliznatsi,village
+3248,26,locality,Васил Друмев,Vasil Drumev,village
+3249,26,locality,Векилски,Vekilski,village
+3250,26,locality,Велики Преслав,Veliki Preslav,city
+3251,26,locality,Велино,Velino,village
+3252,26,locality,Венец,Venets,village
+3253,26,locality,Веселиново,Veselinovo,village
+3254,26,locality,Ветрище,Vetrishte,village
+3255,26,locality,Вехтово,Vehtovo,village
+3256,26,locality,Висока поляна,Visoka polyana,village
+3257,26,locality,Войвода,Voyvoda,village
+3258,26,locality,Върбак,Varbak,village
+3259,26,locality,Върбица,Varbitsa,city
+3260,26,locality,Върбяне,Varbyane,village
+3261,26,locality,Градище,Gradishte,village
+3262,26,locality,Денница,Dennitsa,village
+3263,26,locality,Дибич,Dibich,village
+3264,26,locality,Драгоево,Dragoevo,village
+3265,26,locality,Дренци,Drentsi,village
+3266,26,locality,Друмево,Drumevo,village
+3267,26,locality,Енево,Enevo,village
+3268,26,locality,Желъд,Zhelad,village
+3269,26,locality,Живково,Zhivkovo,village
+3270,26,locality,Жилино,Zhilino,village
+3271,26,locality,Зайчино ореше,Zaychino oreshe,village
+3272,26,locality,Златар,Zlatar,village
+3273,26,locality,Златна нива,Zlatna niva,village
+3274,26,locality,Иваново,Ivanovo,village
+3275,26,locality,Ивански,Ivanski,village
+3276,26,locality,Избул,Izbul,village
+3277,26,locality,Илия Блъсково,Iliya Blaskovo,village
+3278,26,locality,Имренчево,Imrenchevo,village
+3279,26,locality,Каменяк,Kamenyak,village
+3280,26,locality,Каолиново,Kaolinovo,city
+3281,26,locality,Каспичан,Kaspichan,city
+3282,26,locality,Каспичан,Kaspichan,village
+3283,26,locality,Климент,Kliment,village
+3284,26,locality,Конево,Konevo,village
+3285,26,locality,Костена река,Kostena reka,village
+3286,26,locality,Кочово,Kochovo,village
+3287,26,locality,Красен дол,Krasen dol,village
+3288,26,locality,Кълново,Kalnovo,village
+3289,26,locality,Кьолмен,Kyolmen,village
+3290,26,locality,Кюлевча,Kyulevcha,village
+3291,26,locality,Ловец,Lovets,village
+3292,26,locality,Лозево,Lozevo,village
+3293,26,locality,Мадара,Madara,village
+3294,26,locality,Маломир,Malomir,village
+3295,26,locality,Мараш,Marash,village
+3296,26,locality,Марково,Markovo,village
+3297,26,locality,Менгишево,Mengishevo,village
+3298,26,locality,Методиево,Metodievo,village
+3299,26,locality,Миланово,Milanovo,village
+3300,26,locality,Мировци,Mirovtsi,village
+3301,26,locality,Могила,Mogila,village
+3302,26,locality,Мостич,Mostich,village
+3303,26,locality,Никола Козлево,Nikola Kozlevo,village
+3304,26,locality,Нова бяла река,Nova byala reka,village
+3305,26,locality,Нови пазар,Novi pazar,city
+3306,26,locality,Ново Янково,Novo Yankovo,village
+3307,26,locality,Новосел,Novosel,village
+3308,26,locality,Овчарово,Ovcharovo,village
+3309,26,locality,Осмар,Osmar,village
+3310,26,locality,Памукчии,Pamukchii,village
+3311,26,locality,Панайот Волово,Panayot Volovo,village
+3312,26,locality,Пет могили,Pet mogili,village
+3313,26,locality,Писарево,Pisarevo,village
+3314,26,locality,Плиска,Pliska,city
+3315,26,locality,Преселка,Preselka,village
+3316,26,locality,Радко Димитриево,Radko Dimitrievo,village
+3317,26,locality,Развигорово,Razvigorovo,village
+3318,26,locality,Риш,Rish,village
+3319,26,locality,Салманово,Salmanovo,village
+3320,26,locality,Сечище,Sechishte,village
+3321,26,locality,Сини вир,Sini vir,village
+3322,26,locality,Смядово,Smyadovo,city
+3323,26,locality,Средня,Srednya,village
+3324,26,locality,Стан,Stan,village
+3325,26,locality,Стоян Михайловски,Stoyan Mihaylovski,village
+3326,26,locality,Струино,Struino,village
+3327,26,locality,Суха река,Suha reka,village
+3328,26,locality,Сушина,Sushina,village
+3329,26,locality,Тимарево,Timarevo,village
+3330,26,locality,Тича,Ticha,reservoir
+3331,26,locality,Тодор Икономово,Todor Ikonomovo,village
+3332,26,locality,Троица,Troitsa,village
+3333,26,locality,Тръница,Tranitsa,village
+3334,26,locality,Тъкач,Takach,village
+3335,26,locality,Хан Крум,Han Krum,village
+3336,26,locality,Хитрино,Hitrino,village
+3337,26,locality,Хърсово,Harsovo,village
+3338,26,locality,Царев брод,Tsarev brod,village
+3339,26,locality,Черенча,Cherencha,village
+3340,26,locality,Черни връх,Cherni vrah,village
+3341,26,locality,Черноглавци,Chernoglavtsi,village
+3342,26,locality,Шумен,Shumen,city
+3343,26,locality,Янково,Yankovo,village
+3344,27,locality,Александрово,Aleksandrovo,village
+3345,27,locality,Атолово,Atolovo,village
+3346,27,locality,Безмер,Bezmer,village
+3347,27,locality,Болярово,Bolyarovo,city
+3348,27,locality,Болярско,Bolyarsko,village
+3349,27,locality,Борисово,Borisovo,village
+3350,27,locality,Ботево,Botevo,village
+3351,27,locality,Бояджик,Boyadzhik,village
+3352,27,locality,Бояново,Boyanovo,village
+3353,27,locality,Веселиново,Veselinovo,village
+3354,27,locality,Войника,Voynika,village
+3355,27,locality,Вълча поляна,Valcha polyana,village
+3356,27,locality,Генерал Инзово,General Inzovo,village
+3357,27,locality,Генерал Тошево,General Toshevo,village
+3358,27,locality,Голям манастир,Golyam manastir,village
+3359,27,locality,Голямо Крушево,Golyamo Krushevo,village
+3360,27,locality,Гранитово,Granitovo,village
+3361,27,locality,Гълъбинци,Galabintsi,village
+3362,27,locality,Добрич,Dobrich,village
+3363,27,locality,Дражево,Drazhevo,village
+3364,27,locality,Драма,Drama,village
+3365,27,locality,Дряново,Dryanovo,village
+3366,27,locality,Елхово,Elhovo,city
+3367,27,locality,Завой,Zavoy,village
+3368,27,locality,Зимница,Zimnitsa,village
+3369,27,locality,Златари,Zlatari,village
+3370,27,locality,Изгрев,Izgrev,village
+3371,27,locality,Иречеково,Irechekovo,village
+3372,27,locality,Кабиле,Kabile,village
+3373,27,locality,Калчево,Kalchevo,village
+3374,27,locality,Каменец,Kamenets,village
+3375,27,locality,Кирилово,Kirilovo,village
+3376,27,locality,Козарево,Kozarevo,village
+3377,27,locality,Коневец,Konevets,village
+3378,27,locality,Крумово,Krumovo,village
+3379,27,locality,Кукорево,Kukorevo,village
+3380,27,locality,Лалково,Lalkovo,village
+3381,27,locality,Лесово,Lesovo,village
+3382,27,locality,Лозенец,Lozenets,village
+3383,27,locality,Маленово,Malenovo,village
+3384,27,locality,Малко Шарково,Malko Sharkovo,village
+3385,27,locality,Маломир,Malomir,village
+3386,27,locality,Маломирово,Malomirovo,village
+3387,27,locality,Мамарчево,Mamarchevo,village
+3388,27,locality,Меден кладенец,Meden kladenets,village
+3389,27,locality,Межда,Mezhda,village
+3390,27,locality,Мелница,Melnitsa,village
+3391,27,locality,Миладиновци,Miladinovtsi,village
+3392,27,locality,Недялско,Nedyalsko,village
+3393,27,locality,Овчи кладенец,Ovchi kladenets,village
+3394,27,locality,Окоп,Okop,village
+3395,27,locality,Палаузово,Palauzovo,village
+3396,27,locality,Победа,Pobeda,village
+3397,27,locality,Поляна,Polyana,village
+3398,27,locality,Попово,Popovo,village
+3399,27,locality,Правдино,Pravdino,village
+3400,27,locality,Пчела,Pchela,village
+3401,27,locality,Първенец,Parvenets,village
+3402,27,locality,Раздел,Razdel,village
+3403,27,locality,Робово,Robovo,village
+3404,27,locality,Роза,Roza,village
+3405,27,locality,Ружица,Ruzhitsa,village
+3406,27,locality,Савино,Savino,village
+3407,27,locality,Саранско,Saransko,village
+3408,27,locality,Симеоново,Simeonovo,village
+3409,27,locality,Скалица,Skalitsa,village
+3410,27,locality,Стара река,Stara reka,village
+3411,27,locality,Стефан Караджово,Stefan Karadzhovo,village
+3412,27,locality,Стралджа,Straldzha,city
+3413,27,locality,Странджа,Strandzha,village
+3414,27,locality,Стройно,Stroyno,village
+3415,27,locality,Тамарино,Tamarino,village
+3416,27,locality,Тенево,Tenevo,village
+3417,27,locality,Тракия,Trakiya,highway
+3418,27,locality,Трънково,Trankovo,village
+3419,27,locality,Търнава,Tarnava,village
+3420,27,locality,Хаджидимитрово,Hadzhidimitrovo,village
+3421,27,locality,Ханово,Hanovo,village
+3422,27,locality,Чарган,Chargan,village
+3423,27,locality,Чарда,Charda,village
+3424,27,locality,Челник,Chelnik,village
+3425,27,locality,Шарково,Sharkovo,village
+3426,27,locality,Ямбол,Yambol,city
+3427,38,area,Ален мак,Alen mak,
+3428,38,area,Баларбаши,Balarbashi,
+3429,38,area,Бялата висота,Byalata visota,
+3430,38,area,Вароша,Varosha,
+3431,38,area,Втора промишлена зона,Vtora promishlena zona,
+3432,38,area,Грамада,Gramada,
+3433,38,area,Еленово 1,Elenovo 1,
+3434,38,area,Еленово 2,Elenovo 2,
+3435,38,area,Запад,Zapad,
+3436,38,area,Идеален център,Idealen tsentar,
+3437,38,area,Орлова чука,Orlova chuka,
+3438,38,area,Освобождение,Osvobozhdenie,
+3439,38,area,Първа промишлена зона,Parva promishlena zona,
+3440,38,area,Струмско,Strumsko,
+3441,38,area,Широк център,Shirok tsentar,
+3442,175,area,Акациите,Akatsiite,
+3443,175,area,Банево,Banevo,
+3444,175,area,Братя Миладинови,Bratya Miladinovi,
+3445,175,area,Ветрен,Vetren,
+3446,175,area,Възраждане,Vazrazhdane,
+3447,175,area,Горно Езерово,Gorno Ezerovo,
+3448,175,area,Долно Езерово,Dolno Ezerovo,
+3449,175,area,Зорница,Zornitsa,
+3450,175,area,Изгрев,Izgrev,
+3451,175,area,Крайморие,Kraymorie,
+3452,175,area,Лазур,Lazur,
+3453,175,area,Лозово,Lozovo,
+3454,175,area,Мадика,Madika,
+3455,175,area,Меден рудник - зона А,Meden rudnik - zona A,
+3456,175,area,Меден рудник - зона Б,Meden rudnik - zona B,
+3457,175,area,Меден рудник - зона В,Meden rudnik - zona V,
+3458,175,area,Меден рудник - зона Г,Meden rudnik - zona G,
+3459,175,area,Меден рудник - зона Д,Meden rudnik - zona D,
+3460,175,area,Пети километър,Peti kilometar,
+3461,175,area,Победа,Pobeda,
+3462,175,area,Пристанище Бургас,Pristanishte Burgas,
+3463,175,area,Промишлена зона - Лозово,Promishlena zona - Lozovo,
+3464,175,area,Промишлена зона - Север,Promishlena zona - Sever,
+3465,175,area,Промишлена зона - Юг,Promishlena zona - Yug,
+3466,175,area,Рудник,Rudnik,
+3467,175,area,Сарафово,Sarafovo,
+3468,175,area,Свобода,Svoboda,
+3469,175,area,Славейков,Slaveykov,
+3470,175,area,Хоризонт,Horizont,
+3471,175,area,Център,Tsentar,
+3472,175,area,Черно море,Cherno more,
+3473,175,area,в.з.Лозницата,v.z.Loznitsata,
+3474,175,area,в.з.Острица,v.z.Ostritsa,
+3475,175,area,м-ст Бадемите,m-st Bademite,
+3476,175,area,м-ст Върли Бряг,m-st Varli Bryag,
+3477,175,area,м-ст Каменица,m-st Kamenitsa,
+3478,175,area,м-ст Каптажа,m-st Kaptazha,
+3479,175,area,м-ст Капчето,m-st Kapcheto,
+3480,175,area,м-ст Минерални бани,m-st Mineralni bani,
+3481,175,area,м-ст Отманли,m-st Otmanli,
+3482,175,area,м-ст Ченгене Скеле,m-st Chengene Skele,
+3483,382,area,Автогара,Avtogara,
+3484,382,area,Аспарухово,Asparuhovo,
+3485,382,area,Базар Левски,Bazar Levski,
+3486,382,area,Бизнес парк Варна,Biznes park Varna,
+3487,382,area,Бизнес хотел,Biznes hotel,
+3488,382,area,Бриз,Briz,
+3489,382,area,ВИНС-Червен площад,VINS-Cherven ploshtad,
+3490,382,area,Виница,Vinitsa,
+3491,382,area,Владислав Варненчик 1,Vladislav Varnenchik 1,
+3492,382,area,Владислав Варненчик 2,Vladislav Varnenchik 2,
+3493,382,area,Възраждане 1,Vazrazhdane 1,
+3494,382,area,Възраждане 2,Vazrazhdane 2,
+3495,382,area,Възраждане 3,Vazrazhdane 3,
+3496,382,area,Възраждане 4,Vazrazhdane 4,
+3497,382,area,Галата,Galata,
+3498,382,area,Гранд Мол,Grand Mol,
+3499,382,area,Гръцка махала,Gratska mahala,
+3500,382,area,ЖП Гара,ZhP Gara,
+3501,382,area,Завод Дружба,Zavod Druzhba,
+3502,382,area,Западна промишлена зона,Zapadna promishlena zona,
+3503,382,area,Зимно кино Тракия,Zimno kino Trakiya,
+3504,382,area,Изгрев,Izgrev,
+3505,382,area,Кайсиева градина,Kaysieva gradina,
+3506,382,area,Колхозен пазар,Kolhozen pazar,
+3507,382,area,Конфуто,Konfuto,
+3508,382,area,Левски 1,Levski 1,
+3509,382,area,Левски 2,Levski 2,
+3510,382,area,Летище,Letishte,
+3511,382,area,Лятно кино Тракия,Lyatno kino Trakiya,
+3512,382,area,Максуда,Maksuda,
+3513,382,area,Малка Чайка,Malka Chayka,
+3514,382,area,Метро,Metro,
+3515,382,area,Младост 1,Mladost 1,
+3516,382,area,Младост 2,Mladost 2,
+3517,382,area,Окръжна болница-Генерали,Okrazhna bolnitsa-Generali,
+3518,382,area,Операта,Operata,
+3519,382,area,Островна промишлена зона,Ostrovna promishlena zona,
+3520,382,area,Планова промишлена зона,Planova promishlena zona,
+3521,382,area,Победа,Pobeda,
+3522,382,area,Погреби,Pogrebi,
+3523,382,area,Пристанище Варна,Pristanishte Varna,
+3524,382,area,Промишлена зона Тополи,Promishlena zona Topoli,
+3525,382,area,Свети Никола,Sveti Nikola,
+3526,382,area,Северна промишлена зона,Severna promishlena zona,
+3527,382,area,Спортна зала,Sportna zala,
+3528,382,area,Стадион Спартак,Stadion Spartak,
+3529,382,area,Трошево,Troshevo,
+3530,382,area,Фестивален комплекс,Festivalen kompleks,
+3531,382,area,ХЕИ,HEI,
+3532,382,area,Христо Ботев,Hristo Botev,
+3533,382,area,Цветен квартал,Tsveten kvartal,
+3534,382,area,Централна поща,Tsentralna poshta,
+3535,382,area,Център,Tsentar,
+3536,382,area,Чайка,Chayka,
+3537,382,area,Чаталджа,Chataldzha,
+3538,382,area,в.з.Виница - север,v.z.Vinitsa - sever,
+3539,382,area,в.з.Звездица,v.z.Zvezditsa,
+3540,382,area,к.к. Златни пясъци,k.k. Zlatni pyasatsi,
+3541,382,area,к.к. Св.Св. Константин и Елена,k.k. Sv.Sv. Konstantin i Elena,
+3542,382,area,к.к. Слънчев ден,k.k. Slanchev den,
+3543,382,area,к.к. Чайка,k.k. Chayka,
+3544,382,area,м-т Акчелар,m-t Akchelar,
+3545,382,area,м-т Ален мак,m-t Alen mak,
+3546,382,area,м-т Атанас Тарла,m-t Atanas Tarla,
+3547,382,area,м-т Балам Дере,m-t Balam Dere,
+3548,382,area,м-т Боклук Тарла,m-t Bokluk Tarla,
+3549,382,area,м-т Боровец - север,m-t Borovets - sever,
+3550,382,area,м-т Боровец - юг,m-t Borovets - yug,
+3551,382,area,м-т Горна Трака,m-t Gorna Traka,
+3552,382,area,м-т Добрева чешма,m-t Dobreva cheshma,
+3553,382,area,м-т Долна Трака,m-t Dolna Traka,
+3554,382,area,м-т Евксиноград,m-t Evksinograd,
+3555,382,area,м-т Зеленика,m-t Zelenika,
+3556,382,area,м-т Кантара,m-t Kantara,
+3557,382,area,м-т Кочмар,m-t Kochmar,
+3558,382,area,м-т Крушките,m-t Krushkite,
+3559,382,area,м-т Лазур,m-t Lazur,
+3560,382,area,м-т Манастирски рид,m-t Manastirski rid,
+3561,382,area,м-т Ментешето,m-t Mentesheto,
+3562,382,area,м-т Орехчето,m-t Orehcheto,
+3563,382,area,м-т Перчемлията,m-t Perchemliyata,
+3564,382,area,м-т Планова,m-t Planova,
+3565,382,area,м-т Прибой,m-t Priboy,
+3566,382,area,м-т Припек,m-t Pripek,
+3567,382,area,м-т Пчелина,m-t Pchelina,
+3568,382,area,м-т Ракитника,m-t Rakitnika,
+3569,382,area,м-т Салтанат,m-t Saltanat,
+3570,382,area,м-т Сотира,m-t Sotira,
+3571,382,area,м-т Сълзица,m-t Salzitsa,
+3572,382,area,м-т Телевизионна кула,m-t Televizionna kula,
+3573,382,area,м-т Фичоза,m-t Fichoza,
+3574,382,area,м-т Франга Дере,m-t Franga Dere,
+3575,541,area,Акация,Akatsiya,
+3576,541,area,Асенов,Asenov,
+3577,541,area,Бузлуджа,Buzludzha,
+3578,541,area,Варуша,Varusha,
+3579,541,area,Зона Б,Zona B,
+3580,541,area,Картала,Kartala,
+3581,541,area,Колю Фичето,Kolyu Ficheto,
+3582,541,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3583,541,area,Промишлена зона - Юг,Promishlena zona - Yug,
+3584,541,area,Света гора,Sveta gora,
+3585,541,area,Стара част,Stara chast,
+3586,541,area,Централна гара,Tsentralna gara,
+3587,541,area,Център,Tsentar,
+3588,541,area,Чолаковци,Cholakovtsi,
+3589,541,area,м-т Козлуджа,m-t Kozludzha,
+3590,726,area,Акджамия,Akdzhamiya,
+3591,726,area,Александър Стамболийски,Aleksandar Stamboliyski,
+3592,726,area,Баба Тонка,Baba Tonka,
+3593,726,area,Бонония,Bononiya,
+3594,726,area,Васил Левски,Vasil Levski,
+3595,726,area,Вида 1,Vida 1,
+3596,726,area,Възраждане,Vazrazhdane,
+3597,726,area,Гео Милев,Geo Milev,
+3598,726,area,Георги Бенковски,Georgi Benkovski,
+3599,726,area,Калето,Kaleto,
+3600,726,area,Крум Бъчваров,Krum Bachvarov,
+3601,726,area,Кумбаир,Kumbair,
+3602,726,area,Панония,Panoniya,
+3603,726,area,Петко Каравелов,Petko Karavelov,
+3604,726,area,Плиска,Pliska,
+3605,726,area,Промишлена зона,Promishlena zona,
+3606,726,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3607,726,area,Промишлена зона - Север,Promishlena zona - Sever,
+3608,726,area,Промишлена зона - Юг,Promishlena zona - Yug,
+3609,726,area,Строител,Stroitel,
+3610,726,area,Съединение,Saedinenie,
+3611,726,area,Химик,Himik,
+3612,726,area,Христо Ботев,Hristo Botev,
+3613,726,area,Център,Tsentar,
+3614,810,area,Бистрец,Bistrets,
+3615,810,area,Вежен,Vezhen,
+3616,810,area,Дъбника,Dabnika,
+3617,810,area,Квартал 103,Kvartal 103,
+3618,810,area,Квартал 72,Kvartal 72,
+3619,810,area,Кемера - Художник,Kemera - Hudozhnik,
+3620,810,area,Кулата,Kulata,
+3621,810,area,Медковец,Medkovets,
+3622,810,area,Металург,Metalurg,
+3623,810,area,Младост,Mladost,
+3624,810,area,Околчица,Okolchitsa,
+3625,810,area,Подбалканска,Podbalkanska,
+3626,810,area,Промишлена зона,Promishlena zona,
+3627,810,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3628,810,area,Река Лева,Reka Leva,
+3629,810,area,Самуил,Samuil,
+3630,810,area,Сениче,Seniche,
+3631,810,area,Складова база,Skladova baza,
+3632,810,area,Студентски град,Studentski grad,
+3633,810,area,Хранително-вкусова зона,Hranitelno-vkusova zona,
+3634,810,area,Център,Tsentar,
+3635,810,area,м-т Водни градини,m-t Vodni gradini,
+3636,922,area,Беленци,Belentsi,
+3637,922,area,Бичкиня,Bichkinya,
+3638,922,area,Бойката,Boykata,
+3639,922,area,Болта,Bolta,
+3640,922,area,Борово,Borovo,
+3641,922,area,Варчевци,Varchevtsi,
+3642,922,area,Велчевци,Velchevtsi,
+3643,922,area,Войново,Voynovo,
+3644,922,area,Гачевци,Gachevtsi,
+3645,922,area,Горни Бакойци,Gorni Bakoytsi,
+3646,922,area,Долни Бакойци,Dolni Bakoytsi,
+3647,922,area,Дядо Дянко,Dyado Dyanko,
+3648,922,area,Етъра,Etara,
+3649,922,area,Златари,Zlatari,
+3650,922,area,Йовчевци,Yovchevtsi,
+3651,922,area,Киевци,Kievtsi,
+3652,922,area,Кряковци,Kryakovtsi,
+3653,922,area,Лисец,Lisets,
+3654,922,area,Лютаци,Lyutatsi,
+3655,922,area,Младост,Mladost,
+3656,922,area,Недевци,Nedevtsi,
+3657,922,area,Пройновци,Proynovtsi,
+3658,922,area,Промишлена зона,Promishlena zona,
+3659,922,area,Рачевци,Rachevtsi,
+3660,922,area,Русевци,Rusevtsi,
+3661,922,area,Сарани,Sarani,
+3662,922,area,Сирмани,Sirmani,
+3663,922,area,Славовци,Slavovtsi,
+3664,922,area,Тлъчници,Tlachnitsi,
+3665,922,area,Тончевци,Tonchevtsi,
+3666,922,area,Трендафил 1,Trendafil 1,
+3667,922,area,Трендафил 2,Trendafil 2,
+3668,922,area,Търсиите,Tarsiite,
+3669,922,area,Хаджицонев мост,Hadzhitsonev most,
+3670,922,area,Център,Tsentar,
+3671,922,area,Чехлевци,Chehlevtsi,
+3672,922,area,Шенини,Shenini,
+3673,922,area,Ябълка,Yabalka,
+3674,1132,area,Автогара,Avtogara,
+3675,1132,area,Балик,Balik,
+3676,1132,area,Градска болница,Gradska bolnitsa,
+3677,1132,area,Добротица - Албенска,Dobrotitsa - Albenska,
+3678,1132,area,Добротица - Варненска,Dobrotitsa - Varnenska,
+3679,1132,area,Дружба 1,Druzhba 1,
+3680,1132,area,Дружба 2,Druzhba 2,
+3681,1132,area,Дружба 3,Druzhba 3,
+3682,1132,area,Дружба 4,Druzhba 4,
+3683,1132,area,Дунавите,Dunavite,
+3684,1132,area,Енергоразпределение,Energorazpredelenie,
+3685,1132,area,ЖП Гара,ZhP Gara,
+3686,1132,area,Иглика,Iglika,
+3687,1132,area,Йовково,Yovkovo,
+3688,1132,area,Кралска зона,Kralska zona,
+3689,1132,area,Пинета,Pineta,
+3690,1132,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3691,1132,area,Промишлена зона - Север,Promishlena zona - Sever,
+3692,1132,area,Рилци,Riltsi,
+3693,1132,area,Свети Георги,Sveti Georgi,
+3694,1132,area,Строител,Stroitel,
+3695,1132,area,Христо Ботев,Hristo Botev,
+3696,1132,area,Център,Tsentar,
+3697,1132,area,Червената пръст,Chervenata prast,
+3698,1132,area,в.з. Лозята,v.z. Lozyata,
+3699,1132,area,м-т Газибаба,m-t Gazibaba,
+3700,1306,area,Байкал,Baykal,
+3701,1306,area,Боровец,Borovets,
+3702,1306,area,Веселчане,Veselchane,
+3703,1306,area,Възрожденци,Vazrozhdentsi,
+3704,1306,area,Гледка,Gledka,
+3705,1306,area,Горна Гледка,Gorna Gledka,
+3706,1306,area,Прилепци,Prileptsi,
+3707,1306,area,Промишлена зона - А,Promishlena zona - A,
+3708,1306,area,Промишлена зона - Б,Promishlena zona - B,
+3709,1306,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3710,1306,area,Промишлена зона - Юг,Promishlena zona - Yug,
+3711,1306,area,Резбарци,Rezbartsi,
+3712,1306,area,Студен кладенец,Studen kladenets,
+3713,1306,area,Център,Tsentar,
+3714,1432,area,Бузлуджа,Buzludzha,
+3715,1432,area,Бял камък,Byal kamak,
+3716,1432,area,Върташево,Vartashevo,
+3717,1432,area,Герена,Gerena,
+3718,1432,area,Запад,Zapad,
+3719,1432,area,Изток,Iztok,
+3720,1432,area,Ильо войвода,Ilyo voyvoda,
+3721,1432,area,Колуша,Kolusha,
+3722,1432,area,Могилата,Mogilata,
+3723,1432,area,Никола Въжаров,Nikola Vazharov,
+3724,1432,area,Осогово,Osogovo,
+3725,1432,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3726,1432,area,Промишлена зона - Север,Promishlena zona - Sever,
+3727,1432,area,Румена войвода,Rumena voyvoda,
+3728,1432,area,Христо Ботев,Hristo Botev,
+3729,1432,area,Център,Tsentar,
+3730,1432,area,в.з. Север,v.z. Sever,
+3731,1432,area,в.з. Юг,v.z. Yug,
+3732,1550,area,Вароша,Varosha,
+3733,1550,area,Гозница,Goznitsa,
+3734,1550,area,Дикисана,Dikisana,
+3735,1550,area,Дръстене,Drastene,
+3736,1550,area,Здравец,Zdravets,
+3737,1550,area,Младост,Mladost,
+3738,1550,area,Продимчец,Prodimchets,
+3739,1550,area,Промишлена зона,Promishlena zona,
+3740,1550,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3741,1550,area,Промишлена зона - Север,Promishlena zona - Sever,
+3742,1550,area,Център,Tsentar,
+3743,1550,area,Червен бряг,Cherven bryag,
+3744,1550,area,Широк център,Shirok tsentar,
+3745,1550,area,в.з. Бабаковец,v.z. Babakovets,
+3746,1550,area,в.з. Синан тепе,v.z. Sinan tepe,
+3747,1658,area,Жерави,Zheravi,
+3748,1658,area,Жеравица,Zheravitsa,
+3749,1658,area,Идеален център,Idealen tsentar,
+3750,1658,area,Изгрев,Izgrev,
+3751,1658,area,Кошарник,Kosharnik,
+3752,1658,area,Мала Кутловица,Mala Kutlovitsa,
+3753,1658,area,Младост 1,Mladost 1,
+3754,1658,area,Младост 2,Mladost 2,
+3755,1658,area,Огоста,Ogosta,
+3756,1658,area,Парта 1,Parta 1,
+3757,1658,area,Парта 2,Parta 2,
+3758,1658,area,Плиска,Pliska,
+3759,1658,area,Промишлена зона,Promishlena zona,
+3760,1658,area,Пъстрина,Pastrina,
+3761,1658,area,Широк център,Shirok tsentar,
+3762,1658,area,в.з. Запад,v.z. Zapad,
+3763,1658,area,в.з. Юг,v.z. Yug,
+3764,1658,area,м-т Палековото,m-t Palekovoto,
+3765,1742,area,Запад,Zapad,
+3766,1742,area,Идеален център,Idealen tsentar,
+3767,1742,area,Изток,Iztok,
+3768,1742,area,Младост,Mladost,
+3769,1742,area,Моста на Лютата,Mosta na Lyutata,
+3770,1742,area,Окръжна болница,Okrazhna bolnitsa,
+3771,1742,area,Промишлена зона,Promishlena zona,
+3772,1742,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3773,1742,area,Руски,Ruski,
+3774,1742,area,Ставропол,Stavropol,
+3775,1742,area,Устрем,Ustrem,
+3776,1742,area,Център,Tsentar,
+3777,1742,area,Ябълките,Yabalkite,
+3778,1874,area,Байкушева махала,Baykusheva mahala,
+3779,1874,area,Бела вода,Bela voda,
+3780,1874,area,Варош,Varosh,
+3781,1874,area,Васил Левски,Vasil Levski,
+3782,1874,area,Димова махала,Dimova mahala,
+3783,1874,area,Драгановец,Draganovets,
+3784,1874,area,Изток,Iztok,
+3785,1874,area,Калкас,Kalkas,
+3786,1874,area,Каменина,Kamenina,
+3787,1874,area,Клепало,Klepalo,
+3788,1874,area,Кошаревска махала,Kosharevska mahala,
+3789,1874,area,Кристал,Kristal,
+3790,1874,area,Куциян,Kutsiyan,
+3791,1874,area,Ладовица,Ladovitsa,
+3792,1874,area,Могиличе,Mogiliche,
+3793,1874,area,Монте Карло,Monte Karlo,
+3794,1874,area,Мошино,Moshino,
+3795,1874,area,Нов Драгановец,Nov Draganovets,
+3796,1874,area,Пригаров район,Prigarov rayon,
+3797,1874,area,Промишлена зона,Promishlena zona,
+3798,1874,area,Проучване,Prouchvane,
+3799,1874,area,Радина чешма,Radina cheshma,
+3800,1874,area,Ралица,Ralitsa,
+3801,1874,area,Рено,Reno,
+3802,1874,area,Рудничар,Rudnichar,
+3803,1874,area,Селото,Seloto,
+3804,1874,area,Стара Тева,Stara Teva,
+3805,1874,area,Табана,Tabana,
+3806,1874,area,Твърди ливади,Tvardi livadi,
+3807,1874,area,Тева,Teva,
+3808,1874,area,Христо Ботев,Hristo Botev,
+3809,1874,area,Христо Смирненски,Hristo Smirnenski,
+3810,1874,area,Хумни дол,Humni dol,
+3811,1874,area,Център,Tsentar,
+3812,1874,area,Църква,Tsarkva,
+3813,2001,area,9-ти квартал,9-ti kvartal,
+3814,2001,area,Дружба 1,Druzhba 1,
+3815,2001,area,Дружба 2,Druzhba 2,
+3816,2001,area,Дружба 3,Druzhba 3,
+3817,2001,area,Дружба 4,Druzhba 4,
+3818,2001,area,Идеален център,Idealen tsentar,
+3819,2001,area,Индустриална зона,Industrialna zona,
+3820,2001,area,Индустриална зона - Запад,Industrialna zona - Zapad,
+3821,2001,area,Индустриална зона - Изток,Industrialna zona - Iztok,
+3822,2001,area,Кайлъка,Kaylaka,
+3823,2001,area,Мара Денчева,Mara Dencheva,
+3824,2001,area,Сторгозия,Storgoziya,
+3825,2001,area,Широк център,Shirok tsentar,
+3826,2001,area,м-т Кожухарска чешма,m-t Kozhuharska cheshma,
+3827,2001,area,м-т Мъртва долина,m-t Martva dolina,
+3828,2001,area,м-т Орлето,m-t Orleto,
+3829,2001,area,м-т Плочата,m-t Plochata,
+3830,2001,area,м-т Стражата,m-t Strazhata,
+3831,2172,area,Асеновградско шосе,Asenovgradsko shose,
+3832,2172,area,Беломорски,Belomorski,
+3833,2172,area,Брезовско шосе,Brezovsko shose,
+3834,2172,area,Въстанически,Vastanicheski,
+3835,2172,area,Гагарин,Gagarin,
+3836,2172,area,Гладно поле,Gladno pole,
+3837,2172,area,Голямоконарско шосе,Golyamokonarsko shose,
+3838,2172,area,Гуджуците,Gudzhutsite,
+3839,2172,area,Западен,Zapaden,
+3840,2172,area,Западна дъга,Zapadna daga,
+3841,2172,area,Захарна фабрика,Zaharna fabrika,
+3842,2172,area,Изгрев,Izgrev,
+3843,2172,area,Източна дъга,Iztochna daga,
+3844,2172,area,Индустриална зона - Изгрев,Industrialna zona - Izgrev,
+3845,2172,area,Индустриална зона - Изток,Industrialna zona - Iztok,
+3846,2172,area,Индустриална зона - Марица,Industrialna zona - Maritsa,
+3847,2172,area,Индустриална зона - Север,Industrialna zona - Sever,
+3848,2172,area,Индустриална зона - Тракия,Industrialna zona - Trakiya,
+3849,2172,area,Индустриална зона - Юг,Industrialna zona - Yug,
+3850,2172,area,Каменица 1,Kamenitsa 1,
+3851,2172,area,Каменица 2,Kamenitsa 2,
+3852,2172,area,Капана,Kapana,
+3853,2172,area,Карловско шосе,Karlovsko shose,
+3854,2172,area,Коматево,Komatevo,
+3855,2172,area,Коматевски възел,Komatevski vazel,
+3856,2172,area,Коматевско шосе,Komatevsko shose,
+3857,2172,area,Кукленско шосе,Kuklensko shose,
+3858,2172,area,Кършияка,Karshiyaka,
+3859,2172,area,Кючук Париж,Kyuchuk Parizh,
+3860,2172,area,Мараша,Marasha,
+3861,2172,area,Младежки Хълм,Mladezhki Halm,
+3862,2172,area,Остромила,Ostromila,
+3863,2172,area,Отдих и култура,Otdih i kultura,
+3864,2172,area,Пазарджишко шосе,Pazardzhishko shose,
+3865,2172,area,Пещерско шосе,Peshtersko shose,
+3866,2172,area,Прослав,Proslav,
+3867,2172,area,Рогошко шосе,Rogoshko shose,
+3868,2172,area,Старият град,Stariyat grad,
+3869,2172,area,Сточна гара,Stochna gara,
+3870,2172,area,Съдийски,Sadiyski,
+3871,2172,area,Терзиите,Terziite,
+3872,2172,area,Тракия,Trakiya,
+3873,2172,area,Филипово,Filipovo,
+3874,2172,area,Христо Смирненски,Hristo Smirnenski,
+3875,2172,area,Цариградско шосе,Tsarigradsko shose,
+3876,2172,area,Централна гара,Tsentralna gara,
+3877,2172,area,Център,Tsentar,
+3878,2172,area,Южен,Yuzhen,
+3879,2172,area,Южна дъга,Yuzhna daga,
+3880,2274,area,Абритус,Abritus,
+3881,2274,area,Бели Лом,Beli Lom,
+3882,2274,area,Варош,Varosh,
+3883,2274,area,Васил Левски,Vasil Levski,
+3884,2274,area,Възраждане,Vazrazhdane,
+3885,2274,area,Житница,Zhitnitsa,
+3886,2274,area,Лудогорие,Ludogorie,
+3887,2274,area,Орел,Orel,
+3888,2274,area,Освобождение,Osvobozhdenie,
+3889,2274,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3890,2274,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3891,2274,area,Стефан Караджа,Stefan Karadzha,
+3892,2274,area,Център,Tsentar,
+3893,2348,area,Алеи Възраждане,Alei Vazrazhdane,
+3894,2348,area,Басарбово,Basarbovo,
+3895,2348,area,Веждата,Vezhdata,
+3896,2348,area,Възраждане,Vazrazhdane,
+3897,2348,area,ДЗС,DZS,
+3898,2348,area,Долапите,Dolapite,
+3899,2348,area,Дружба 1,Druzhba 1,
+3900,2348,area,Дружба 2,Druzhba 2,
+3901,2348,area,Дружба 3,Druzhba 3,
+3902,2348,area,Захарна фабрика,Zaharna fabrika,
+3903,2348,area,Здравец,Zdravets,
+3904,2348,area,Здравец Изток,Zdravets Iztok,
+3905,2348,area,Здравец Север 1,Zdravets Sever 1,
+3906,2348,area,Здравец Север 2,Zdravets Sever 2,
+3907,2348,area,КТМ,KTM,
+3908,2348,area,Мальовица,Malyovitsa,
+3909,2348,area,Мидия Енос,Midiya Enos,
+3910,2348,area,Нова промишлена зона,Nova promishlena zona,
+3911,2348,area,Новата махала,Novata mahala,
+3912,2348,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3913,2348,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+3914,2348,area,Родина 1,Rodina 1,
+3915,2348,area,Родина 2,Rodina 2,
+3916,2348,area,Родина 3,Rodina 3,
+3917,2348,area,Родина 4,Rodina 4,
+3918,2348,area,Сарая,Saraya,
+3919,2348,area,Средна кула,Sredna kula,
+3920,2348,area,Тракцията,Traktsiyata,
+3921,2348,area,Търговия на едро,Targoviya na edro,
+3922,2348,area,Хъшове,Hashove,
+3923,2348,area,Цветница,Tsvetnitsa,
+3924,2348,area,Централен кооп. пазар,Tsentralen koop. pazar,
+3925,2348,area,Централен южен район,Tsentralen yuzhen rayon,
+3926,2348,area,Център,Tsentar,
+3927,2348,area,Чародейка - Север,Charodeyka - Sever,
+3928,2348,area,Чародейка - Юг,Charodeyka - Yug,
+3929,2348,area,Широк център,Shirok tsentar,
+3930,2348,area,Ялта,Yalta,
+3931,2348,area,в.з. 9-ти километър,v.z. 9-ti kilometar,
+3932,2348,area,в.з. Астарджийка,v.z. Astardzhiyka,
+3933,2348,area,в.з. Д. Басарбовски,v.z. D. Basarbovski,
+3934,2348,area,в.з. Касева Чешма,v.z. Kaseva Cheshma,
+3935,2348,area,в.з. Кръста,v.z. Krasta,
+3936,2348,area,в.з. Кулата,v.z. Kulata,
+3937,2348,area,в.з. Левента,v.z. Leventa,
+3938,2348,area,в.з. Липака,v.z. Lipaka,
+3939,2348,area,в.з. Образцов Чифлик,v.z. Obraztsov Chiflik,
+3940,2348,area,в.з. Русофили,v.z. Rusofili,
+3941,2348,area,в.з. Средна кула,v.z. Sredna kula,
+3942,2399,area,Запад,Zapad,
+3943,2399,area,Изток,Iztok,
+3944,2399,area,Малчика,Malchika,
+3945,2399,area,Мджиди Табия,Mdzhidi Tabiya,
+3946,2399,area,Митница,Mitnitsa,
+3947,2399,area,Промишлена зона - Запад,Promishlena zona - Zapad,
+3948,2399,area,Промишлена зона - Юг,Promishlena zona - Yug,
+3949,2399,area,Римска гробница,Rimska grobnitsa,
+3950,2399,area,Север,Sever,
+3951,2399,area,Център,Tsentar,
+3952,2399,area,Юг,Yug,
+3953,2399,area,в.з. Юг,v.z. Yug,
+3954,2459,area,Българка,Balgarka,
+3955,2459,area,Даме Груев,Dame Gruev,
+3956,2459,area,Дружба,Druzhba,
+3957,2459,area,Клуцохор,Klutsohor,
+3958,2459,area,Колю Фичето,Kolyu Ficheto,
+3959,2459,area,Комлука,Komluka,
+3960,2459,area,Младост,Mladost,
+3961,2459,area,Ново село,Novo selo,
+3962,2459,area,Промишлена зона,Promishlena zona,
+3963,2459,area,Република,Republika,
+3964,2459,area,Речица,Rechitsa,
+3965,2459,area,Руски,Ruski,
+3966,2459,area,Сини камъни,Sini kamani,
+3967,2459,area,Стоян Заимов,Stoyan Zaimov,
+3968,2459,area,Център,Tsentar,
+3969,2459,area,в.з. Сливен,v.z. Sliven,
+3970,2544,area,Горно Влахово,Gorno Vlahovo,
+3971,2544,area,Горно Райково,Gorno Raykovo,
+3972,2544,area,Долно Райково,Dolno Raykovo,
+3973,2544,area,Езерово,Ezerovo,
+3974,2544,area,Каптажа,Kaptazha,
+3975,2544,area,Невястата,Nevyastata,
+3976,2544,area,Нов център,Nov tsentar,
+3977,2544,area,Петровица,Petrovitsa,
+3978,2544,area,Пром. зона - Трандевица,Prom. zona - Trandevitsa,
+3979,2544,area,Промишлена зона - Север,Promishlena zona - Sever,
+3980,2544,area,Средок,Sredok,
+3981,2544,area,Станевска махала,Stanevska mahala,
+3982,2544,area,Стар център,Star tsentar,
+3983,2544,area,Устово,Ustovo,
+3984,2544,area,в.з. Смолян,v.z. Smolyan,
+3985,2806,area,7-ми 11-ти километър,7-mi 11-ti kilometar,
+3986,2806,area,Абдовица,Abdovitsa,
+3987,2806,area,Банишора,Banishora,
+3988,2806,area,Белите брези,Belite brezi,
+3989,2806,area,Бенковски,Benkovski,
+3990,2806,area,Борово,Borovo,
+3991,2806,area,Ботунец,Botunets,
+3992,2806,area,Ботунец 2,Botunets 2,
+3993,2806,area,Бояна,Boyana,
+3994,2806,area,Бъкстон,Bakston,
+3995,2806,area,Витоша,Vitosha,
+3996,2806,area,Военна рампа,Voenna rampa,
+3997,2806,area,Враждебна,Vrazhdebna,
+3998,2806,area,Връбница 1,Vrabnitsa 1,
+3999,2806,area,Връбница 2,Vrabnitsa 2,
+4000,2806,area,Гевгелийски,Gevgeliyski,
+4001,2806,area,Гео Милев,Geo Milev,
+4002,2806,area,Горна баня,Gorna banya,
+4003,2806,area,Горубляне,Gorublyane,
+4004,2806,area,Гоце Делчев,Gotse Delchev,
+4005,2806,area,Градина,Gradina,
+4006,2806,area,Дианабад,Dianabad,
+4007,2806,area,Димитър Миленков,Dimitar Milenkov,
+4008,2806,area,Докторски паметник,Doktorski pametnik,
+4009,2806,area,Драгалевци,Dragalevtsi,
+4010,2806,area,Дружба 1,Druzhba 1,
+4011,2806,area,Дружба 2,Druzhba 2,
+4012,2806,area,Дървеница,Darvenitsa,
+4013,2806,area,Експериментален,Eksperimentalen,
+4014,2806,area,Западен парк,Zapaden park,
+4015,2806,area,Захарна фабрика,Zaharna fabrika,
+4016,2806,area,Зона Б-18,Zona B-18,
+4017,2806,area,Зона Б-19,Zona B-19,
+4018,2806,area,Зона Б-5,Zona B-5,
+4019,2806,area,Зона Б-5-3,Zona B-5-3,
+4020,2806,area,Иван Вазов,Ivan Vazov,
+4021,2806,area,Изгрев,Izgrev,
+4022,2806,area,Изток,Iztok,
+4023,2806,area,Илинден,Ilinden,
+4024,2806,area,Илиянци,Iliyantsi,
+4025,2806,area,Карпузица,Karpuzitsa,
+4026,2806,area,Княжево,Knyazhevo,
+4027,2806,area,Красна поляна 1,Krasna polyana 1,
+4028,2806,area,Красна поляна 2,Krasna polyana 2,
+4029,2806,area,Красна поляна 3,Krasna polyana 3,
+4030,2806,area,Красно село,Krasno selo,
+4031,2806,area,Кремиковци,Kremikovtsi,
+4032,2806,area,Кръстова вада,Krastova vada,
+4033,2806,area,Лагера,Lagera,
+4034,2806,area,Левски,Levski,
+4035,2806,area,Левски В,Levski V,
+4036,2806,area,Левски Г,Levski G,
+4037,2806,area,Летище София,Letishte Sofiya,
+4038,2806,area,Лозенец,Lozenets,
+4039,2806,area,Люлин - център,Lyulin - tsentar,
+4040,2806,area,Люлин 1,Lyulin 1,
+4041,2806,area,Люлин 10,Lyulin 10,
+4042,2806,area,Люлин 2,Lyulin 2,
+4043,2806,area,Люлин 3,Lyulin 3,
+4044,2806,area,Люлин 4,Lyulin 4,
+4045,2806,area,Люлин 5,Lyulin 5,
+4046,2806,area,Люлин 6,Lyulin 6,
+4047,2806,area,Люлин 7,Lyulin 7,
+4048,2806,area,Люлин 8,Lyulin 8,
+4049,2806,area,Люлин 9,Lyulin 9,
+4050,2806,area,Малашевци,Malashevtsi,
+4051,2806,area,Малинова долина,Malinova dolina,
+4052,2806,area,Манастирски ливади,Manastirski livadi,
+4053,2806,area,Медицинска академия,Meditsinska akademiya,
+4054,2806,area,Младост 1,Mladost 1,
+4055,2806,area,Младост 1А,Mladost 1A,
+4056,2806,area,Младост 2,Mladost 2,
+4057,2806,area,Младост 3,Mladost 3,
+4058,2806,area,Младост 4,Mladost 4,
+4059,2806,area,Модерно предградие,Moderno predgradie,
+4060,2806,area,Мусагеница,Musagenitsa,
+4061,2806,area,НПЗ Изток,NPZ Iztok,
+4062,2806,area,НПЗ Искър,NPZ Iskar,
+4063,2806,area,НПЗ Средец,NPZ Sredets,
+4064,2806,area,НПЗ Хаджи Димитър,NPZ Hadzhi Dimitar,
+4065,2806,area,Надежда 1,Nadezhda 1,
+4066,2806,area,Надежда 2,Nadezhda 2,
+4067,2806,area,Надежда 3,Nadezhda 3,
+4068,2806,area,Надежда 4,Nadezhda 4,
+4069,2806,area,Обеля,Obelya,
+4070,2806,area,Обеля 1,Obelya 1,
+4071,2806,area,Обеля 2,Obelya 2,
+4072,2806,area,Оборище,Oborishte,
+4073,2806,area,Овча купел,Ovcha kupel,
+4074,2806,area,Овча купел 1,Ovcha kupel 1,
+4075,2806,area,Овча купел 2,Ovcha kupel 2,
+4076,2806,area,Орландовци,Orlandovtsi,
+4077,2806,area,ПЗ Илиянци,PZ Iliyantsi,
+4078,2806,area,ПЗ Хладилника,PZ Hladilnika,
+4079,2806,area,Павлово,Pavlovo,
+4080,2806,area,Подуяне,Poduyane,
+4081,2806,area,Полигона,Poligona,
+4082,2806,area,Разсадника,Razsadnika,
+4083,2806,area,Редута,Reduta,
+4084,2806,area,Република,Republika,
+4085,2806,area,Република 2,Republika 2,
+4086,2806,area,СПЗ Модерно предградие,SPZ Moderno predgradie,
+4087,2806,area,СПЗ Слатина,SPZ Slatina,
+4088,2806,area,Света Троица,Sveta Troitsa,
+4089,2806,area,Свобода,Svoboda,
+4090,2806,area,Сердика,Serdika,
+4091,2806,area,Сеславци,Seslavtsi,
+4092,2806,area,Симеоново,Simeonovo,
+4093,2806,area,Славия,Slaviya,
+4094,2806,area,Слатина,Slatina,
+4095,2806,area,Стрелбище,Strelbishte,
+4096,2806,area,Студентски град,Studentski grad,
+4097,2806,area,Сухата река,Suhata reka,
+4098,2806,area,Суходол,Suhodol,
+4099,2806,area,Толстой,Tolstoy,
+4100,2806,area,Требич,Trebich,
+4101,2806,area,Триъгълника,Triagalnika,
+4102,2806,area,Факултета,Fakulteta,
+4103,2806,area,Филиповци,Filipovtsi,
+4104,2806,area,Фондови жилища,Fondovi zhilishta,
+4105,2806,area,Хаджи Димитър,Hadzhi Dimitar,
+4106,2806,area,Хиподрума,Hipodruma,
+4107,2806,area,Хладилника,Hladilnika,
+4108,2806,area,Христо Ботев,Hristo Botev,
+4109,2806,area,Център,Tsentar,
+4110,2806,area,Челопечене,Chelopechene,
+4111,2806,area,Яворов,Yavorov,
+4112,2806,area,в.з.Американски колеж,v.z.Amerikanski kolezh,
+4113,2806,area,в.з.Беловодски път,v.z.Belovodski pat,
+4114,2806,area,в.з.Бояна,v.z.Boyana,
+4115,2806,area,в.з.Бункера,v.z.Bunkera,
+4116,2806,area,в.з.Врана - Герман,v.z.Vrana - German,
+4117,2806,area,в.з.Врана - Лозен,v.z.Vrana - Lozen,
+4118,2806,area,в.з.Горна баня,v.z.Gorna banya,
+4119,2806,area,в.з.Килиите,v.z.Kiliite,
+4120,2806,area,в.з.Киноцентъра,v.z.Kinotsentara,
+4121,2806,area,в.з.Киноцентъра 3 част,v.z.Kinotsentara 3 chast,
+4122,2806,area,в.з.Люлин,v.z.Lyulin,
+4123,2806,area,в.з.Малинова долина,v.z.Malinova dolina,
+4124,2806,area,в.з.Малинова долина - Герена,v.z.Malinova dolina - Gerena,
+4125,2806,area,в.з.Симеоново - Драгалевци,v.z.Simeonovo - Dragalevtsi,
+4126,2806,area,в.з.Черния кос,v.z.Cherniya kos,
+4127,2806,area,ж.гр.Зоопарк,zh.gr.Zoopark,
+4128,2806,area,ж.гр.Южен парк,zh.gr.Yuzhen park,
+4129,2806,area,м-т Барите,m-t Barite,
+4130,2806,area,м-т Гърдова глава,m-t Gardova glava,
+4131,2806,area,м-т Детски град,m-t Detski grad,
+4132,2806,area,м-т Камбаните,m-t Kambanite,
+4133,2806,area,м-т Киноцентъра,m-t Kinotsentara,
+4134,2806,area,м-т Мала кория,m-t Mala koriya,
+4135,2806,area,м-т Подлозище,m-t Podlozishte,
+4136,2806,area,м-т Щъркелово гнездо,m-t Shtarkelovo gnezdo,
+4137,2806,area,м-т яз. Искър,m-t yaz. Iskar,
+4138,2989,area,Аязмото,Ayazmoto,
+4139,2989,area,Била,Bila,
+4140,2989,area,Дъбрава,Dabrava,
+4141,2989,area,Железник - изток,Zheleznik - iztok,
+4142,2989,area,Железник - център,Zheleznik - tsentar,
+4143,2989,area,Загорка,Zagorka,
+4144,2989,area,Зора,Zora,
+4145,2989,area,Индустриална зона - запад,Industrialna zona - zapad,
+4146,2989,area,Индустриална зона - изток,Industrialna zona - iztok,
+4147,2989,area,Казански,Kazanski,
+4148,2989,area,Казански - изток,Kazanski - iztok,
+4149,2989,area,Кольо Ганчев,Kolyo Ganchev,
+4150,2989,area,Лозенец,Lozenets,
+4151,2989,area,МБАЛ Иван Рилски,MBAL Ivan Rilski,
+4152,2989,area,Македонски,Makedonski,
+4153,2989,area,Метро,Metro,
+4154,2989,area,Никола Петков,Nikola Petkov,
+4155,2989,area,ОРБ,ORB,
+4156,2989,area,Операта,Operata,
+4157,2989,area,Опълченски,Opalchenski,
+4158,2989,area,Ремиза,Remiza,
+4159,2989,area,Самара 1,Samara 1,
+4160,2989,area,Самара 2,Samara 2,
+4161,2989,area,Самара 3,Samara 3,
+4162,2989,area,Студентско градче,Studentsko gradche,
+4163,2989,area,Три чучура - север,Tri chuchura - sever,
+4164,2989,area,Три чучура - център,Tri chuchura - tsentar,
+4165,2989,area,Три чучура - юг,Tri chuchura - yug,
+4166,2989,area,Център,Tsentar,
+4167,2989,area,м-т Беш Бунар,m-t Besh Bunar,
+4168,2989,area,м-т Голеш,m-t Golesh,
+4169,3105,area,Боровец,Borovets,
+4170,3105,area,Бряг,Bryag,
+4171,3105,area,Вароша,Varosha,
+4172,3105,area,Вилна зона,Vilna zona,
+4173,3105,area,Въбел,Vabel,
+4174,3105,area,Запад 1,Zapad 1,
+4175,3105,area,Запад 2,Zapad 2,
+4176,3105,area,Запад 3,Zapad 3,
+4177,3105,area,Изток 1,Iztok 1,
+4178,3105,area,Малчо Малчев,Malcho Malchev,
+4179,3105,area,Промишлена зона,Promishlena zona,
+4180,3105,area,Център,Tsentar,
+4181,3238,area,Бадема,Badema,
+4182,3238,area,Болярово,Bolyarovo,
+4183,3238,area,Воеводски,Voevodski,
+4184,3238,area,Възраждане,Vazrazhdane,
+4185,3238,area,Дружба 1,Druzhba 1,
+4186,3238,area,Каменни,Kamenni,
+4187,3238,area,Куба,Kuba,
+4188,3238,area,Любен Каравелов,Lyuben Karavelov,
+4189,3238,area,Македонски,Makedonski,
+4190,3238,area,Младежки хълм,Mladezhki halm,
+4191,3238,area,Овчарски,Ovcharski,
+4192,3238,area,Орфей,Orfey,
+4193,3238,area,Поройни,Poroyni,
+4194,3238,area,Промишлена зона - Изток,Promishlena zona - Iztok,
+4195,3238,area,Промишлена зона - Север,Promishlena zona - Sever,
+4196,3238,area,Промишлена зона - Юг,Promishlena zona - Yug,
+4197,3238,area,Република,Republika,
+4198,3238,area,Тракийски,Trakiyski,
+4199,3238,area,Училищни,Uchilishtni,
+4200,3238,area,Хисаря,Hisarya,
+4201,3238,area,Център,Tsentar,
+4202,3238,area,Червена стена,Chervena stena,
+4203,3238,area,в.з. Хасково,v.z. Haskovo,
+4204,3342,area,2-ри корпус,2-ri korpus,
+4205,3342,area,5-ти полк,5-ti polk,
+4206,3342,area,Басейна,Baseyna,
+4207,3342,area,Болницата,Bolnitsata,
+4208,3342,area,Боян Българанов 1,Boyan Balgaranov 1,
+4209,3342,area,Боян Българанов 2,Boyan Balgaranov 2,
+4210,3342,area,Бялата пръст,Byalata prast,
+4211,3342,area,Военно училище,Voenno uchilishte,
+4212,3342,area,Гривица,Grivitsa,
+4213,3342,area,Дивдядово,Divdyadovo,
+4214,3342,area,Дивизионна болница,Divizionna bolnitsa,
+4215,3342,area,Добруджански,Dobrudzhanski,
+4216,3342,area,Еверест,Everest,
+4217,3342,area,Куршун чешма,Kurshun cheshma,
+4218,3342,area,Макак,Makak,
+4219,3342,area,Математическа гимназия,Matematicheska gimnaziya,
+4220,3342,area,Мътница,Matnitsa,
+4221,3342,area,Пазара,Pazara,
+4222,3342,area,Пожарната,Pozharnata,
+4223,3342,area,Промишлена зона,Promishlena zona,
+4224,3342,area,Томбул джамия,Tombul dzhamiya,
+4225,3342,area,Топхане,Tophane,
+4226,3342,area,Тракия,Trakiya,
+4227,3342,area,Херсон,Herson,
+4228,3342,area,Център,Tsentar,
+4229,3342,area,в.з. Смесе,v.z. Smese,
+4230,3342,area,м-т Под Манастира,m-t Pod Manastira,
+4231,3342,area,м-т Сакарка,m-t Sakarka,
+4232,3342,area,м-т Чашка,m-t Chashka,
+4233,3426,area,Аврен,Avren,
+4234,3426,area,Боровец,Borovets,
+4235,3426,area,Васил Левски,Vasil Levski,
+4236,3426,area,Възраждане,Vazrazhdane,
+4237,3426,area,Генерал Заимов,General Zaimov,
+4238,3426,area,Георги Бенковски,Georgi Benkovski,
+4239,3426,area,Граф Игнатиев,Graf Ignatiev,
+4240,3426,area,Д-р Дончев,D-r Donchev,
+4241,3426,area,Диана,Diana,
+4242,3426,area,Златен рог,Zlaten rog,
+4243,3426,area,Зорница,Zornitsa,
+4244,3426,area,Изток,Iztok,
+4245,3426,area,Каргон,Kargon,
+4246,3426,area,Клокотница,Klokotnitsa,
+4247,3426,area,Мототехника,Mototehnika,
+4248,3426,area,ОУ П. Р. Славейков,OU P. R. Slaveykov,
+4249,3426,area,Промишлена зона,Promishlena zona,
+4250,3426,area,Райна Княгиня,Rayna Knyaginya,
+4251,3426,area,Хале,Hale,
+4252,3426,area,Христо Ботев,Hristo Botev,
+4253,3426,area,Център,Tsentar,

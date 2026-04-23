@@ -1,0 +1,47 @@
+﻿feature_id,name_bg,name_en
+1,Асансьор,elevator
+2,Видео наблюдение,video surveillance
+3,Контрол на достъпа,access control
+4,Охрана,security
+5,Автоматична врата,automatic gate
+6,СОТ,alarm system
+7,В затворен комплекс,gated complex
+8,С паркинг,parking available
+9,С паркомясто,with parking space
+10,Подземен,underground parking
+11,С гараж,with garage
+12,Обзаведен,furnished
+13,Необзаведен,unfurnished
+14,Саниран,insulated/renovated
+15,За ремонт,needs renovation
+16,Лукс,luxury
+17,Отопляем,heated
+18,Климатик,air conditioning
+19,Интернет връзка,internet connection
+20,Окабеляване,wiring
+21,Ток,electricity
+22,До ток,electricity nearby
+23,Вода,water
+24,До вода,water nearby
+25,Канализация,sewer connection
+26,Осветен,well-lit
+27,Отделен електромер,separate electricity meter
+28,Ел. зарядна станция,EV charging station
+29,Поливност,irrigation
+30,За жил.строителство,residential zoning
+31,За пром.строителство,industrial zoning
+32,Земеделска земя,agricultural land
+33,До регулация,near zoning boundary
+34,До път,near road
+35,Виза,planning permit
+36,Бартер,barter
+37,Лизинг,leasing available
+38,Ипотекиран,mortgaged
+39,Обезщетение,compensation deal
+40,Възможност за дан. кредит,VAT reclaimable
+41,С действащ бизнес,operating business included
+42,В строеж,under construction
+43,С дом. любимци,pets allowed
+44,Почистване,cleaning service
+45,С преход,walk-through rooms
+46,Канал за ремонт,inspection pit
